@@ -15,6 +15,41 @@ _Sinaloa_
 El Rey Zambada
 http://noticias.univision.com/mexico/noticias/article/2008-10-22/jesus-147el-rey-zambada148-fue
 
+Chino Antrax
+Komandante Antrax (el chino) Enigma Norteña 2010 Corrido Enfermo Antrax 
+http://www.youtube.com/watch?v=67u7q2qKw5A&feature=related
+
+El Equipo Ejecutivo Los Antrax - Grupo Rehen NUEVO CORRIDO 
+http://www.youtube.com/watch?v=dFnssUIyAPY&feature=related(2010) 
+
+el remmy valenzuela el cartel de las traiciones 
+http://www.youtube.com/watch?v=DLBdH9tATtQ
+
+Respeto y Apoyo (Chapo,r5,m100) - Traviezoz Y Martin Castillo 
+http://www.youtube.com/watch?v=gWtNCxYddMo
+
+VENGANDO A LOS PLEBES 2011 (CARTEL DE SINALOA) 
+http://www.youtube.com/watch?v=jaUjkgOw7rs&feature=related
+
+Los 3 Mandos (MP, M1, 5-7)
+http://www.youtube.com/watch?v=_WhVc-w-Oh4&feature=related
+
+2011 Los Mayitos De Sinaloa - Yo Soy Joaquin
+2011 Los Mayitos De Sinaloa - Yo Soy Joaquin
+
+Remmy Valenzuela-Tregua del Mayo Zambada y Los Beltran'2010 
+http://www.youtube.com/watch?v=fkKbei_dtz8&feature=related
+
+R5
+EL MAYO Y EL CHAPO-MARTIN CASTILLO ESTRENO 2010 
+http://www.youtube.com/watch?v=zaYEgUNQg3c&feature=related
+
+LOS ANTRAX 
+http://www.youtube.com/watch?v=YP33kl8Z9gA&feature=related
+
+La Doña
+http://www.larednoticias.com/chihuahua/noticias.cfm?n=49789
+
 _Zetas_
 SSP Detiene a Flavio Méndez Santiago, alias "El Amarillo" 
 http://www.youtube.com/watch?v=CDCVh7OqDlg&feature=channel
@@ -25,4 +60,8 @@ http://www.youtube.com/watch?v=LgoZ4EMihjs&feature=channel
 
 Detienen a sucesores de Eduardo García Simental, alias El Teo
 http://www.youtube.com/watch?v=AWxu4COo1qs&feature=channel
+
+_Adan Salazar_
+Gente De Salazar "Gente Nueva"
+http://www.youtube.com/watch?v=zOJEmYIiTwc
 
