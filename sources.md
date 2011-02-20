@@ -15,6 +15,9 @@ _Sinaloa_
 El Rey Zambada
 http://noticias.univision.com/mexico/noticias/article/2008-10-22/jesus-147el-rey-zambada148-fue
 
+CARTELES UNIDOS - MOVIMIENTO ALTERADO
+http://www.youtube.com/watch?v=YM4G3jMcXcM&feature=youtu.be
+
 Chino Antrax
 Komandante Antrax (el chino) Enigma Norteña 2010 Corrido Enfermo Antrax 
 http://www.youtube.com/watch?v=67u7q2qKw5A&feature=related
@@ -43,6 +46,10 @@ http://www.youtube.com/watch?v=fkKbei_dtz8&feature=related
 R5
 EL MAYO Y EL CHAPO-MARTIN CASTILLO ESTRENO 2010 
 http://www.youtube.com/watch?v=zaYEgUNQg3c&feature=related
+
+Macho Prieto
+Voz De Mando - Mente En Blanco
+http://www.youtube.com/watch?v=xQcAdoAjkQ0&feature=player_embedded
 
 LOS ANTRAX 
 http://www.youtube.com/watch?v=YP33kl8Z9gA&feature=related

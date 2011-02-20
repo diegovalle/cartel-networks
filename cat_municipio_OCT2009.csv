@@ -1,0 +1,2457 @@
+CVE_ENT,NOM_ENT,NOM_ABR,CVE_MUN,NOM_MUN,SIGLAS_MUN,NOMUNABR27,CVE_CAB,NOM_CAB
+01,Aguascalientes,Ags.,001,Aguascalientes,AGES,Aguascalientes,0001,Aguascalientes
+01,Aguascalientes,Ags.,002,Asientos,ASOS,Asientos,0001,Asientos
+01,Aguascalientes,Ags.,003,Calvillo,CALO,Calvillo,0001,Calvillo
+01,Aguascalientes,Ags.,004,Cosío,COIO,Cosío,0001,Cosío
+01,Aguascalientes,Ags.,005,Jesús María,JEMA,Jesús María,0001,Jesús María
+01,Aguascalientes,Ags.,006,Pabellón de Arteaga,PARA,Pabellón de Arteaga,0001,Pabellón de Arteaga
+01,Aguascalientes,Ags.,007,Rincón de Romos,RIRO,Rincón de Romos,0001,Rincón de Romos
+01,Aguascalientes,Ags.,008,San José de Gracia,SAJG,San José de Gracia,0001,San José de Gracia
+01,Aguascalientes,Ags.,009,Tepezalá,TELA,Tepezalá,0001,Tepezalá
+01,Aguascalientes,Ags.,010,El Llano,LLNO,El Llano,0001,Palo Alto
+01,Aguascalientes,Ags.,011,San Francisco de los Romo,SAFR,San Francisco de los Romo,0001,San Francisco de los Romo
+02,Baja California,BC,001,Ensenada,ENDA,Ensenada,0001,Ensenada
+02,Baja California,BC,002,Mexicali,MELI,Mexicali,0001,Mexicali
+02,Baja California,BC,003,Tecate,TETE,Tecate,0001,Tecate
+02,Baja California,BC,004,Tijuana,TINA,Tijuana,0001,Tijuana
+02,Baja California,BC,005,Playas de Rosarito,PLRO,Playas de Rosarito,0001,Playas de Rosarito
+03,Baja California Sur,BCS,001,Comondú,CODU,Comondú,0001,Ciudad Constitución
+03,Baja California Sur,BCS,002,Mulegé,MUGE,Mulegé,0001,Santa Rosalía
+03,Baja California Sur,BCS,003,La Paz,LPAZ,La Paz,0001,La Paz
+03,Baja California Sur,BCS,008,Los Cabos,CAOS,Los Cabos,0001,San José del Cabo
+03,Baja California Sur,BCS,009,Loreto,LOTO,Loreto,0001,Loreto
+04,Campeche,Camp.,001,Calkiní,CANI,Calkiní,0001,Calkiní
+04,Campeche,Camp.,002,Campeche,CAHE,Campeche,0001,San Francisco de Campeche
+04,Campeche,Camp.,003,Carmen,CAEN,Carmen,0001,Ciudad del Carmen
+04,Campeche,Camp.,004,Champotón,CHTN,Champotón,0001,Champotón
+04,Campeche,Camp.,005,Hecelchakán,HEAN,Hecelchakán,0001,Hecelchakán
+04,Campeche,Camp.,006,Hopelchén,HOEN,Hopelchén,0001,Hopelchén
+04,Campeche,Camp.,007,Palizada,PADA,Palizada,0001,Palizada
+04,Campeche,Camp.,008,Tenabo,TEBO,Tenabo,0001,Tenabo
+04,Campeche,Camp.,009,Escárcega,ESGA,Escárcega,0001,Escárcega
+04,Campeche,Camp.,010,Calakmul,CAUL,Calakmul,0001,Xpujil
+04,Campeche,Camp.,011,Candelaria,CAIA,Candelaria,0001,Candelaria
+05,Coahuila de Zaragoza,Coah.,001,Abasolo,ABLO,Abasolo,0001,Abasolo
+05,Coahuila de Zaragoza,Coah.,002,Acuña,AC?',Acuña,0001,Ciudad Acuña
+05,Coahuila de Zaragoza,Coah.,003,Allende,ALDE,Allende,0001,Allende
+05,Coahuila de Zaragoza,Coah.,004,Arteaga,ARGA,Arteaga,0001,Arteaga
+05,Coahuila de Zaragoza,Coah.,005,Candela,CALA,Candela,0001,Candela
+05,Coahuila de Zaragoza,Coah.,006,Castaños,CAOS,Castaños,0001,Castaños
+05,Coahuila de Zaragoza,Coah.,007,Cuatro Ciénegas,CUAS,Cuatro Ciénegas,0001,Cuatro Ciénegas de Carranza
+05,Coahuila de Zaragoza,Coah.,008,Escobedo,ESDO,Escobedo,0001,Escobedo
+05,Coahuila de Zaragoza,Coah.,009,Francisco I. Madero,FRIM,Francisco I. Madero,0001,Francisco I. Madero (Chávez)
+05,Coahuila de Zaragoza,Coah.,010,Frontera,FRRA,Frontera,0001,Frontera
+05,Coahuila de Zaragoza,Coah.,011,General Cepeda,GECE,General Cepeda,0001,General Cepeda
+05,Coahuila de Zaragoza,Coah.,012,Guerrero,GURO,Guerrero,0001,Guerrero
+05,Coahuila de Zaragoza,Coah.,013,Hidalgo,HIGO,Hidalgo,0001,Hidalgo
+05,Coahuila de Zaragoza,Coah.,014,Jiménez,JIEZ,Jiménez,0001,Jiménez
+05,Coahuila de Zaragoza,Coah.,015,Juárez,JUEZ,Juárez,0001,Juárez
+05,Coahuila de Zaragoza,Coah.,016,Lamadrid,LAID,Lamadrid,0001,Lamadrid
+05,Coahuila de Zaragoza,Coah.,017,Matamoros,MAOS,Matamoros,0001,Matamoros
+05,Coahuila de Zaragoza,Coah.,018,Monclova,MOVA,Monclova,0001,Monclova
+05,Coahuila de Zaragoza,Coah.,019,Morelos,MOOS,Morelos,0001,Morelos
+05,Coahuila de Zaragoza,Coah.,020,Múzquiz,MUIZ,Múzquiz,0001,Ciudad Melchor Múzquiz
+05,Coahuila de Zaragoza,Coah.,021,Nadadores,NAES,Nadadores,0001,Nadadores
+05,Coahuila de Zaragoza,Coah.,022,Nava,NAVA,Nava,0001,Nava
+05,Coahuila de Zaragoza,Coah.,023,Ocampo,OCPO,Ocampo,0001,Ocampo
+05,Coahuila de Zaragoza,Coah.,024,Parras,PAAS,Parras,0001,Parras de la Fuente
+05,Coahuila de Zaragoza,Coah.,025,Piedras Negras,PINE,Piedras Negras,0001,Piedras Negras
+05,Coahuila de Zaragoza,Coah.,026,Progreso,PRSO,Progreso,0001,Progreso
+05,Coahuila de Zaragoza,Coah.,027,Ramos Arizpe,RAAR,Ramos Arizpe,0001,Ramos Arizpe
+05,Coahuila de Zaragoza,Coah.,028,Sabinas,SAAS,Sabinas,0001,Sabinas
+05,Coahuila de Zaragoza,Coah.,029,Sacramento,SATO,Sacramento,0001,Sacramento
+05,Coahuila de Zaragoza,Coah.,030,Saltillo,SALO,Saltillo,0001,Saltillo
+05,Coahuila de Zaragoza,Coah.,031,San Buenaventura,SABU,San Buenaventura,0001,San Buenaventura
+05,Coahuila de Zaragoza,Coah.,032,San Juan de Sabinas,SAJS,San Juan de Sabinas,0014,Nueva Rosita
+05,Coahuila de Zaragoza,Coah.,033,San Pedro,SAPE,San Pedro,0001,San Pedro
+05,Coahuila de Zaragoza,Coah.,034,Sierra Mojada,SIMO,Sierra Mojada,0001,Sierra Mojada
+05,Coahuila de Zaragoza,Coah.,035,Torreón,TOON,Torreón,0001,Torreón
+05,Coahuila de Zaragoza,Coah.,036,Viesca,VICA,Viesca,0001,Viesca
+05,Coahuila de Zaragoza,Coah.,037,Villa Unión,VIUN,Villa Unión,0001,Villa Unión
+05,Coahuila de Zaragoza,Coah.,038,Zaragoza,ZAZA,Zaragoza,0001,Zaragoza
+06,Colima,Col.,001,Armería,ARIA,Armería,0001,Ciudad de Armería
+06,Colima,Col.,002,Colima,COMA,Colima,0001,Colima
+06,Colima,Col.,003,Comala,COAA,Comala,0001,Comala
+06,Colima,Col.,004,Coquimatlán,COAN,Coquimatlán,0001,Coquimatlán
+06,Colima,Col.,005,Cuauhtémoc,CUOC,Cuauhtémoc,0001,Cuauhtémoc
+06,Colima,Col.,006,Ixtlahuacán,IXAN,Ixtlahuacán,0001,Ixtlahuacán
+06,Colima,Col.,007,Manzanillo,MALO,Manzanillo,0001,Manzanillo
+06,Colima,Col.,008,Minatitlán,MIAN,Minatitlán,0001,Minatitlán
+06,Colima,Col.,009,Tecomán,TEAN,Tecomán,0001,Tecomán
+06,Colima,Col.,010,Villa de ?lvarez,VIAL,Villa de Alvarez,0001,Ciudad de Villa de ?lvarez
+07,Chiapas,Chis.,001,Acacoyagua,ACUA,Acacoyagua,0001,Acacoyagua
+07,Chiapas,Chis.,002,Acala,ACLA,Acala,0001,Acala
+07,Chiapas,Chis.,003,Acapetahua,ACPA,Acapetahua,0001,Acapetahua
+07,Chiapas,Chis.,004,Altamirano,ALNO,Altamirano,0001,Altamirano
+07,Chiapas,Chis.,005,Amatán,AMAN,Amatán,0001,Amatán
+07,Chiapas,Chis.,006,Amatenango de la Frontera,AMFR,Amatenango de la Frontera,0001,Amatenango de la Frontera
+07,Chiapas,Chis.,007,Amatenango del Valle,AMVA,Amatenango del Valle,0001,Amatenango del Valle
+07,Chiapas,Chis.,008,Angel Albino Corzo,ANAC,Angel Albino Corzo,0001,Jaltenango de la Paz (?ngel Albino Corzo)
+07,Chiapas,Chis.,009,Arriaga,ARGA,Arriaga,0001,Arriaga
+07,Chiapas,Chis.,010,Bejucal de Ocampo,BEOC,Bejucal de Ocampo,0001,Bejucal de Ocampo
+07,Chiapas,Chis.,011,Bella Vista,BEVI,Bella Vista,0001,Bella Vista
+07,Chiapas,Chis.,012,Berriozábal,BEAL,Berriozábal,0001,Berriozábal
+07,Chiapas,Chis.,013,Bochil,BOIL,Bochil,0001,Bochil
+07,Chiapas,Chis.,014,El Bosque,BOUE,El Bosque,0001,El Bosque
+07,Chiapas,Chis.,015,Cacahoatán,CAAN,Cacahoatán,0001,Cacahoatán
+07,Chiapas,Chis.,016,Catazajá,CAJA,Catazajá,0001,Catazajá
+07,Chiapas,Chis.,017,Cintalapa,CIPA,Cintalapa,0001,Cintalapa de Figueroa
+07,Chiapas,Chis.,018,Coapilla,COPA,Coapilla,0001,Coapilla
+07,Chiapas,Chis.,019,Comitán de Domínguez,CODO,Comitán de Domínguez,0001,Comitán de Domínguez
+07,Chiapas,Chis.,020,La Concordia,COIA,La Concordia,0001,La Concordia
+07,Chiapas,Chis.,021,Copainalá,CONA,Copainalá,0001,Copainalá
+07,Chiapas,Chis.,022,Chalchihuitán,CHAN,Chalchihuitán,0001,Chalchihuitán
+07,Chiapas,Chis.,023,Chamula,CHMA,Chamula,0001,Chamula
+07,Chiapas,Chis.,024,Chanal,CHAL,Chanal,0001,Chanal
+07,Chiapas,Chis.,025,Chapultenango,CHGO,Chapultenango,0001,Chapultenango
+07,Chiapas,Chis.,026,Chenalhó,CHHO,Chenalhó,0001,Chenalhó
+07,Chiapas,Chis.,027,Chiapa de Corzo,CHCO,Chiapa de Corzo,0001,Chiapa de Corzo
+07,Chiapas,Chis.,028,Chiapilla,CHLA,Chiapilla,0001,Chiapilla
+07,Chiapas,Chis.,029,Chicoasén,CHEN,Chicoasén,0001,Chicoasén
+07,Chiapas,Chis.,030,Chicomuselo,CHLO,Chicomuselo,0001,Chicomuselo
+07,Chiapas,Chis.,031,Chilón,CHLN,Chilón,0001,Chilón
+07,Chiapas,Chis.,032,Escuintla,ESLA,Escuintla,0001,Escuintla
+07,Chiapas,Chis.,033,Francisco León,FRLE,Francisco León,0042,Rivera el Viejo Carmen
+07,Chiapas,Chis.,034,Frontera Comalapa,FRCO,Frontera Comalapa,0001,Frontera Comalapa
+07,Chiapas,Chis.,035,Frontera Hidalgo,FRHI,Frontera Hidalgo,0001,Frontera Hidalgo
+07,Chiapas,Chis.,036,La Grandeza,GRZA,La Grandeza,0001,La Grandeza
+07,Chiapas,Chis.,037,Huehuetán,HUHN,Huehuetán,0001,Huehuetán
+07,Chiapas,Chis.,038,Huixtán,HUXN,Huixtán,0001,Huixtán
+07,Chiapas,Chis.,039,Huitiupán,HUAN,Huitiupán,0001,Huitiupán
+07,Chiapas,Chis.,040,Huixtla,HULA,Huixtla,0001,Huixtla
+07,Chiapas,Chis.,041,La Independencia,INIA,La Independencia,0001,La Independencia
+07,Chiapas,Chis.,042,Ixhuatán,IXAN,Ixhuatán,0001,Ixhuatán
+07,Chiapas,Chis.,043,Ixtacomitán,IXTN,Ixtacomitán,0001,Ixtacomitán
+07,Chiapas,Chis.,044,Ixtapa,IXPA,Ixtapa,0001,Ixtapa
+07,Chiapas,Chis.,045,Ixtapangajoya,IXYA,Ixtapangajoya,0001,Ixtapangajoya
+07,Chiapas,Chis.,046,Jiquipilas,JIAS,Jiquipilas,0001,Jiquipilas
+07,Chiapas,Chis.,047,Jitotol,JIOL,Jitotol,0001,Jitotol
+07,Chiapas,Chis.,048,Juárez,JUEZ,Juárez,0001,Juárez
+07,Chiapas,Chis.,049,Larráinzar,LAAR,Larráinzar,0001,Larráinzar
+07,Chiapas,Chis.,050,La Libertad,LIAD,La Libertad,0001,La Libertad
+07,Chiapas,Chis.,051,Mapastepec,MAEC,Mapastepec,0001,Mapastepec
+07,Chiapas,Chis.,052,Las Margaritas,MAAS,Las Margaritas,0001,Las Margaritas
+07,Chiapas,Chis.,053,Mazapa de Madero,MADM,Mazapa de Madero,0001,Mazapa de Madero
+07,Chiapas,Chis.,054,Mazatán,MAAN,Mazatán,0001,Mazatán
+07,Chiapas,Chis.,055,Metapa,MEPA,Metapa,0001,Metapa de Domínguez
+07,Chiapas,Chis.,056,Mitontic,MIIC,Mitontic,0001,Mitontic
+07,Chiapas,Chis.,057,Motozintla,MOLA,Motozintla,0001,Motozintla de Mendoza
+07,Chiapas,Chis.,058,Nicolás Ruíz,NIRU,Nicolás Ruíz,0001,Nicolás Ruíz
+07,Chiapas,Chis.,059,Ocosingo,OCGO,Ocosingo,0001,Ocosingo
+07,Chiapas,Chis.,060,Ocotepec,OCEC,Ocotepec,0001,Ocotepec
+07,Chiapas,Chis.,061,Ocozocoautla de Espinosa,OCES,Ocozocoautla de Espinosa,0001,Ocozocoautla de Espinosa
+07,Chiapas,Chis.,062,Ostuacán,OSAN,Ostuacán,0001,Ostuacán
+07,Chiapas,Chis.,063,Osumacinta,OSTA,Osumacinta,0001,Osumacinta
+07,Chiapas,Chis.,064,Oxchuc,OXUC,Oxchuc,0001,Oxchuc
+07,Chiapas,Chis.,065,Palenque,PAUE,Palenque,0001,Palenque
+07,Chiapas,Chis.,066,Pantelhó,PAHO,Pantelhó,0001,Pantelhó
+07,Chiapas,Chis.,067,Pantepec,PAEC,Pantepec,0001,Pantepec
+07,Chiapas,Chis.,068,Pichucalco,PICO,Pichucalco,0001,Pichucalco
+07,Chiapas,Chis.,069,Pijijiapan,PIAN,Pijijiapan,0001,Pijijiapan
+07,Chiapas,Chis.,070,El Porvenir,POIR,El Porvenir,0001,El Porvenir de Velasco Suárez
+07,Chiapas,Chis.,071,Villa Comaltitlán,VIMO,Villa Comaltitlán,0001,Villa Comaltitlán
+07,Chiapas,Chis.,072,Pueblo Nuevo Solistahuacán,PUNS,Pueblo Nuevo Solistahuacán,0001,Pueblo Nuevo Solistahuacán
+07,Chiapas,Chis.,073,Rayón,RAON,Rayón,0001,Rayón
+07,Chiapas,Chis.,074,Reforma,REMA,Reforma,0001,Reforma
+07,Chiapas,Chis.,075,Las Rosas,ROAS,Las Rosas,0001,Las Rosas
+07,Chiapas,Chis.,076,Sabanilla,SALA,Sabanilla,0001,Sabanilla
+07,Chiapas,Chis.,077,Salto de Agua,SAAG,Salto de Agua,0001,Salto de Agua
+07,Chiapas,Chis.,078,San Cristóbal de las Casas,SACC,San Cristóbal de las Casas,0001,San Cristóbal de las Casas
+07,Chiapas,Chis.,079,San Fernando,SAFE,San Fernando,0001,San Fernando
+07,Chiapas,Chis.,080,Siltepec,SIEC,Siltepec,0001,Siltepec
+07,Chiapas,Chis.,081,Simojovel,SIEL,Simojovel,0001,Simojovel de Allende
+07,Chiapas,Chis.,082,Sitalá,SILA,Sitalá,0001,Sitalá
+07,Chiapas,Chis.,083,Socoltenango,SOGO,Socoltenango,0001,Socoltenango
+07,Chiapas,Chis.,084,Solosuchiapa,SOPA,Solosuchiapa,0001,Solosuchiapa
+07,Chiapas,Chis.,085,Soyaló,SOLO,Soyaló,0001,Soyaló
+07,Chiapas,Chis.,086,Suchiapa,SUPA,Suchiapa,0001,Suchiapa
+07,Chiapas,Chis.,087,Suchiate,SUTE,Suchiate,0001,Ciudad Hidalgo
+07,Chiapas,Chis.,088,Sunuapa,SUNA,Sunuapa,0001,Sunuapa
+07,Chiapas,Chis.,089,Tapachula,TALA,Tapachula,0001,Tapachula de Córdova y Ordóñez
+07,Chiapas,Chis.,090,Tapalapa,TAPA,Tapalapa,0001,Tapalapa
+07,Chiapas,Chis.,091,Tapilula,TAIA,Tapilula,0001,Tapilula
+07,Chiapas,Chis.,092,Tecpatán,TEAN,Tecpatán,0001,Tecpatán
+07,Chiapas,Chis.,093,Tenejapa,TEPA,Tenejapa,0001,Tenejapa
+07,Chiapas,Chis.,094,Teopisca,TECA,Teopisca,0001,Teopisca
+07,Chiapas,Chis.,096,Tila,TILA,Tila,0001,Tila
+07,Chiapas,Chis.,097,Tonalá,TOLA,Tonalá,0001,Tonalá
+07,Chiapas,Chis.,098,Totolapa,TOPA,Totolapa,0001,Totolapa
+07,Chiapas,Chis.,099,La Trinitaria,TRIA,La Trinitaria,0001,La Trinitaria
+07,Chiapas,Chis.,100,Tumbalá,TULA,Tumbalá,0001,Tumbalá
+07,Chiapas,Chis.,101,Tuxtla Gutiérrez,TUGU,Tuxtla Gutiérrez,0001,Tuxtla Gutiérrez
+07,Chiapas,Chis.,102,Tuxtla Chico,TUCH,Tuxtla Chico,0001,Tuxtla Chico
+07,Chiapas,Chis.,103,Tuzantán,TUAN,Tuzantán,0001,Tuzantán
+07,Chiapas,Chis.,104,Tzimol,TZOL,Tzimol,0001,Tzimol
+07,Chiapas,Chis.,105,Unión Juárez,UNJU,Unión Juárez,0001,Unión Juárez
+07,Chiapas,Chis.,106,Venustiano Carranza,VECA,Venustiano Carranza,0001,Venustiano Carranza
+07,Chiapas,Chis.,107,Villa Corzo,VICO,Villa Corzo,0001,Villa Corzo
+07,Chiapas,Chis.,108,Villaflores,VIES,Villaflores,0001,Villaflores
+07,Chiapas,Chis.,109,Yajalón,YAON,Yajalón,0001,Yajalón
+07,Chiapas,Chis.,110,San Lucas,SALU,San Lucas,0001,San Lucas
+07,Chiapas,Chis.,111,Zinacantán,ZIAN,Zinacantán,0001,Zinacantán
+07,Chiapas,Chis.,112,San Juan Cancuc,SAJC,San Juan Cancuc,0001,San Juan Cancuc
+07,Chiapas,Chis.,113,Aldama,ALMA,Aldama,0001,Aldama
+07,Chiapas,Chis.,114,Benemérito de las Américas,BEAM,Benemérito de las América,0001,Benemérito de las Américas
+07,Chiapas,Chis.,115,Maravilla Tenejapa,MATE,Maravilla Tenejapa,0001,Maravilla Tenejapa
+07,Chiapas,Chis.,116,Marqués de Comillas,MACO,Marqués de Comillas,0001,Zamora Pico de Oro
+07,Chiapas,Chis.,117,Montecristo de Guerrero,MOGU,Montecristo de Guerrero,0001,Montecristo de Guerrero
+07,Chiapas,Chis.,118,San Andrés Duraznal,SAAD,San Andrés Duraznal,0001,San Andrés Duraznal
+07,Chiapas,Chis.,119,Santiago el Pinar,SAPI,Santiago el Pinar,0001,Santiago el Pinar
+08,Chihuahua,Chih.,001,Ahumada,AHDA,Ahumada,0001,Miguel Ahumada
+08,Chihuahua,Chih.,002,Aldama,ALDA,Aldama,0001,Juan Aldama
+08,Chihuahua,Chih.,003,Allende,ALDE,Allende,0001,Valle de Ignacio Allende
+08,Chihuahua,Chih.,004,Aquiles Serdán,AQSE,Aquiles Serdán,0001,Santa Eulalia
+08,Chihuahua,Chih.,005,Ascensión,ASON,Ascensión,0001,Ascensión
+08,Chihuahua,Chih.,006,Bachíniva,BANA,Bachíniva,0001,Bachíniva
+08,Chihuahua,Chih.,007,Balleza,BAZA,Balleza,0001,Mariano Balleza
+08,Chihuahua,Chih.,008,Batopilas,BAAS,Batopilas,0001,Batopilas
+08,Chihuahua,Chih.,009,Bocoyna,BONA,Bocoyna,0001,Bocoyna
+08,Chihuahua,Chih.,010,Buenaventura,BURA,Buenaventura,0001,San Buenaventura
+08,Chihuahua,Chih.,011,Camargo,CAMO,Camargo,0001,Santa Rosalía de Camargo
+08,Chihuahua,Chih.,012,Carichí,CAHI,Carichí,0001,Carichí
+08,Chihuahua,Chih.,013,Casas Grandes,CAGR,Casas Grandes,0001,Casas Grandes
+08,Chihuahua,Chih.,014,Coronado,CODO,Coronado,0001,José Esteban Coronado
+08,Chihuahua,Chih.,015,Coyame del Sotol,COSO,Coyame del Sotol,0001,Santiago de Coyame
+08,Chihuahua,Chih.,016,La Cruz,CRUZ,La Cruz,0001,La Cruz
+08,Chihuahua,Chih.,017,Cuauhtémoc,CUOC,Cuauhtémoc,0001,Cuauhtémoc
+08,Chihuahua,Chih.,018,Cusihuiriachi,CUHI,Cusihuiriachi,0001,Cusihuiriachi
+08,Chihuahua,Chih.,019,Chihuahua,CHUA,Chihuahua,0001,Chihuahua
+08,Chihuahua,Chih.,020,Chínipas,CHAS,Chínipas,0001,Chínipas de Almada
+08,Chihuahua,Chih.,021,Delicias,DEAS,Delicias,0001,Delicias
+08,Chihuahua,Chih.,022,Dr. Belisario Domínguez,DRBD,Dr. Belisario Domínguez,0001,San Lorenzo
+08,Chihuahua,Chih.,023,Galeana,GANA,Galeana,0001,Hermenegildo Galeana
+08,Chihuahua,Chih.,024,Santa Isabel,SAIS,Santa Isabel,0001,Santa Isabel
+08,Chihuahua,Chih.,025,Gómez Farías,GOFA,Gómez Farías,0001,Valentín Gómez Farías
+08,Chihuahua,Chih.,026,Gran Morelos,GRMO,Gran Morelos,0001,San Nicolás de Carretas
+08,Chihuahua,Chih.,027,Guachochi,GUHI,Guachochi,0001,Guachochi
+08,Chihuahua,Chih.,028,Guadalupe,GUPE,Guadalupe,0001,Guadalupe
+08,Chihuahua,Chih.,029,Guadalupe y Calvo,GUCA,Guadalupe y Calvo,0001,Guadalupe y Calvo
+08,Chihuahua,Chih.,030,Guazapares,GUES,Guazapares,0001,Témoris
+08,Chihuahua,Chih.,031,Guerrero,GURO,Guerrero,0001,Vicente Guerrero
+08,Chihuahua,Chih.,032,Hidalgo del Parral,HIPA,Hidalgo del Parral,0001,Hidalgo del Parral
+08,Chihuahua,Chih.,033,Huejotitán,HUAN,Huejotitán,0001,Huejotitán
+08,Chihuahua,Chih.,034,Ignacio Zaragoza,IGZA,Ignacio Zaragoza,0001,Ignacio Zaragoza
+08,Chihuahua,Chih.,035,Janos,JAOS,Janos,0001,Janos
+08,Chihuahua,Chih.,036,Jiménez,JIEZ,Jiménez,0001,José Mariano Jiménez
+08,Chihuahua,Chih.,037,Juárez,JUEZ,Juárez,0001,Juárez
+08,Chihuahua,Chih.,038,Julimes,JUES,Julimes,0001,Julimes
+08,Chihuahua,Chih.,039,López,LOEZ,López,0001,Octaviano López
+08,Chihuahua,Chih.,040,Madera,MARA,Madera,0001,Madera
+08,Chihuahua,Chih.,041,Maguarichi,MAHI,Maguarichi,0001,Maguarichi
+08,Chihuahua,Chih.,042,Manuel Benavides,MABE,Manuel Benavides,0001,Manuel Benavides
+08,Chihuahua,Chih.,043,Matachí,MATI,Matachí,0001,Matachí
+08,Chihuahua,Chih.,044,Matamoros,MAOS,Matamoros,0001,Mariano Matamoros
+08,Chihuahua,Chih.,045,Meoqui,MEUI,Meoqui,0001,Pedro Meoqui
+08,Chihuahua,Chih.,046,Morelos,MOOS,Morelos,0001,Morelos
+08,Chihuahua,Chih.,047,Moris,MOIS,Moris,0001,Moris
+08,Chihuahua,Chih.,048,Namiquipa,NAPA,Namiquipa,0001,Namiquipa
+08,Chihuahua,Chih.,049,Nonoava,NOVA,Nonoava,0001,Nonoava
+08,Chihuahua,Chih.,050,Nuevo Casas Grandes,NUCG,Nuevo Casas Grandes,0001,Nuevo Casas Grandes
+08,Chihuahua,Chih.,051,Ocampo,OCPO,Ocampo,0001,Melchor Ocampo
+08,Chihuahua,Chih.,052,Ojinaga,OJGA,Ojinaga,0001,Manuel Ojinaga
+08,Chihuahua,Chih.,053,Praxedis G. Guerrero,PRGG,Praxedis G. Guerrero,0001,Praxedis G. Guerrero
+08,Chihuahua,Chih.,054,Riva Palacio,RIPA,Riva Palacio,0001,San Andrés
+08,Chihuahua,Chih.,055,Rosales,ROES,Rosales,0001,Santa Cruz de Rosales
+08,Chihuahua,Chih.,056,Rosario,ROIO,Rosario,0001,Valle del Rosario
+08,Chihuahua,Chih.,057,San Francisco de Borja,SAFB,San Francisco de Borja,0001,San Francisco de Borja
+08,Chihuahua,Chih.,058,San Francisco de Conchos,SAFC,San Francisco de Conchos,0001,San Francisco de Conchos
+08,Chihuahua,Chih.,059,San Francisco del Oro,SAFO,San Francisco del Oro,0001,San Francisco del Oro
+08,Chihuahua,Chih.,060,Santa Bárbara,SABA,Santa Bárbara,0001,Santa Bárbara
+08,Chihuahua,Chih.,061,Satevó,SAVO,Satevó,0001,San Francisco Javier de Satevó
+08,Chihuahua,Chih.,062,Saucillo,SALO,Saucillo,0001,Saucillo
+08,Chihuahua,Chih.,063,Temósachic,TEIC,Temósachic,0001,Temósachi
+08,Chihuahua,Chih.,064,El Tule,TULE,El Tule,0001,El Tule
+08,Chihuahua,Chih.,065,Urique,URUE,Urique,0001,Urique
+08,Chihuahua,Chih.,066,Uruachi,URHI,Uruachi,0001,Uruachi
+08,Chihuahua,Chih.,067,Valle de Zaragoza,VAZA,Valle de Zaragoza,0001,Valle de Zaragoza
+09,Distrito Federal,DF,002,Azcapotzalco,AZCO,Azcapotzalco,----,
+09,Distrito Federal,DF,003,Coyoacán,COAN,Coyoacán,----,
+09,Distrito Federal,DF,004,Cuajimalpa de Morelos,CUMO,Cuajimalpa de Morelos,----,
+09,Distrito Federal,DF,005,Gustavo A. Madero,GUAM,Gustavo A. Madero,----,
+09,Distrito Federal,DF,006,Iztacalco,IZCO,Iztacalco,----,
+09,Distrito Federal,DF,007,Iztapalapa,IZPA,Iztapalapa,----,
+09,Distrito Federal,DF,008,La Magdalena Contreras,MACO,La Magdalena Contreras,----,
+09,Distrito Federal,DF,009,Milpa Alta,MIAL,Milpa Alta,----,
+09,Distrito Federal,DF,010,?lvaro Obregón,ALOB,Alvaro Obregón,----,
+09,Distrito Federal,DF,011,Tláhuac,TLAC,Tláhuac,----,
+09,Distrito Federal,DF,012,Tlalpan,TLAN,Tlalpan,----,
+09,Distrito Federal,DF,013,Xochimilco,XOCO,Xochimilco,----,
+09,Distrito Federal,DF,014,Benito Juárez,BEJU,Benito Juárez,----,
+09,Distrito Federal,DF,015,Cuauhtémoc,CUOC,Cuauhtémoc,----,
+09,Distrito Federal,DF,016,Miguel Hidalgo,MIHI,Miguel Hidalgo,----,
+09,Distrito Federal,DF,017,Venustiano Carranza,VECA,Venustiano Carranza,----,
+10,Durango,Dgo.,001,Canatlán,CAAN,Canatlán,0001,Canatlán
+10,Durango,Dgo.,002,Canelas,CAAS,Canelas,0001,Canelas
+10,Durango,Dgo.,003,Coneto de Comonfort,COCO,Coneto de Comonfort,0001,Coneto de Comonfort
+10,Durango,Dgo.,004,Cuencamé,CUME,Cuencamé,0001,Cuencamé de Ceniceros
+10,Durango,Dgo.,005,Durango,DUGO,Durango,0001,Victoria de Durango
+10,Durango,Dgo.,006,General Simón Bolívar,GESB,General Simón Bolívar,0001,General Simón Bolívar
+10,Durango,Dgo.,007,Gómez Palacio,GOPA,Gómez Palacio,0001,Gómez Palacio
+10,Durango,Dgo.,008,Guadalupe Victoria,GUDI,Guadalupe Victoria,0001,Ciudad Guadalupe Victoria
+10,Durango,Dgo.,009,Guanaceví,GUVI,Guanaceví,0001,Guanaceví
+10,Durango,Dgo.,010,Hidalgo,HIGO,Hidalgo,0001,Villa Hidalgo
+10,Durango,Dgo.,011,Indé,INDE,Indé,0001,Indé
+10,Durango,Dgo.,012,Lerdo,LEDO,Lerdo,0001,Ciudad Lerdo
+10,Durango,Dgo.,013,Mapimí,MAMI,Mapimí,0001,Mapimí
+10,Durango,Dgo.,014,Mezquital,MEAL,Mezquital,0001,San Francisco del Mezquital
+10,Durango,Dgo.,015,Nazas,NAAS,Nazas,0001,Nazas
+10,Durango,Dgo.,016,Nombre de Dios,NODI,Nombre de Dios,0001,Nombre de Dios
+10,Durango,Dgo.,017,Ocampo,OCPO,Ocampo,0001,Villa Ocampo
+10,Durango,Dgo.,018,El Oro,EORO,El Oro,0001,Santa María del Oro
+10,Durango,Dgo.,019,Otáez,OTEZ,Otáez,0001,Otáez
+10,Durango,Dgo.,020,Pánuco de Coronado,PACO,Pánuco de Coronado,0001,Francisco I. Madero
+10,Durango,Dgo.,021,Peñón Blanco,PEBL,Peñón Blanco,0001,Peñón Blanco
+10,Durango,Dgo.,022,Poanas,POAS,Poanas,0001,Villa Unión
+10,Durango,Dgo.,023,Pueblo Nuevo,PUNU,Pueblo Nuevo,0001,El Salto
+10,Durango,Dgo.,024,Rodeo,ROEO,Rodeo,0001,Rodeo
+10,Durango,Dgo.,025,San Bernardo,SABE,San Bernardo,0001,San Bernardo
+10,Durango,Dgo.,026,San Dimas,SADI,San Dimas,0001,Tayoltita
+10,Durango,Dgo.,027,San Juan de Guadalupe,SAJG,San Juan de Guadalupe,0001,San Juan de Guadalupe
+10,Durango,Dgo.,028,San Juan del Río,SAJR,San Juan del Río,0001,San Juan del Río del Centauro del Norte
+10,Durango,Dgo.,029,San Luis del Cordero,SALC,San Luis del Cordero,0001,San Luis del Cordero
+10,Durango,Dgo.,030,San Pedro del Gallo,SAPG,San Pedro del Gallo,0001,San Pedro del Gallo
+10,Durango,Dgo.,031,Santa Clara,SACL,Santa Clara,0001,Santa Clara
+10,Durango,Dgo.,032,Santiago Papasquiaro,SAPA,Santiago Papasquiaro,0001,Santiago Papasquiaro
+10,Durango,Dgo.,033,Súchil,SUIL,Súchil,0001,Súchil
+10,Durango,Dgo.,034,Tamazula,TALA,Tamazula,0001,Tamazula de Victoria
+10,Durango,Dgo.,035,Tepehuanes,TEES,Tepehuanes,0001,Santa Catarina de Tepehuanes
+10,Durango,Dgo.,036,Tlahualilo,TLLO,Tlahualilo,0001,Tlahualilo de Zaragoza
+10,Durango,Dgo.,037,Topia,TOIA,Topia,0001,Topia
+10,Durango,Dgo.,038,Vicente Guerrero,VIGU,Vicente Guerrero,0001,Vicente Guerrero
+10,Durango,Dgo.,039,Nuevo Ideal,NUID,Nuevo Ideal,0001,Nuevo Ideal
+11,Guanajuato,Gto.,001,Abasolo,ABLO,Abasolo,0001,Abasolo
+11,Guanajuato,Gto.,002,Acámbaro,ACRO,Acámbaro,0001,Acámbaro
+11,Guanajuato,Gto.,003,San Miguel de Allende,ALDE,Allende,0001,San Miguel de Allende
+11,Guanajuato,Gto.,004,Apaseo el Alto,APAL,Apaseo el Alto,0001,Apaseo el Alto
+11,Guanajuato,Gto.,005,Apaseo el Grande,APGR,Apaseo el Grande,0001,Apaseo el Grande
+11,Guanajuato,Gto.,006,Atarjea,ATEA,Atarjea,0001,Atarjea
+11,Guanajuato,Gto.,007,Celaya,CEYA,Celaya,0001,Celaya
+11,Guanajuato,Gto.,008,Manuel Doblado,MADO,Manuel Doblado,0001,Ciudad Manuel Doblado
+11,Guanajuato,Gto.,009,Comonfort,CORT,Comonfort,0001,Comonfort
+11,Guanajuato,Gto.,010,Coroneo,COEO,Coroneo,0001,Coroneo
+11,Guanajuato,Gto.,011,Cortazar,COAR,Cortazar,0001,Cortazar
+11,Guanajuato,Gto.,012,Cuerámaro,CURO,Cuerámaro,0001,Cuerámaro
+11,Guanajuato,Gto.,013,Doctor Mora,DOMO,Doctor Mora,0001,Doctor Mora
+11,Guanajuato,Gto.,014,Dolores Hidalgo Cuna de la Independencia Nacional,DOHI,Dolores Hidalgo,0001,Dolores Hidalgo Cuna de la Independencia Nacional
+11,Guanajuato,Gto.,015,Guanajuato,GUTO,Guanajuato,0001,Guanajuato
+11,Guanajuato,Gto.,016,Huanímaro,HURO,Huanímaro,0001,Huanímaro
+11,Guanajuato,Gto.,017,Irapuato,IRTO,Irapuato,0001,Irapuato
+11,Guanajuato,Gto.,018,Jaral del Progreso,JAPR,Jaral del Progreso,0001,Jaral del Progreso
+11,Guanajuato,Gto.,019,Jerécuaro,JERO,Jerécuaro,0001,Jerécuaro
+11,Guanajuato,Gto.,020,León,LEON,León,0001,León de los Aldama
+11,Guanajuato,Gto.,021,Moroleón,MOON,Moroleón,0001,Moroleón
+11,Guanajuato,Gto.,022,Ocampo,OCPO,Ocampo,0001,Ocampo
+11,Guanajuato,Gto.,023,Pénjamo,PEMO,Pénjamo,0001,Pénjamo
+11,Guanajuato,Gto.,024,Pueblo Nuevo,PUNU,Pueblo Nuevo,0001,Pueblo Nuevo
+11,Guanajuato,Gto.,025,Purísima del Rincón,PURI,Purísima del Rincón,0001,Purísima de Bustos
+11,Guanajuato,Gto.,026,Romita,ROTA,Romita,0001,Romita
+11,Guanajuato,Gto.,027,Salamanca,SALA,Salamanca,0001,Salamanca
+11,Guanajuato,Gto.,028,Salvatierra,SARA,Salvatierra,0001,Salvatierra
+11,Guanajuato,Gto.,029,San Diego de la Unión,SADU,San Diego de la Unión,0001,San Diego de la Unión
+11,Guanajuato,Gto.,030,San Felipe,SAFE,San Felipe,0001,San Felipe
+11,Guanajuato,Gto.,031,San Francisco del Rincón,SAFR,San Francisco del Rincón,0001,San Francisco del Rincón
+11,Guanajuato,Gto.,032,San José Iturbide,SAJI,San José Iturbide,0001,San José Iturbide
+11,Guanajuato,Gto.,033,San Luis de la Paz,SALP,San Luis de la Paz,0001,San Luis de la Paz
+11,Guanajuato,Gto.,034,Santa Catarina,SACA,Santa Catarina,0001,Santa Catarina
+11,Guanajuato,Gto.,035,Santa Cruz de Juventino Rosas,SCJR,Sta. C. de Juventino Rosas,0001,Juventino Rosas
+11,Guanajuato,Gto.,036,Santiago Maravatío,SAMA,Santiago Maravatío,0001,Santiago Maravatío
+11,Guanajuato,Gto.,037,Silao,SIAO,Silao,0001,Silao
+11,Guanajuato,Gto.,038,Tarandacuao,TAAO,Tarandacuao,0001,Tarandacuao
+11,Guanajuato,Gto.,039,Tarimoro,TARO,Tarimoro,0001,Tarimoro
+11,Guanajuato,Gto.,040,Tierra Blanca,TIBL,Tierra Blanca,0001,Tierra Blanca
+11,Guanajuato,Gto.,041,Uriangato,URTO,Uriangato,0001,Uriangato
+11,Guanajuato,Gto.,042,Valle de Santiago,VASA,Valle de Santiago,0001,Valle de Santiago
+11,Guanajuato,Gto.,043,Victoria,VIIA,Victoria,0001,Victoria
+11,Guanajuato,Gto.,044,Villagrán,VIAN,Villagrán,0001,Villagrán
+11,Guanajuato,Gto.,045,Xichú,XIHU,Xichú,0001,Xichú
+11,Guanajuato,Gto.,046,Yuriria,YUIA,Yuriria,0001,Yuriria
+12,Guerrero,Gro.,001,Acapulco de Juárez,ACJU,Acapulco de Juárez,0001,Acapulco de Juárez
+12,Guerrero,Gro.,002,Ahuacuotzingo,AHGO,Ahuacuotzingo,0001,Ahuacuotzingo
+12,Guerrero,Gro.,003,Ajuchitlán del Progreso,AJPR,Ajuchitlán del Progreso,0001,Ajuchitlán del Progreso
+12,Guerrero,Gro.,004,Alcozauca de Guerrero,ALGU,Alcozauca de Guerrero,0001,Alcozauca de Guerrero
+12,Guerrero,Gro.,005,Alpoyeca,ALCA,Alpoyeca,0001,Alpoyeca
+12,Guerrero,Gro.,006,Apaxtla,APLA,Apaxtla,0001,Ciudad Apaxtla de Castrejón
+12,Guerrero,Gro.,007,Arcelia,ARIA,Arcelia,0001,Arcelia
+12,Guerrero,Gro.,008,Atenango del Río,ATRI,Atenango del Río,0001,Atenango del Río
+12,Guerrero,Gro.,009,Atlamajalcingo del Monte,ATMO,Atlamajalcingo del Monte,0001,Atlamajalcingo del Monte
+12,Guerrero,Gro.,010,Atlixtac,ATAC,Atlixtac,0001,Atlixtac
+12,Guerrero,Gro.,011,Atoyac de ?lvarez,ATAL,Atoyac de Alvarez,0001,Atoyac de ?lvarez
+12,Guerrero,Gro.,012,Ayutla de los Libres,AYLI,Ayutla de los Libres,0001,Ayutla de los Libres
+12,Guerrero,Gro.,013,Azoyú,AZYU,Azoyú,0001,Azoyú
+12,Guerrero,Gro.,014,Benito Juárez,BEJU,Benito Juárez,0001,San Jerónimo de Juárez
+12,Guerrero,Gro.,015,Buenavista de Cuéllar,BUCU,Buenavista de Cuéllar,0001,Buenavista de Cuéllar
+12,Guerrero,Gro.,016,Coahuayutla de José María Izazaga,CJMI,Coahuayutla de J Ma Izazaga,0001,Coahuayutla de Guerrero
+12,Guerrero,Gro.,017,Cocula,COUA,Cocula,0001,Cocula
+12,Guerrero,Gro.,018,Copala,COPL,Copala,0001,Copala
+12,Guerrero,Gro.,019,Copalillo,COLO,Copalillo,0001,Copalillo
+12,Guerrero,Gro.,020,Copanatoyac,COAC,Copanatoyac,0001,Copanatoyac
+12,Guerrero,Gro.,021,Coyuca de Benítez,COBE,Coyuca de Benítez,0001,Coyuca de Benítez
+12,Guerrero,Gro.,022,Coyuca de Catalán,COCA,Coyuca de Catalán,0001,Coyuca de Catalán
+12,Guerrero,Gro.,023,Cuajinicuilapa,CUPA,Cuajinicuilapa,0001,Cuajinicuilapa
+12,Guerrero,Gro.,024,Cualác,CUAC,Cualác,0001,Cualác
+12,Guerrero,Gro.,025,Cuautepec,CUEC,Cuautepec,0001,Cuautepec
+12,Guerrero,Gro.,026,Cuetzala del Progreso,CUPR,Cuetzala del Progreso,0001,Cuetzala del Progreso
+12,Guerrero,Gro.,027,Cutzamala de Pinzón,CUPI,Cutzamala de Pinzón,0001,Cutzamala de Pinzón
+12,Guerrero,Gro.,028,Chilapa de ?lvarez,CHAL,Chilapa de Alvarez,0001,Chilapa de ?lvarez
+12,Guerrero,Gro.,029,Chilpancingo de los Bravo,CHBR,Chilpancingo de los Bravo,0001,Chilpancingo de los Bravo
+12,Guerrero,Gro.,030,Florencio Villarreal,FLVI,Florencio Villarreal,0001,Cruz Grande
+12,Guerrero,Gro.,031,General Canuto A. Neri,GECN,General Canuto A. Neri,0001,Acapetlahuaya
+12,Guerrero,Gro.,032,General Heliodoro Castillo,GEHC,General Heliodoro Castillo,0001,Tlacotepec
+12,Guerrero,Gro.,033,Huamuxtitlán,HUAN,Huamuxtitlán,0001,Huamuxtitlán
+12,Guerrero,Gro.,034,Huitzuco de los Figueroa,HUFI,Huitzuco de los Figueroa,0001,Ciudad de Huitzuco
+12,Guerrero,Gro.,035,Iguala de la Independencia,IGIN,Iguala de la Independencia,0001,Iguala de la Independencia
+12,Guerrero,Gro.,036,Igualapa,IGPA,Igualapa,0001,Igualapa
+12,Guerrero,Gro.,037,Ixcateopan de Cuauhtémoc,IXCU,Ixcateopan de Cuauhtémoc,0001,Ixcateopan de Cuauhtémoc
+12,Guerrero,Gro.,038,Zihuatanejo de Azueta,ZIAZ,Zihuatanejo de Azueta,0001,Zihuatanejo
+12,Guerrero,Gro.,039,Juan R. Escudero,JURE,Juan R. Escudero,0001,Tierra Colorada
+12,Guerrero,Gro.,040,Leonardo Bravo,LEBR,Leonardo Bravo,0001,Chichihualco
+12,Guerrero,Gro.,041,Malinaltepec,MAEC,Malinaltepec,0001,Malinaltepec
+12,Guerrero,Gro.,042,Mártir de Cuilapan,MACU,Mártir de Cuilapan,0001,Apango
+12,Guerrero,Gro.,043,Metlatónoc,MEOC,Metlatónoc,0001,Metlatónoc
+12,Guerrero,Gro.,044,Mochitlán,MOAN,Mochitlán,0001,Mochitlán
+12,Guerrero,Gro.,045,Olinalá,OLLA,Olinalá,0001,Olinalá
+12,Guerrero,Gro.,046,Ometepec,OMEC,Ometepec,0001,Ometepec
+12,Guerrero,Gro.,047,Pedro Ascencio Alquisiras,PEAA,Pedro Ascencio Alquisiras,0001,Ixcapuzalco
+12,Guerrero,Gro.,048,Petatlán,PEAN,Petatlán,0001,Petatlán
+12,Guerrero,Gro.,049,Pilcaya,PIYA,Pilcaya,0001,Pilcaya
+12,Guerrero,Gro.,050,Pungarabato,PUBO,Pungarabato,0001,Ciudad Altamirano
+12,Guerrero,Gro.,051,Quechultenango,QUGO,Quechultenango,0001,Quechultenango
+12,Guerrero,Gro.,052,San Luis Acatlán,SALA,San Luis Acatlán,0001,San Luis Acatlán
+12,Guerrero,Gro.,053,San Marcos,SAMA,San Marcos,0001,San Marcos
+12,Guerrero,Gro.,054,San Miguel Totolapan,SAMT,San Miguel Totolapan,0001,San Miguel Totolapan
+12,Guerrero,Gro.,055,Taxco de Alarcón,TAAL,Taxco de Alarcón,0001,Taxco de Alarcón
+12,Guerrero,Gro.,056,Tecoanapa,TEPA,Tecoanapa,0001,Tecoanapa
+12,Guerrero,Gro.,057,Técpan de Galeana,TEGA,Técpan de Galeana,0001,Técpan de Galeana
+12,Guerrero,Gro.,058,Teloloapan,TEAN,Teloloapan,0001,Teloloapan
+12,Guerrero,Gro.,059,Tepecoacuilco de Trujano,TETR,Tepecoacuilco de Trujano,0001,Tepecoacuilco de Trujano
+12,Guerrero,Gro.,060,Tetipac,TEAC,Tetipac,0001,Tetipac
+12,Guerrero,Gro.,061,Tixtla de Guerrero,TIGU,Tixtla de Guerrero,0001,Tixtla de Guerrero
+12,Guerrero,Gro.,062,Tlacoachistlahuaca,TLCA,Tlacoachistlahuaca,0001,Tlacoachistlahuaca
+12,Guerrero,Gro.,063,Tlacoapa,TLAA,Tlacoapa,0001,Tlacoapa
+12,Guerrero,Gro.,064,Tlalchapa,TLPA,Tlalchapa,0001,Tlalchapa
+12,Guerrero,Gro.,065,Tlalixtaquilla de Maldonado,TLMA,Tlalixtaquilla de Maldonado,0001,Tlalixtaquilla
+12,Guerrero,Gro.,066,Tlapa de Comonfort,TLCO,Tlapa de Comonfort,0001,Tlapa de Comonfort
+12,Guerrero,Gro.,067,Tlapehuala,TLLA,Tlapehuala,0001,Tlapehuala
+12,Guerrero,Gro.,068,La Unión de Isidoro Montes de Oca,UIMO,La U de Isid. Montes de Oca,0001,La Unión
+12,Guerrero,Gro.,069,Xalpatláhuac,XAAC,Xalpatláhuac,0001,Xalpatláhuac
+12,Guerrero,Gro.,070,Xochihuehuetlán,XOAN,Xochihuehuetlán,0001,Xochihuehuetlán
+12,Guerrero,Gro.,071,Xochistlahuaca,XOCA,Xochistlahuaca,0001,Xochistlahuaca
+12,Guerrero,Gro.,072,Zapotitlán Tablas,ZATA,Zapotitlán Tablas,0001,Zapotitlán Tablas
+12,Guerrero,Gro.,073,Zirándaro,ZIRO,Zirándaro,0001,Zirándaro de los Chávez
+12,Guerrero,Gro.,074,Zitlala,ZILA,Zitlala,0001,Zitlala
+12,Guerrero,Gro.,075,Eduardo Neri,EDNE,Eduardo Neri,0001,Zumpango del Río
+12,Guerrero,Gro.,076,Acatepec,ACEC,Acatepec,0001,Acatepec
+12,Guerrero,Gro.,077,Marquelia,MAIA,Marquelia,0001,Marquelia
+12,Guerrero,Gro.,078,Cochoapa el Grande,COGR,Cochoapa el Grande,0001,Cochoapa el Grande
+12,Guerrero,Gro.,079,José Joaquin de Herrera,JOJH,José Joaquín de Herrera,0001,Hueycantenango
+12,Guerrero,Gro.,080,Juchitán,NULL,Juchitán,0001,Juchitán
+12,Guerrero,Gro.,081,Iliatenco,NULL,Iliatenco,0001,Iliatenco
+13,Hidalgo,Hgo.,001,Acatlán,ACAN,Acatlán,0001,Acatlán
+13,Hidalgo,Hgo.,002,Acaxochitlán,ACXN,Acaxochitlán,0001,Acaxochitlán
+13,Hidalgo,Hgo.,003,Actopan,ACTN,Actopan,0001,Actopan
+13,Hidalgo,Hgo.,004,Agua Blanca de Iturbide,AGBI,Agua Blanca de Iturbide,0001,Agua Blanca Iturbide
+13,Hidalgo,Hgo.,005,Ajacuba,AJBA,Ajacuba,0001,Ajacuba
+13,Hidalgo,Hgo.,006,Alfajayucan,ALAN,Alfajayucan,0001,Alfajayucan
+13,Hidalgo,Hgo.,007,Almoloya,ALYA,Almoloya,0001,Almoloya
+13,Hidalgo,Hgo.,008,Apan,APAN,Apan,0001,Apan
+13,Hidalgo,Hgo.,009,El Arenal,ARAL,El Arenal,0001,El Arenal
+13,Hidalgo,Hgo.,010,Atitalaquia,ATIA,Atitalaquia,0001,Atitalaquia
+13,Hidalgo,Hgo.,011,Atlapexco,ATCO,Atlapexco,0001,Atlapexco
+13,Hidalgo,Hgo.,012,Atotonilco el Grande,ATGR,Atotonilco el Grande,0001,Atotonilco el Grande
+13,Hidalgo,Hgo.,013,Atotonilco de Tula,ATTU,Atotonilco de Tula,0001,Atotonilco de Tula
+13,Hidalgo,Hgo.,014,Calnali,CALI,Calnali,0001,Calnali
+13,Hidalgo,Hgo.,015,Cardonal,CAAL,Cardonal,0001,Cardonal
+13,Hidalgo,Hgo.,016,Cuautepec de Hinojosa,CUHI,Cuautepec de Hinojosa,0001,Cuautepec de Hinojosa
+13,Hidalgo,Hgo.,017,Chapantongo,CHGO,Chapantongo,0001,Chapantongo
+13,Hidalgo,Hgo.,018,Chapulhuacán,CHAN,Chapulhuacán,0001,Chapulhuacán
+13,Hidalgo,Hgo.,019,Chilcuautla,CHLA,Chilcuautla,0001,Chilcuautla
+13,Hidalgo,Hgo.,020,Eloxochitlán,ELAN,Eloxochitlán,0001,Eloxochitlán
+13,Hidalgo,Hgo.,021,Emiliano Zapata,EMZA,Emiliano Zapata,0001,Emiliano Zapata
+13,Hidalgo,Hgo.,022,Epazoyucan,EPAN,Epazoyucan,0001,Epazoyucan
+13,Hidalgo,Hgo.,023,Francisco I. Madero,FRIM,Francisco I. Madero,0001,Tepatepec
+13,Hidalgo,Hgo.,024,Huasca de Ocampo,HUOC,Huasca de Ocampo,0001,Huasca de Ocampo
+13,Hidalgo,Hgo.,025,Huautla,HULA,Huautla,0001,Huautla
+13,Hidalgo,Hgo.,026,Huazalingo,HUGO,Huazalingo,0001,Huazalingo
+13,Hidalgo,Hgo.,027,Huehuetla,HUEA,Huehuetla,0001,Huehuetla
+13,Hidalgo,Hgo.,028,Huejutla de Reyes,HURE,Huejutla de Reyes,0001,Huejutla de Reyes
+13,Hidalgo,Hgo.,029,Huichapan,HUAN,Huichapan,0001,Huichapan
+13,Hidalgo,Hgo.,030,Ixmiquilpan,IXAN,Ixmiquilpan,0001,Ixmiquilpan
+13,Hidalgo,Hgo.,031,Jacala de Ledezma,JALE,Jacala de Ledezma,0001,Jacala
+13,Hidalgo,Hgo.,032,Jaltocán,JAAN,Jaltocán,0001,Jaltocán
+13,Hidalgo,Hgo.,033,Juárez Hidalgo,JUHI,Juárez Hidalgo,0001,Juárez
+13,Hidalgo,Hgo.,034,Lolotla,LOLA,Lolotla,0001,Lolotla
+13,Hidalgo,Hgo.,035,Metepec,MEEC,Metepec,0001,Metepec
+13,Hidalgo,Hgo.,036,San Agustín Metzquititlán,SAAM,San Agustín Metzquititlán,0001,Mezquititlán
+13,Hidalgo,Hgo.,037,Metztitlán,MEAN,Metztitlán,0001,Metztitlán
+13,Hidalgo,Hgo.,038,Mineral del Chico,MICH,Mineral del Chico,0001,Mineral del Chico
+13,Hidalgo,Hgo.,039,Mineral del Monte,MIMO,Mineral del Monte,0001,Mineral del Monte
+13,Hidalgo,Hgo.,040,La Misión,MION,La Misión,0001,La Misión
+13,Hidalgo,Hgo.,041,Mixquiahuala de Juárez,MIJU,Mixquiahuala de Juárez,0001,Mixquiahuala
+13,Hidalgo,Hgo.,042,Molango de Escamilla,MOES,Molango de Escamilla,0001,Molango
+13,Hidalgo,Hgo.,043,Nicolás Flores,NIFL,Nicolás Flores,0001,Nicolás Flores
+13,Hidalgo,Hgo.,044,Nopala de Villagrán,NOVI,Nopala de Villagrán,0001,Nopala
+13,Hidalgo,Hgo.,045,Omitlán de Juárez,OMJU,Omitlán de Juárez,0001,Omitlán de Juárez
+13,Hidalgo,Hgo.,046,San Felipe Orizatlán,SAFO,San Felipe Orizatlán,0001,Orizatlán
+13,Hidalgo,Hgo.,047,Pacula,PALA,Pacula,0001,Pacula
+13,Hidalgo,Hgo.,048,Pachuca de Soto,PASO,Pachuca de Soto,0001,Pachuca de Soto
+13,Hidalgo,Hgo.,049,Pisaflores,PIES,Pisaflores,0001,Pisaflores
+13,Hidalgo,Hgo.,050,Progreso de Obregón,PROB,Progreso de Obregón,0001,Progreso
+13,Hidalgo,Hgo.,051,Mineral de la Reforma,MIRE,Mineral de la Reforma,0001,Pachuquilla
+13,Hidalgo,Hgo.,052,San Agustín Tlaxiaca,SAAT,San Agustín Tlaxiaca,0001,San Agustín Tlaxiaca
+13,Hidalgo,Hgo.,053,San Bartolo Tutotepec,SABT,San Bartolo Tutotepec,0001,San Bartolo Tutotepec
+13,Hidalgo,Hgo.,054,San Salvador,SASA,San Salvador,0001,San Salvador
+13,Hidalgo,Hgo.,055,Santiago de Anaya,SAAN,Santiago de Anaya,0001,Santiago de Anaya
+13,Hidalgo,Hgo.,056,Santiago Tulantepec de Lugo Guerrero,STLG,Stgo Tulantepec de Lugo Gro,0001,Santiago Tulantepec
+13,Hidalgo,Hgo.,057,Singuilucan,SIAN,Singuilucan,0001,Singuilucan
+13,Hidalgo,Hgo.,058,Tasquillo,TALO,Tasquillo,0001,Tasquillo
+13,Hidalgo,Hgo.,059,Tecozautla,TELA,Tecozautla,0001,Tecozautla
+13,Hidalgo,Hgo.,060,Tenango de Doria,TEDO,Tenango de Doria,0001,Tenango de Doria
+13,Hidalgo,Hgo.,061,Tepeapulco,TECO,Tepeapulco,0001,Tepeapulco
+13,Hidalgo,Hgo.,062,Tepehuacán de Guerrero,TEGU,Tepehuacán de Guerrero,0001,Tepehuacán de Guerrero
+13,Hidalgo,Hgo.,063,Tepeji del Río de Ocampo,TERO,Tepeji del Río de Ocampo,0001,Tepeji de Ocampo
+13,Hidalgo,Hgo.,064,Tepetitlán,TEAN,Tepetitlán,0001,Tepetitlán
+13,Hidalgo,Hgo.,065,Tetepango,TEGO,Tetepango,0001,Tetepango
+13,Hidalgo,Hgo.,066,Villa de Tezontepec,VITE,Villa de Tezontepec,0001,Tezontepec
+13,Hidalgo,Hgo.,067,Tezontepec de Aldama,TEAL,Tezontepec de Aldama,0001,Tezontepec de Aldama
+13,Hidalgo,Hgo.,068,Tianguistengo,TIGO,Tianguistengo,0001,Tianguistengo
+13,Hidalgo,Hgo.,069,Tizayuca,TICA,Tizayuca,0001,Tizayuca
+13,Hidalgo,Hgo.,070,Tlahuelilpan,TLHN,Tlahuelilpan,0001,Tlahuelilpan
+13,Hidalgo,Hgo.,071,Tlahuiltepa,TLPA,Tlahuiltepa,0001,Tlahuiltepa
+13,Hidalgo,Hgo.,072,Tlanalapa,TLNA,Tlanalapa,0001,Tlanalapa
+13,Hidalgo,Hgo.,073,Tlanchinol,TLOL,Tlanchinol,0001,Tlanchinol
+13,Hidalgo,Hgo.,074,Tlaxcoapan,TLAN,Tlaxcoapan,0001,Tlaxcoapan
+13,Hidalgo,Hgo.,075,Tolcayuca,TOCA,Tolcayuca,0001,Tolcayuca
+13,Hidalgo,Hgo.,076,Tula de Allende,TUAL,Tula de Allende,0001,Tula de Allende
+13,Hidalgo,Hgo.,077,Tulancingo de Bravo,TUBR,Tulancingo de Bravo,0001,Tulancingo
+13,Hidalgo,Hgo.,078,Xochiatipan,XOAN,Xochiatipan,0001,Xochiatipan
+13,Hidalgo,Hgo.,079,Xochicoatlán,XOCN,Xochicoatlán,0001,Xochicoatlán
+13,Hidalgo,Hgo.,080,Yahualica,YACA,Yahualica,0001,Yahualica
+13,Hidalgo,Hgo.,081,Zacualtipán de ?ngeles,ZAAN,Zacualtipán de Angeles,0001,Zacualtipán
+13,Hidalgo,Hgo.,082,Zapotlán de Juárez,ZAJU,Zapotlán de Juárez,0001,Zapotlán de Juárez
+13,Hidalgo,Hgo.,083,Zempoala,ZELA,Zempoala,0001,Zempoala
+13,Hidalgo,Hgo.,084,Zimapán,ZIAN,Zimapán,0001,Zimapán
+14,Jalisco,Jal.,001,Acatic,ACIC,Acatic,0001,Acatic
+14,Jalisco,Jal.,002,Acatlán de Juárez,ACJU,Acatlán de Juárez,0001,Acatlán de Juárez
+14,Jalisco,Jal.,003,Ahualulco de Mercado,AHME,Ahualulco de Mercado,0001,Ahualulco de Mercado
+14,Jalisco,Jal.,004,Amacueca,AMCA,Amacueca,0001,Amacueca
+14,Jalisco,Jal.,005,Amatitán,AMAN,Amatitán,0001,Amatitán
+14,Jalisco,Jal.,006,Ameca,AMEA,Ameca,0001,Ameca
+14,Jalisco,Jal.,007,San Juanito de Escobedo,SAJE,San Juanito de Escobedo,0001,San Juanito de Escobedo
+14,Jalisco,Jal.,008,Arandas,ARAS,Arandas,0001,Arandas
+14,Jalisco,Jal.,009,El Arenal,ARAL,El Arenal,0001,El Arenal
+14,Jalisco,Jal.,010,Atemajac de Brizuela,ATBR,Atemajac de Brizuela,0001,Atemajac de Brizuela
+14,Jalisco,Jal.,011,Atengo,ATGO,Atengo,0001,Atengo
+14,Jalisco,Jal.,012,Atenguillo,ATLO,Atenguillo,0001,Atenguillo
+14,Jalisco,Jal.,013,Atotonilco el Alto,ATAL,Atotonilco el Alto,0001,Atotonilco el Alto
+14,Jalisco,Jal.,014,Atoyac,ATAC,Atoyac,0001,Atoyac
+14,Jalisco,Jal.,015,Autlán de Navarro,AUNA,Autlán de Navarro,0001,Autlán de Navarro
+14,Jalisco,Jal.,016,Ayotlán,AYAN,Ayotlán,0001,Ayotlán
+14,Jalisco,Jal.,017,Ayutla,AYLA,Ayutla,0001,Ayutla
+14,Jalisco,Jal.,018,La Barca,BACA,La Barca,0001,La Barca
+14,Jalisco,Jal.,019,Bolaños,BOOS,Bolaños,0001,Bolaños
+14,Jalisco,Jal.,020,Cabo Corrientes,CARO,Cabo Corrientes,0001,El Tuito
+14,Jalisco,Jal.,021,Casimiro Castillo,CASC,Casimiro Castillo,0001,La Resolana
+14,Jalisco,Jal.,022,Cihuatlán,CIAN,Cihuatlán,0001,Cihuatlán
+14,Jalisco,Jal.,023,Zapotlán el Grande,ZAGR,Zapotlán El Grande,0001,Ciudad Guzmán
+14,Jalisco,Jal.,024,Cocula,COUA,Cocula,0001,Cocula
+14,Jalisco,Jal.,025,Colotlán,COAN,Colotlán,0001,Colotlán
+14,Jalisco,Jal.,026,Concepción de Buenos Aires,COBA,Concepción de Buenos Aires,0001,Concepción de Buenos Aires
+14,Jalisco,Jal.,027,Cuautitlán de García Barragán,CUGB,Cuautitlán de G. Barragán,0001,Cuautitlán de García Barragán
+14,Jalisco,Jal.,028,Cuautla,CULA,Cuautla,0001,Cuautla
+14,Jalisco,Jal.,029,Cuquío,CUIO,Cuquío,0001,Cuquío
+14,Jalisco,Jal.,030,Chapala,CHLA,Chapala,0001,Chapala
+14,Jalisco,Jal.,031,Chimaltitán,CHAN,Chimaltitán,0001,Chimaltitán
+14,Jalisco,Jal.,032,Chiquilistlán,CHQN,Chiquilistlán,0001,Chiquilistlán
+14,Jalisco,Jal.,033,Degollado,DEDO,Degollado,0001,Degollado
+14,Jalisco,Jal.,034,Ejutla,EJLA,Ejutla,0001,Ejutla
+14,Jalisco,Jal.,035,Encarnación de Díaz,ENDI,Encarnación de Díaz,0001,Encarnación de Díaz
+14,Jalisco,Jal.,036,Etzatlán,ETAN,Etzatlán,0001,Etzatlán
+14,Jalisco,Jal.,037,El Grullo,GRLO,El Grullo,0001,El Grullo
+14,Jalisco,Jal.,038,Guachinango,GUGO,Guachinango,0001,Guachinango
+14,Jalisco,Jal.,039,Guadalajara,GURA,Guadalajara,0001,Guadalajara
+14,Jalisco,Jal.,040,Hostotipaquillo,HOLO,Hostotipaquillo,0001,Hostotipaquillo
+14,Jalisco,Jal.,041,Huejúcar,HUAR,Huejúcar,0001,Huejúcar
+14,Jalisco,Jal.,042,Huejuquilla el Alto,HUAL,Huejuquilla el Alto,0001,Huejuquilla el Alto
+14,Jalisco,Jal.,043,La Huerta,HUTA,La Huerta,0001,La Huerta
+14,Jalisco,Jal.,044,Ixtlahuacán de los Membrillos,IXME,Ixtlahuacán de los Membril,0001,Ixtlahuacán de los Membrillos
+14,Jalisco,Jal.,045,Ixtlahuacán del Río,IXRI,Ixtlahuacán del Río,0001,Ixtlahuacán del Río
+14,Jalisco,Jal.,046,Jalostotitlán,JAAN,Jalostotitlán,0001,Jalostotitlán
+14,Jalisco,Jal.,047,Jamay,JAAY,Jamay,0001,Jamay
+14,Jalisco,Jal.,048,Jesús María,JEMA,Jesús María,0001,Jesús María
+14,Jalisco,Jal.,049,Jilotlán de los Dolores,JIDO,Jilotlán de los Dolores,0001,Jilotlán de los Dolores
+14,Jalisco,Jal.,050,Jocotepec,JOEC,Jocotepec,0001,Jocotepec
+14,Jalisco,Jal.,051,Juanacatlán,JUAN,Juanacatlán,0001,Juanacatlán
+14,Jalisco,Jal.,052,Juchitlán,JUCN,Juchitlán,0001,Juchitlán
+14,Jalisco,Jal.,053,Lagos de Moreno,LAMO,Lagos de Moreno,0001,Lagos de Moreno
+14,Jalisco,Jal.,054,El Limón,LION,El Limón,0001,El Limón
+14,Jalisco,Jal.,055,Magdalena,MANA,Magdalena,0001,Magdalena
+14,Jalisco,Jal.,056,Santa María del Oro,SAMO,Santa María del Oro,0001,Santa María del Oro
+14,Jalisco,Jal.,057,La Manzanilla de la Paz,MAPA,La Manzanilla de la Paz,0001,La Manzanilla de la Paz
+14,Jalisco,Jal.,058,Mascota,MATA,Mascota,0001,Mascota
+14,Jalisco,Jal.,059,Mazamitla,MALA,Mazamitla,0001,Mazamitla
+14,Jalisco,Jal.,060,Mexticacán,MEAN,Mexticacán,0001,Mexticacán
+14,Jalisco,Jal.,061,Mezquitic,MEIC,Mezquitic,0001,Mezquitic
+14,Jalisco,Jal.,062,Mixtlán,MIAN,Mixtlán,0001,Mixtlán
+14,Jalisco,Jal.,063,Ocotlán,OCAN,Ocotlán,0001,Ocotlán
+14,Jalisco,Jal.,064,Ojuelos de Jalisco,OJJA,Ojuelos de Jalisco,0001,Ojuelos de Jalisco
+14,Jalisco,Jal.,065,Pihuamo,PIMO,Pihuamo,0001,Pihuamo
+14,Jalisco,Jal.,066,Poncitlán,POAN,Poncitlán,0001,Poncitlán
+14,Jalisco,Jal.,067,Puerto Vallarta,PUVA,Puerto Vallarta,0001,Puerto Vallarta
+14,Jalisco,Jal.,068,Villa Purificación,VIPU,Villa Purificación,0001,Villa Purificación
+14,Jalisco,Jal.,069,Quitupan,QUAN,Quitupan,0001,Quitupan
+14,Jalisco,Jal.,070,El Salto,SATO,El Salto,0001,El Salto
+14,Jalisco,Jal.,071,San Cristóbal de la Barranca,SACB,S. Cristóbal de la Barranc,0001,San Cristóbal de la Barranca
+14,Jalisco,Jal.,072,San Diego de Alejandría,SADA,San Diego de Alejandría,0001,San Diego de Alejandría
+14,Jalisco,Jal.,073,San Juan de los Lagos,SAJL,San Juan de los Lagos,0001,San Juan de los Lagos
+14,Jalisco,Jal.,074,San Julián,SAJU,San Julián,0001,San Julián
+14,Jalisco,Jal.,075,San Marcos,SAMA,San Marcos,0001,San Marcos
+14,Jalisco,Jal.,076,San Martín de Bolaños,SAMB,San Martín de Bolaños,0001,San Martín de Bolaños
+14,Jalisco,Jal.,077,San Martín Hidalgo,SAMH,San Martín Hidalgo,0001,San Martín Hidalgo
+14,Jalisco,Jal.,078,San Miguel el Alto,SMIA,San Miguel el Alto,0001,San Miguel el Alto
+14,Jalisco,Jal.,079,Gómez Farías,GOFA,Gómez Farías,0001,San Sebastián del Sur
+14,Jalisco,Jal.,080,San Sebastián del Oeste,SASO,San Sebastián del Oeste,0001,San Sebastián del Oeste
+14,Jalisco,Jal.,081,Santa María de los ?ngeles,SARA,Santa María de los ?ngele,0001,Santa María de los ?ngeles
+14,Jalisco,Jal.,082,Sayula,SALA,Sayula,0001,Sayula
+14,Jalisco,Jal.,083,Tala,TALA,Tala,0001,Tala
+14,Jalisco,Jal.,084,Talpa de Allende,TAAL,Talpa de Allende,0001,Talpa de Allende
+14,Jalisco,Jal.,085,Tamazula de Gordiano,TAGO,Tamazula de Gordiano,0001,Tamazula de Gordiano
+14,Jalisco,Jal.,086,Tapalpa,TAPA,Tapalpa,0001,Tapalpa
+14,Jalisco,Jal.,087,Tecalitlán,TEAN,Tecalitlán,0001,Tecalitlán
+14,Jalisco,Jal.,088,Tecolotlán,TECN,Tecolotlán,0001,Tecolotlán
+14,Jalisco,Jal.,089,Techaluta de Montenegro,TCMO,Techaluta de Montenegro,0001,Techaluta de Montenegro
+14,Jalisco,Jal.,090,Tenamaxtlán,TENN,Tenamaxtlán,0001,Tenamaxtlán
+14,Jalisco,Jal.,091,Teocaltiche,TEHE,Teocaltiche,0001,Teocaltiche
+14,Jalisco,Jal.,092,Teocuitatlán de Corona,TECO,Teocuitatlán de Corona,0001,Teocuitatlán de Corona
+14,Jalisco,Jal.,093,Tepatitlán de Morelos,TEMO,Tepatitlán de Morelos,0001,Tepatitlán de Morelos
+14,Jalisco,Jal.,094,Tequila,TELA,Tequila,0001,Tequila
+14,Jalisco,Jal.,095,Teuchitlán,TEUN,Teuchitlán,0001,Teuchitlán
+14,Jalisco,Jal.,096,Tizapán el Alto,TIAL,Tizapán el Alto,0001,Tizapán el Alto
+14,Jalisco,Jal.,097,Tlajomulco de Zúñiga,TLZU,Tlajomulco de Zúñiga,0001,Tlajomulco de Zúñiga
+14,Jalisco,Jal.,098,Tlaquepaque,TLUE,Tlaquepaque,0001,Tlaquepaque
+14,Jalisco,Jal.,099,Tolimán,TOAN,Tolimán,0001,Tolimán
+14,Jalisco,Jal.,100,Tomatlán,TOMN,Tomatlán,0001,Tomatlán
+14,Jalisco,Jal.,101,Tonalá,TOLA,Tonalá,0001,Tonalá
+14,Jalisco,Jal.,102,Tonaya,TOYA,Tonaya,0001,Tonaya
+14,Jalisco,Jal.,103,Tonila,TONA,Tonila,0001,Tonila
+14,Jalisco,Jal.,104,Totatiche,TOHE,Totatiche,0001,Totatiche
+14,Jalisco,Jal.,105,Tototlán,TOTN,Tototlán,0001,Tototlán
+14,Jalisco,Jal.,106,Tuxcacuesco,TUCO,Tuxcacuesco,0001,Tuxcacuesco
+14,Jalisco,Jal.,107,Tuxcueca,TUCA,Tuxcueca,0001,Tuxcueca
+14,Jalisco,Jal.,108,Tuxpan,TUAN,Tuxpan,0001,Tuxpan
+14,Jalisco,Jal.,109,Unión de San Antonio,UNAS,Unión de San Antonio,0001,Unión de San Antonio
+14,Jalisco,Jal.,110,Unión de Tula,UNTU,Unión de Tula,0001,Unión de Tula
+14,Jalisco,Jal.,111,Valle de Guadalupe,VAGU,Valle de Guadalupe,0001,Valle de Guadalupe
+14,Jalisco,Jal.,112,Valle de Juárez,VAJU,Valle de Juárez,0001,Valle de Juárez
+14,Jalisco,Jal.,113,San Gabriel,SAGA,San Gabriel,0001,San Gabriel
+14,Jalisco,Jal.,114,Villa Corona,VICO,Villa Corona,0001,Villa Corona
+14,Jalisco,Jal.,115,Villa Guerrero,VIGU,Villa Guerrero,0001,Villa Guerrero
+14,Jalisco,Jal.,116,Villa Hidalgo,VIHI,Villa Hidalgo,0001,Villa Hidalgo
+14,Jalisco,Jal.,117,Cañadas de Obregón,CAOB,Cañadas de Obregón,0001,Cañadas de Obregón
+14,Jalisco,Jal.,118,Yahualica de González Gallo,YAGG,Yahualica de González Gall,0001,Yahualica de González Gallo
+14,Jalisco,Jal.,119,Zacoalco de Torres,ZATO,Zacoalco de Torres,0001,Zacoalco de Torres
+14,Jalisco,Jal.,120,Zapopan,ZAAN,Zapopan,0001,Zapopan
+14,Jalisco,Jal.,121,Zapotiltic,ZAIC,Zapotiltic,0001,Zapotiltic
+14,Jalisco,Jal.,122,Zapotitlán de Vadillo,ZAVA,Zapotitlán de Vadillo,0001,Zapotitlán de Vadillo
+14,Jalisco,Jal.,123,Zapotlán del Rey,ZARE,Zapotlán del Rey,0001,Zapotlán del Rey
+14,Jalisco,Jal.,124,Zapotlanejo,ZAJO,Zapotlanejo,0001,Zapotlanejo
+14,Jalisco,Jal.,125,San Ignacio Cerro Gordo,SICG,San Ignacio Cerro Gordo,0001,San Ignacio Cerro Gordo
+15,México,Mex.,001,Acambay,ACAY,Acambay,0001,Acambay
+15,México,Mex.,002,Acolman,ACAN,Acolman,0001,Acolman de Nezahualcóyotl
+15,México,Mex.,003,Aculco,ACCO,Aculco,0001,Aculco de Espinoza
+15,México,Mex.,004,Almoloya de Alquisiras,ALAL,Almoloya de Alquisiras,0001,Almoloya de Alquisiras
+15,México,Mex.,005,Almoloya de Juárez,ALJU,Almoloya de Juárez,0001,Villa de Almoloya de Juárez
+15,México,Mex.,006,Almoloya del Río,ALRI,Almoloya del Río,0001,Almoloya del Río
+15,México,Mex.,007,Amanalco,AMCO,Amanalco,0001,Amanalco de Becerra
+15,México,Mex.,008,Amatepec,AMEC,Amatepec,0001,Amatepec
+15,México,Mex.,009,Amecameca,AMCA,Amecameca,0001,Amecameca de Juárez
+15,México,Mex.,010,Apaxco,APCO,Apaxco,0001,Apaxco de Ocampo
+15,México,Mex.,011,Atenco,ATCO,Atenco,0001,San Salvador Atenco
+15,México,Mex.,012,Atizapán,ATAN,Atizapán,0001,Santa Cruz Atizapán
+15,México,Mex.,013,Atizapán de Zaragoza,ATZA,Atizapán de Zaragoza,0001,Ciudad López Mateos
+15,México,Mex.,014,Atlacomulco,ALCO,Atlacomulco,0001,Atlacomulco de Fabela
+15,México,Mex.,015,Atlautla,ATLA,Atlautla,0001,Atlautla de Victoria
+15,México,Mex.,016,Axapusco,AXCO,Axapusco,0001,Axapusco
+15,México,Mex.,017,Ayapango,AYGO,Ayapango,0001,Ayapango de Gabriel Ramos M.
+15,México,Mex.,018,Calimaya,CAYA,Calimaya,0001,Calimaya de Díaz González
+15,México,Mex.,019,Capulhuac,CAAC,Capulhuac,0001,Capulhuac de Mirafuentes
+15,México,Mex.,020,Coacalco de Berriozábal,COBE,Coacalco de Berriozábal,0001,San Francisco Coacalco
+15,México,Mex.,021,Coatepec Harinas,COHA,Coatepec Harinas,0001,Coatepec Harinas
+15,México,Mex.,022,Cocotitlán,COAN,Cocotitlán,0001,Cocotitlán
+15,México,Mex.,023,Coyotepec,COEC,Coyotepec,0001,Coyotepec
+15,México,Mex.,024,Cuautitlán,CUAN,Cuautitlán,0001,Cuautitlán
+15,México,Mex.,025,Chalco,CHCO,Chalco,0001,Chalco de Díaz Covarrubias
+15,México,Mex.,026,Chapa de Mota,CHMO,Chapa de Mota,0001,Chapa de Mota
+15,México,Mex.,027,Chapultepec,CHEC,Chapultepec,0001,Chapultepec
+15,México,Mex.,028,Chiautla,CHLA,Chiautla,0001,Chiautla
+15,México,Mex.,029,Chicoloapan,CHAN,Chicoloapan,0001,Chicoloapan de Juárez
+15,México,Mex.,030,Chiconcuac,CHAC,Chiconcuac,0001,Chiconcuac de Juárez
+15,México,Mex.,031,Chimalhuacán,CHMN,Chimalhuacán,0001,Chimalhuacán
+15,México,Mex.,032,Donato Guerra,DOGU,Donato Guerra,0001,Villa Donato Guerra
+15,México,Mex.,033,Ecatepec de Morelos,ECMO,Ecatepec de Morelos,0001,Ecatepec de Morelos
+15,México,Mex.,034,Ecatzingo,ECGO,Ecatzingo,0001,Ecatzingo de Hidalgo
+15,México,Mex.,035,Huehuetoca,HUCA,Huehuetoca,0001,Huehuetoca
+15,México,Mex.,036,Hueypoxtla,HULA,Hueypoxtla,0001,Hueypoxtla
+15,México,Mex.,037,Huixquilucan,HUAN,Huixquilucan,0001,Huixquilucan de Degollado
+15,México,Mex.,038,Isidro Fabela,ISFA,Isidro Fabela,0001,Tlazala de Fabela
+15,México,Mex.,039,Ixtapaluca,IXCA,Ixtapaluca,0001,Ixtapaluca
+15,México,Mex.,040,Ixtapan de la Sal,IXSA,Ixtapan de la Sal,0001,Ixtapan de la Sal
+15,México,Mex.,041,Ixtapan del Oro,IXOR,Ixtapan del Oro,0001,Ixtapan del Oro
+15,México,Mex.,042,Ixtlahuaca,IXTA,Ixtlahuaca,0001,Ixtlahuaca de Rayón
+15,México,Mex.,043,Xalatlaco,XACO,Xalatlaco,0001,Xalatlaco
+15,México,Mex.,044,Jaltenco,JACO,Jaltenco,0001,Jaltenco
+15,México,Mex.,045,Jilotepec,JIEC,Jilotepec,0001,Jilotepec de Molina Enríquez
+15,México,Mex.,046,Jilotzingo,JIGO,Jilotzingo,0001,Santa Ana Jilotzingo
+15,México,Mex.,047,Jiquipilco,JICO,Jiquipilco,0001,Jiquipilco
+15,México,Mex.,048,Jocotitlán,JOAN,Jocotitlán,0001,Jocotitlán
+15,México,Mex.,049,Joquicingo,JOGO,Joquicingo,0001,Joquicingo de León Guzmán
+15,México,Mex.,050,Juchitepec,JUEC,Juchitepec,0001,Juchitepec de Mariano Rivapalacio
+15,México,Mex.,051,Lerma,LEMA,Lerma,0001,Lerma de Villada
+15,México,Mex.,052,Malinalco,MACO,Malinalco,0001,Malinalco
+15,México,Mex.,053,Melchor Ocampo,MEOC,Melchor Ocampo,0001,Melchor Ocampo
+15,México,Mex.,054,Metepec,MEEC,Metepec,0001,Metepec
+15,México,Mex.,055,Mexicaltzingo,MEGO,Mexicaltzingo,0001,San Mateo Mexicaltzingo
+15,México,Mex.,056,Morelos,MOOS,Morelos,0001,San Bartolo Morelos
+15,México,Mex.,057,Naucalpan de Juárez,NAJU,Naucalpan de Juárez,0001,Naucalpan de Juárez
+15,México,Mex.,058,Nezahualcóyotl,NETL,Nezahualcóyotl,0001,Ciudad Nezahualcóyotl
+15,México,Mex.,059,Nextlalpan,NEAN,Nextlalpan,0001,Santa Ana Nextlalpan
+15,México,Mex.,060,Nicolás Romero,NIRO,Nicolás Romero,0001,Villa Nicolás Romero
+15,México,Mex.,061,Nopaltepec,NOEC,Nopaltepec,0001,Nopaltepec
+15,México,Mex.,062,Ocoyoacac,OCAC,Ocoyoacac,0001,Ocoyoacac
+15,México,Mex.,063,Ocuilan,OCAN,Ocuilan,0001,Ocuilan de Arteaga
+15,México,Mex.,064,El Oro,EORO,El Oro,0001,El Oro de Hidalgo
+15,México,Mex.,065,Otumba,OTBA,Otumba,0001,Otumba de Gómez Farías
+15,México,Mex.,066,Otzoloapan,OTAN,Otzoloapan,0001,Otzoloapan
+15,México,Mex.,067,Otzolotepec,OTEC,Otzolotepec,0001,Villa Cuauhtémoc
+15,México,Mex.,068,Ozumba,OZBA,Ozumba,0001,Ozumba de Alzate
+15,México,Mex.,069,Papalotla,PALA,Papalotla,0001,Papalotla
+15,México,Mex.,070,La Paz,LPAZ,La Paz,0001,Los Reyes Acaquilpan
+15,México,Mex.,071,Polotitlán,POAN,Polotitlán,0001,Polotitlán de la Ilustración
+15,México,Mex.,072,Rayón,RAON,Rayón,0001,Santa María Rayón
+15,México,Mex.,073,San Antonio la Isla,SAAI,San Antonio la Isla,0001,San Antonio la Isla
+15,México,Mex.,074,San Felipe del Progreso,SAFP,San Felipe del Progreso,0001,San Felipe del Progreso
+15,México,Mex.,075,San Martín de las Pirámides,SAMP,San Martín de las Pirámid,0001,San Martín de las Pirámides
+15,México,Mex.,076,San Mateo Atenco,SAMA,San Mateo Atenco,0001,San Mateo Atenco
+15,México,Mex.,077,San Simón de Guerrero,SASG,San Simón de Guerrero,0001,San Simón de Guerrero
+15,México,Mex.,078,Santo Tomás,SATO,Santo Tomás,0001,Santo Tomás de los Plátanos
+15,México,Mex.,079,Soyaniquilpan de Juárez,SODJ,Soyaniquilpan de Juárez,0001,San Francisco Soyaniquilpan
+15,México,Mex.,080,Sultepec,SUEC,Sultepec,0001,Sultepec de Pedro Ascencio de Alquisiras
+15,México,Mex.,081,Tecámac,TEAC,Tecámac,0001,Tecámac de Felipe Villanueva
+15,México,Mex.,082,Tejupilco,TECO,Tejupilco,0001,Tejupilco de Hidalgo
+15,México,Mex.,083,Temamatla,TELA,Temamatla,0001,Temamatla
+15,México,Mex.,084,Temascalapa,TEPA,Temascalapa,0001,Temascalapa
+15,México,Mex.,085,Temascalcingo,TEGO,Temascalcingo,0001,Temascalcingo de José María Velasco
+15,México,Mex.,086,Temascaltepec,TEEC,Temascaltepec,0001,Temascaltepec de González
+15,México,Mex.,087,Temoaya,TEYA,Temoaya,0001,Temoaya
+15,México,Mex.,088,Tenancingo,TNGO,Tenancingo,0001,Tenancingo de Degollado
+15,México,Mex.,089,Tenango del Aire,TEAI,Tenango del Aire,0001,Tenango del Aire
+15,México,Mex.,090,Tenango del Valle,TEVA,Tenango del Valle,0001,Tenango de Arista
+15,México,Mex.,091,Teoloyucán,TEAN,Teoloyucán,0001,Teoloyucan
+15,México,Mex.,092,Teotihuacán,TETN,Teotihuacán,0001,Teotihuacán de Arista
+15,México,Mex.,093,Tepetlaoxtoc,TEOC,Tepetlaoxtoc,0001,Tepetlaoxtoc de Hidalgo
+15,México,Mex.,094,Tepetlixpa,TPPA,Tepetlixpa,0001,Tepetlixpa
+15,México,Mex.,095,Tepotzotlán,TEPN,Tepotzotlán,0001,Tepotzotlán
+15,México,Mex.,096,Tequixquiac,TQAC,Tequixquiac,0001,Tequixquiac
+15,México,Mex.,097,Texcaltitlán,TEXN,Texcaltitlán,0001,Texcaltitlán
+15,México,Mex.,098,Texcalyacac,TXAC,Texcalyacac,0001,San Mateo Texcalyacac
+15,México,Mex.,099,Texcoco,TXCO,Texcoco,0001,Texcoco de Mora
+15,México,Mex.,100,Tezoyuca,TECA,Tezoyuca,0001,Tezoyuca
+15,México,Mex.,101,Tianguistenco,TICO,Tianguistenco,0001,Santiago Tianguistenco de Galeana
+15,México,Mex.,102,Timilpan,TIAN,Timilpan,0001,San Andrés Timilpan
+15,México,Mex.,103,Tlalmanalco,TLCO,Tlalmanalco,0001,Tlalmanalco de Velázquez
+15,México,Mex.,104,Tlalnepantla de Baz,TLBA,Tlalnepantla de Baz,0001,Tlalnepantla
+15,México,Mex.,105,Tlatlaya,TLYA,Tlatlaya,0001,Tlatlaya
+15,México,Mex.,106,Toluca,TOCA,Toluca,0001,Toluca de Lerdo
+15,México,Mex.,107,Tonatico,TOCO,Tonatico,0001,Tonatico
+15,México,Mex.,108,Tultepec,TUEC,Tultepec,0001,Tultepec
+15,México,Mex.,109,Tultitlán,TUAN,Tultitlán,0001,Tultitlán de Mariano Escobedo
+15,México,Mex.,110,Valle de Bravo,VABR,Valle de Bravo,0001,Valle de Bravo
+15,México,Mex.,111,Villa de Allende,VIAL,Villa de Allende,0001,San José Villa de Allende
+15,México,Mex.,112,Villa del Carbón,VICA,Villa del Carbón,0001,Villa del Carbón
+15,México,Mex.,113,Villa Guerrero,VIGU,Villa Guerrero,0001,Villa Guerrero
+15,México,Mex.,114,Villa Victoria,VIVI,Villa Victoria,0001,Villa Victoria
+15,México,Mex.,115,Xonacatlán,XOAN,Xonacatlán,0001,Xonacatlán
+15,México,Mex.,116,Zacazonapan,ZAAN,Zacazonapan,0001,Zacazonapan
+15,México,Mex.,117,Zacualpan,ZACN,Zacualpan,0001,Zacualpan
+15,México,Mex.,118,Zinacantepec,ZIEC,Zinacantepec,0001,San Miguel Zinacantepec
+15,México,Mex.,119,Zumpahuacán,ZUAN,Zumpahuacán,0001,Zumpahuacán
+15,México,Mex.,120,Zumpango,ZUGO,Zumpango,0001,Zumpango de Ocampo
+15,México,Mex.,121,Cuautitlán Izcalli,CUIZ,Cuautitlán Izcalli,0001,Cuautitlán Izcalli
+15,México,Mex.,122,Valle de Chalco Solidaridad,VACS,Valle de Chalco Solidaridad,0001,Xico
+15,México,Mex.,123,Luvianos,LUOS,Luvianos,0001,Villa Luvianos
+15,México,Mex.,124,San José del Rincón,SAJR,San José del Rincón,0001,San José del Rincón Centro
+15,México,Mex.,125,Tonanitla,TOLA,Tonanitla,0001,Santa María Tonanitla
+16,Michoacán de Ocampo,Mich.,001,Acuitzio,ACIO,Acuitzio,0001,Acuitzio del Canje
+16,Michoacán de Ocampo,Mich.,002,Aguililla,AGLA,Aguililla,0001,Aguililla
+16,Michoacán de Ocampo,Mich.,003,?lvaro Obregón,ALOB,Alvaro Obregón,0001,?lvaro Obregón
+16,Michoacán de Ocampo,Mich.,004,Angamacutiro,ANRO,Angamacutiro,0001,Angamacutiro de la Unión
+16,Michoacán de Ocampo,Mich.,005,Angangueo,ANEO,Angangueo,0001,Mineral de Angangueo
+16,Michoacán de Ocampo,Mich.,006,Apatzingán,APAN,Apatzingán,0001,Apatzingán de la Constitución
+16,Michoacán de Ocampo,Mich.,007,Aporo,APRO,Aporo,0001,Aporo
+16,Michoacán de Ocampo,Mich.,008,Aquila,AQLA,Aquila,0001,Aquila
+16,Michoacán de Ocampo,Mich.,009,Ario,ARIO,Ario,0001,Ario de Rosales
+16,Michoacán de Ocampo,Mich.,010,Arteaga,ARGA,Arteaga,0001,Arteaga
+16,Michoacán de Ocampo,Mich.,011,Briseñas,BRAS,Briseñas,0001,Briseñas de Matamoros
+16,Michoacán de Ocampo,Mich.,012,Buenavista,BUTA,Buenavista,0001,Buenavista Tomatlán
+16,Michoacán de Ocampo,Mich.,013,Carácuaro,CARO,Carácuaro,0001,Carácuaro de Morelos
+16,Michoacán de Ocampo,Mich.,014,Coahuayana,CONA,Coahuayana,0001,Coahuayana de Hidalgo
+16,Michoacán de Ocampo,Mich.,015,Coalcomán de Vázquez Pallares,COVP,Coalcomán de Vquez Pallare,0001,Coalcomán de Vázquez Pallares
+16,Michoacán de Ocampo,Mich.,016,Coeneo,COEO,Coeneo,0001,Coeneo de la Libertad
+16,Michoacán de Ocampo,Mich.,017,Contepec,COEC,Contepec,0001,Contepec
+16,Michoacán de Ocampo,Mich.,018,Copándaro,CORO,Copándaro,0001,Copándaro de Galeana
+16,Michoacán de Ocampo,Mich.,019,Cotija,COTA,Cotija,0001,Cotija de la Paz
+16,Michoacán de Ocampo,Mich.,020,Cuitzeo,CUEO,Cuitzeo,0001,Cuitzeo del Porvenir
+16,Michoacán de Ocampo,Mich.,021,Charapan,CHAN,Charapan,0001,Charapan
+16,Michoacán de Ocampo,Mich.,022,Charo,CHRO,Charo,0001,Charo
+16,Michoacán de Ocampo,Mich.,023,Chavinda,CHDA,Chavinda,0001,Chavinda
+16,Michoacán de Ocampo,Mich.,024,Cherán,CHRN,Cherán,0001,Cherán
+16,Michoacán de Ocampo,Mich.,025,Chilchota,CHTA,Chilchota,0001,Chilchota
+16,Michoacán de Ocampo,Mich.,026,Chinicuila,CHLA,Chinicuila,0001,Villa Victoria
+16,Michoacán de Ocampo,Mich.,027,Chucándiro,CHCO,Chucándiro,0001,Chucándiro
+16,Michoacán de Ocampo,Mich.,028,Churintzio,CHIO,Churintzio,0001,Churintzio
+16,Michoacán de Ocampo,Mich.,029,Churumuco,CRMO,Churumuco,0001,Churumuco de Morelos
+16,Michoacán de Ocampo,Mich.,030,Ecuandureo,ECEO,Ecuandureo,0001,Ecuandureo
+16,Michoacán de Ocampo,Mich.,031,Epitacio Huerta,EPHU,Epitacio Huerta,0001,Epitacio Huerta
+16,Michoacán de Ocampo,Mich.,032,Erongarícuaro,ERRO,Erongarícuaro,0001,Erongarícuaro
+16,Michoacán de Ocampo,Mich.,033,Gabriel Zamora,GAZA,Gabriel Zamora,0001,Lombardía
+16,Michoacán de Ocampo,Mich.,034,Hidalgo,HIGO,Hidalgo,0001,Ciudad Hidalgo
+16,Michoacán de Ocampo,Mich.,035,La Huacana,HUNA,La Huacana,0001,La Huacana
+16,Michoacán de Ocampo,Mich.,036,Huandacareo,HUEO,Huandacareo,0001,Huandacareo
+16,Michoacán de Ocampo,Mich.,037,Huaniqueo,HREO,Huaniqueo,0001,Huaniqueo de Morales
+16,Michoacán de Ocampo,Mich.,038,Huetamo,HUMO,Huetamo,0001,Huetamo de Núñez
+16,Michoacán de Ocampo,Mich.,039,Huiramba,HUBA,Huiramba,0001,Huiramba
+16,Michoacán de Ocampo,Mich.,040,Indaparapeo,INEO,Indaparapeo,0001,Indaparapeo
+16,Michoacán de Ocampo,Mich.,041,Irimbo,IRBO,Irimbo,0001,Irimbo
+16,Michoacán de Ocampo,Mich.,042,Ixtlán,IXAN,Ixtlán,0001,Ixtlán de los Hervores
+16,Michoacán de Ocampo,Mich.,043,Jacona,JANA,Jacona,0001,Jacona de Plancarte
+16,Michoacán de Ocampo,Mich.,044,Jiménez,JIEZ,Jiménez,0001,Villa Jiménez
+16,Michoacán de Ocampo,Mich.,045,Jiquilpan,JIAN,Jiquilpan,0001,Jiquilpan de Juárez
+16,Michoacán de Ocampo,Mich.,046,Juárez,JUEZ,Juárez,0001,Benito Juárez
+16,Michoacán de Ocampo,Mich.,047,Jungapeo,JUEO,Jungapeo,0001,Jungapeo de Juárez
+16,Michoacán de Ocampo,Mich.,048,Lagunillas,LAAS,Lagunillas,0001,Lagunillas
+16,Michoacán de Ocampo,Mich.,049,Madero,MARO,Madero,0001,Villa Madero
+16,Michoacán de Ocampo,Mich.,050,Maravatío,MAIO,Maravatío,0001,Maravatío de Ocampo
+16,Michoacán de Ocampo,Mich.,051,Marcos Castellanos,MACA,Marcos Castellanos,0001,San José de Gracia
+16,Michoacán de Ocampo,Mich.,052,Lázaro Cárdenas,LACA,Lázaro Cárdenas,0001,Ciudad Lázaro Cárdenas
+16,Michoacán de Ocampo,Mich.,053,Morelia,MOIA,Morelia,0001,Morelia
+16,Michoacán de Ocampo,Mich.,054,Morelos,MOOS,Morelos,0001,Villa Morelos
+16,Michoacán de Ocampo,Mich.,055,Múgica,MUCA,Múgica,0001,Nueva Italia de Ruiz
+16,Michoacán de Ocampo,Mich.,056,Nahuatzen,NAEN,Nahuatzen,0001,Nahuatzen
+16,Michoacán de Ocampo,Mich.,057,Nocupétaro,NORO,Nocupétaro,0001,Nocupétaro de Morelos
+16,Michoacán de Ocampo,Mich.,058,Nuevo Parangaricutiro,NUPA,Nuevo Parangaricutiro,0001,Nuevo San Juan Parangaricutiro
+16,Michoacán de Ocampo,Mich.,059,Nuevo Urecho,NUUR,Nuevo Urecho,0001,Nuevo Urecho
+16,Michoacán de Ocampo,Mich.,060,Numarán,NUAN,Numarán,0001,Numarán
+16,Michoacán de Ocampo,Mich.,061,Ocampo,OCPO,Ocampo,0001,Ocampo
+16,Michoacán de Ocampo,Mich.,062,Pajacuarán,PAAN,Pajacuarán,0001,Pajacuarán
+16,Michoacán de Ocampo,Mich.,063,Panindícuaro,PARO,Panindícuaro,0001,Panindícuaro
+16,Michoacán de Ocampo,Mich.,064,Parácuaro,PAAO,Parácuaro,0001,Parácuaro
+16,Michoacán de Ocampo,Mich.,065,Paracho,PAHO,Paracho,0001,Paracho de Verduzco
+16,Michoacán de Ocampo,Mich.,066,Pátzcuaro,PAZO,Pátzcuaro,0001,Pátzcuaro
+16,Michoacán de Ocampo,Mich.,067,Penjamillo,PELO,Penjamillo,0001,Penjamillo de Degollado
+16,Michoacán de Ocampo,Mich.,068,Peribán,PEAN,Peribán,0001,Peribán de Ramos
+16,Michoacán de Ocampo,Mich.,069,La Piedad,PIAD,La Piedad,0001,La Piedad de Cabadas
+16,Michoacán de Ocampo,Mich.,070,Purépero,PURO,Purépero,0001,Purépero de Echáiz
+16,Michoacán de Ocampo,Mich.,071,Puruándiro,PUUO,Puruándiro,0001,Puruándiro
+16,Michoacán de Ocampo,Mich.,072,Queréndaro,QURO,Queréndaro,0001,Queréndaro
+16,Michoacán de Ocampo,Mich.,073,Quiroga,QUGA,Quiroga,0001,Quiroga
+16,Michoacán de Ocampo,Mich.,074,Cojumatlán de Régules,CORE,Cojumatlán de Régules,0001,Cojumatlán de Régules
+16,Michoacán de Ocampo,Mich.,075,Los Reyes,REES,Los Reyes,0001,Los Reyes de Salgado
+16,Michoacán de Ocampo,Mich.,076,Sahuayo,SAYO,Sahuayo,0001,Sahuayo de Morelos
+16,Michoacán de Ocampo,Mich.,077,San Lucas,SALU,San Lucas,0001,San Lucas
+16,Michoacán de Ocampo,Mich.,078,Santa Ana Maya,SAAM,Santa Ana Maya,0001,Santa Ana Maya
+16,Michoacán de Ocampo,Mich.,079,Salvador Escalante,SAES,Salvador Escalante,0001,Santa Clara del Cobre
+16,Michoacán de Ocampo,Mich.,080,Senguio,SEIO,Senguio,0001,Senguio
+16,Michoacán de Ocampo,Mich.,081,Susupuato,SUTO,Susupuato,0001,Susupuato de Guerrero
+16,Michoacán de Ocampo,Mich.,082,Tacámbaro,TARO,Tacámbaro,0001,Tacámbaro de Codallos
+16,Michoacán de Ocampo,Mich.,083,Tancítaro,TANO,Tancítaro,0001,Tancítaro
+16,Michoacán de Ocampo,Mich.,084,Tangamandapio,TAIO,Tangamandapio,0001,Santiago Tangamandapio
+16,Michoacán de Ocampo,Mich.,085,Tangancícuaro,TAGO,Tangancícuaro,0001,Tangancícuaro de Arista
+16,Michoacán de Ocampo,Mich.,086,Tanhuato,TATO,Tanhuato,0001,Tanhuato de Guerrero
+16,Michoacán de Ocampo,Mich.,087,Taretan,TAAN,Taretan,0001,Taretan
+16,Michoacán de Ocampo,Mich.,088,Tarímbaro,TRRO,Tarímbaro,0001,Tarímbaro
+16,Michoacán de Ocampo,Mich.,089,Tepalcatepec,TEEC,Tepalcatepec,0001,Tepalcatepec
+16,Michoacán de Ocampo,Mich.,090,Tingambato,TITO,Tingambato,0001,Tingambato
+16,Michoacán de Ocampo,Mich.,091,Tingüindín,TIIN,Tingüindín,0001,Tingüindín
+16,Michoacán de Ocampo,Mich.,092,Tiquicheo de Nicolás Romero,TINR,Tiquicheo de Nicolás Romer,0001,Tiquicheo
+16,Michoacán de Ocampo,Mich.,093,Tlalpujahua,TLUA,Tlalpujahua,0001,Tlalpujahua de Rayón
+16,Michoacán de Ocampo,Mich.,094,Tlazazalca,TLCA,Tlazazalca,0001,Tlazazalca
+16,Michoacán de Ocampo,Mich.,095,Tocumbo,TOBO,Tocumbo,0001,Tocumbo
+16,Michoacán de Ocampo,Mich.,096,Tumbiscatío,TUIO,Tumbiscatío,0001,Tumbiscatío de Ruiz
+16,Michoacán de Ocampo,Mich.,097,Turicato,TUTO,Turicato,0001,Turicato
+16,Michoacán de Ocampo,Mich.,098,Tuxpan,TUAN,Tuxpan,0001,Tuxpan
+16,Michoacán de Ocampo,Mich.,099,Tuzantla,TULA,Tuzantla,0001,Tuzantla
+16,Michoacán de Ocampo,Mich.,100,Tzintzuntzan,TZAN,Tzintzuntzan,0001,Tzintzuntzan
+16,Michoacán de Ocampo,Mich.,101,Tzitzio,TZIO,Tzitzio,0001,Tzitzio
+16,Michoacán de Ocampo,Mich.,102,Uruapan,URAN,Uruapan,0001,Uruapan
+16,Michoacán de Ocampo,Mich.,103,Venustiano Carranza,VECA,Venustiano Carranza,0001,Venustiano Carranza
+16,Michoacán de Ocampo,Mich.,104,Villamar,VIAR,Villamar,0001,Villamar
+16,Michoacán de Ocampo,Mich.,105,Vista Hermosa,VIHE,Vista Hermosa,0001,Vista Hermosa de Negrete
+16,Michoacán de Ocampo,Mich.,106,Yurécuaro,YURO,Yurécuaro,0001,Yurécuaro
+16,Michoacán de Ocampo,Mich.,107,Zacapu,ZAPU,Zacapu,0001,Zacapu
+16,Michoacán de Ocampo,Mich.,108,Zamora,ZARA,Zamora,0001,Zamora de Hidalgo
+16,Michoacán de Ocampo,Mich.,109,Zináparo,ZIRO,Zináparo,0001,Zináparo
+16,Michoacán de Ocampo,Mich.,110,Zinapécuaro,ZINO,Zinapécuaro,0001,Zinapécuaro de Figueroa
+16,Michoacán de Ocampo,Mich.,111,Ziracuaretiro,ZICO,Ziracuaretiro,0001,Ziracuaretiro
+16,Michoacán de Ocampo,Mich.,112,Zitácuaro,ZITO,Zitácuaro,0001,Heróica Zitácuaro
+16,Michoacán de Ocampo,Mich.,113,José Sixto Verduzco,JOSV,José Sixto Verduzco,0001,Pastor Ortiz
+17,Morelos,Mor.,001,Amacuzac,AMAC,Amacuzac,0001,Amacuzac
+17,Morelos,Mor.,002,Atlatlahucan,ATAN,Atlatlahucan,0001,Atlatlahucan
+17,Morelos,Mor.,003,Axochiapan,AXAN,Axochiapan,0001,Axochiapan
+17,Morelos,Mor.,004,Ayala,AYLA,Ayala,0001,Ciudad Ayala
+17,Morelos,Mor.,005,Coatlán del Río,CORI,Coatlán del Río,0001,Coatlán del Río
+17,Morelos,Mor.,006,Cuautla,CUTL,Cuautla,0001,Cuautla
+17,Morelos,Mor.,007,Cuernavaca,CUCA,Cuernavaca,0001,Cuernavaca
+17,Morelos,Mor.,008,Emiliano Zapata,EMZA,Emiliano Zapata,0001,Emiliano Zapata
+17,Morelos,Mor.,009,Huitzilac,HUAC,Huitzilac,0001,Huitzilac
+17,Morelos,Mor.,010,Jantetelco,JACO,Jantetelco,0001,Jantetelco
+17,Morelos,Mor.,011,Jiutepec,JIEC,Jiutepec,0001,Jiutepec
+17,Morelos,Mor.,012,Jojutla,JOLA,Jojutla,0001,Jojutla
+17,Morelos,Mor.,013,Jonacatepec,JOEC,Jonacatepec,0001,Jonacatepec
+17,Morelos,Mor.,014,Mazatepec,MAEC,Mazatepec,0001,Mazatepec
+17,Morelos,Mor.,015,Miacatlán,MIAN,Miacatlán,0001,Miacatlán
+17,Morelos,Mor.,016,Ocuituco,OCCO,Ocuituco,0001,Ocuituco
+17,Morelos,Mor.,017,Puente de Ixtla,PUIX,Puente de Ixtla,0001,Puente de Ixtla
+17,Morelos,Mor.,018,Temixco,TECO,Temixco,0001,Temixco
+17,Morelos,Mor.,019,Tepalcingo,TEGO,Tepalcingo,0001,Tepalcingo
+17,Morelos,Mor.,020,Tepoztlán,TEAN,Tepoztlán,0001,Tepoztlán
+17,Morelos,Mor.,021,Tetecala,TELA,Tetecala,0001,Tetecala
+17,Morelos,Mor.,022,Tetela del Volcán,TEVO,Tetela del Volcán,0001,Tetela del Volcán
+17,Morelos,Mor.,023,Tlalnepantla,TLLA,Tlalnepantla,0001,Tlalnepantla
+17,Morelos,Mor.,024,Tlaltizapán,TLAN,Tlaltizapán,0001,Tlaltizapán
+17,Morelos,Mor.,025,Tlaquiltenango,TLGO,Tlaquiltenango,0001,Tlaquiltenango
+17,Morelos,Mor.,026,Tlayacapan,TYAN,Tlayacapan,0001,Tlayacapan
+17,Morelos,Mor.,027,Totolapan,TOAN,Totolapan,0001,Totolapan
+17,Morelos,Mor.,028,Xochitepec,XOEC,Xochitepec,0001,Xochitepec
+17,Morelos,Mor.,029,Yautepec,YAEC,Yautepec,0001,Yautepec de Zaragoza
+17,Morelos,Mor.,030,Yecapixtla,YELA,Yecapixtla,0001,Yecapixtla
+17,Morelos,Mor.,031,Zacatepec,ZAEC,Zacatepec,0001,Zacatepec de Hidalgo
+17,Morelos,Mor.,032,Zacualpan,ZAAN,Zacualpan,0001,Zacualpan de Amilpas
+17,Morelos,Mor.,033,Temoac,TEAC,Temoac,0001,Temoac
+18,Nayarit,Nay.,001,Acaponeta,ACTA,Acaponeta,0001,Acaponeta
+18,Nayarit,Nay.,002,Ahuacatlán,AHAN,Ahuacatlán,0001,Ahuacatlán
+18,Nayarit,Nay.,003,Amatlán de Cañas,AMCA,Amatlán de Cañas,0001,Amatlán de Cañas
+18,Nayarit,Nay.,004,Compostela,COMA,Compostela,0001,Compostela
+18,Nayarit,Nay.,005,Huajicori,HURI,Huajicori,0001,Huajicori
+18,Nayarit,Nay.,006,Ixtlán del Río,IXRI,Ixtlán del Río,0001,Ixtlán del Río
+18,Nayarit,Nay.,007,Jala,JALA,Jala,0001,Jala
+18,Nayarit,Nay.,008,Xalisco,XACO,Xalisco,0001,Xalisco
+18,Nayarit,Nay.,009,Del Nayar,DENA,Del Nayar,0001,Jesús María
+18,Nayarit,Nay.,010,Rosamorada,RODA,Rosamorada,0001,Rosamorada
+18,Nayarit,Nay.,011,Ruíz,RUIZ,Ruíz,0001,Ruiz
+18,Nayarit,Nay.,012,San Blas,SABL,San Blas,0001,San Blas
+18,Nayarit,Nay.,013,San Pedro Lagunillas,SAPL,San Pedro Lagunillas,0001,San Pedro Lagunillas
+18,Nayarit,Nay.,014,Santa María del Oro,SAMO,Santa María del Oro,0001,Santa María del Oro
+18,Nayarit,Nay.,015,Santiago Ixcuintla,SAIX,Santiago Ixcuintla,0001,Santiago Ixcuintla
+18,Nayarit,Nay.,016,Tecuala,TELA,Tecuala,0001,Tecuala
+18,Nayarit,Nay.,017,Tepic,TEIC,Tepic,0001,Tepic
+18,Nayarit,Nay.,018,Tuxpan,TUAN,Tuxpan,0001,Tuxpan
+18,Nayarit,Nay.,019,La Yesca,YECA,La Yesca,0001,La Yesca
+18,Nayarit,Nay.,020,Bahía de Banderas,BADB,Bahía de Banderas,0001,Valle de Banderas
+19,Nuevo León,NL,001,Abasolo,ABLO,Abasolo,0001,Abasolo
+19,Nuevo León,NL,002,Agualeguas,AGAS,Agualeguas,0001,Agualeguas
+19,Nuevo León,NL,003,Los Aldamas,ALMA,Los Aldamas,0001,Los Aldamas
+19,Nuevo León,NL,004,Allende,ALDE,Allende,0001,Ciudad de Allende
+19,Nuevo León,NL,005,Anáhuac,ANAC,Anáhuac,0001,Anáhuac
+19,Nuevo León,NL,006,Apodaca,APCA,Apodaca,0001,Ciudad Apodaca
+19,Nuevo León,NL,007,Aramberri,ARRI,Aramberri,0001,Aramberri
+19,Nuevo León,NL,008,Bustamante,BUTE,Bustamante,0001,Bustamante
+19,Nuevo León,NL,009,Cadereyta Jiménez,CAJI,Cadereyta Jiménez,0001,Cadereyta Jiménez
+19,Nuevo León,NL,010,Carmen,CAEN,Carmen,0001,Carmen
+19,Nuevo León,NL,011,Cerralvo,CEVO,Cerralvo,0001,Ciudad Cerralvo
+19,Nuevo León,NL,012,Ciénega de Flores,CIFL,Ciénega de Flores,0001,Ciénega de Flores
+19,Nuevo León,NL,013,China,CHNA,China,0001,China
+19,Nuevo León,NL,014,Dr. Arroyo,DOAR,Dr. Arroyo,0001,Doctor Arroyo
+19,Nuevo León,NL,015,Dr. Coss,DOCO,Dr. Coss,0001,Doctor Coss
+19,Nuevo León,NL,016,Dr. González,DOGO,Dr. González,0001,Doctor González
+19,Nuevo León,NL,017,Galeana,GANA,Galeana,0001,Galeana
+19,Nuevo León,NL,018,García,GAIA,García,0001,García
+19,Nuevo León,NL,019,San Pedro Garza García,SPGG,San Pedro Garza García,0001,San Pedro Garza García
+19,Nuevo León,NL,020,Gral. Bravo,GEBR,Gral. Bravo,0001,General Bravo
+19,Nuevo León,NL,021,Gral. Escobedo,GEES,Gral. Escobedo,0001,Ciudad General Escobedo
+19,Nuevo León,NL,022,Gral. Terán,GETE,Gral. Terán,0001,Ciudad General Terán
+19,Nuevo León,NL,023,Gral. Treviño,GETR,Gral. Treviño,0001,General Treviño
+19,Nuevo León,NL,024,Gral. Zaragoza,GEZA,Gral. Zaragoza,0001,General Zaragoza
+19,Nuevo León,NL,025,Gral. Zuazua,GEZU,Gral. Zuazua,0001,General Zuazua
+19,Nuevo León,NL,026,Guadalupe,GUPE,Guadalupe,0001,Guadalupe
+19,Nuevo León,NL,027,Los Herreras,HERA,Los Herreras,0001,Los Herreras
+19,Nuevo León,NL,028,Higueras,HIAS,Higueras,0001,Higueras
+19,Nuevo León,NL,029,Hualahuises,HUES,Hualahuises,0001,Hualahuises
+19,Nuevo León,NL,030,Iturbide,ITDE,Iturbide,0001,Iturbide
+19,Nuevo León,NL,031,Juárez,JUEZ,Juárez,0001,Ciudad Benito Juárez
+19,Nuevo León,NL,032,Lampazos de Naranjo,LANA,Lampazos de Naranjo,0001,Lampazos de Naranjo
+19,Nuevo León,NL,033,Linares,LIES,Linares,0001,Linares
+19,Nuevo León,NL,034,Marín,MAIN,Marín,0001,Marín
+19,Nuevo León,NL,035,Melchor Ocampo,MEOC,Melchor Ocampo,0001,Melchor Ocampo
+19,Nuevo León,NL,036,Mier y Noriega,MINO,Mier y Noriega,0001,Mier y Noriega
+19,Nuevo León,NL,037,Mina,MINA,Mina,0001,Mina
+19,Nuevo León,NL,038,Montemorelos,MOOS,Montemorelos,0001,Montemorelos
+19,Nuevo León,NL,039,Monterrey,MOEY,Monterrey,0001,Monterrey
+19,Nuevo León,NL,040,Parás,PAAS,Parás,0001,Parás
+19,Nuevo León,NL,041,Pesquería,PEIA,Pesquería,0001,Pesquería
+19,Nuevo León,NL,042,Los Ramones,RAES,Los Ramones,0001,Los Ramones
+19,Nuevo León,NL,043,Rayones,RYES,Rayones,0001,Rayones
+19,Nuevo León,NL,044,Sabinas Hidalgo,SAHI,Sabinas Hidalgo,0001,Ciudad Sabinas Hidalgo
+19,Nuevo León,NL,045,Salinas Victoria,SAVI,Salinas Victoria,0001,Salinas Victoria
+19,Nuevo León,NL,046,San Nicolás de los Garza,SANG,San Nicolás de los Garza,0001,San Nicolás de los Garza
+19,Nuevo León,NL,047,Hidalgo,HIGO,Hidalgo,0001,Hidalgo
+19,Nuevo León,NL,048,Santa Catarina,SACA,Santa Catarina,0001,Ciudad Santa Catarina
+19,Nuevo León,NL,049,Santiago,SAGO,Santiago,0001,Santiago
+19,Nuevo León,NL,050,Vallecillo,VALO,Vallecillo,0001,Vallecillo
+19,Nuevo León,NL,051,Villaldama,VIMA,Villaldama,0001,Ciudad de Villaldama
+20,Oaxaca,Oax.,001,Abejones,ABES,Abejones,0001,Abejones
+20,Oaxaca,Oax.,002,Acatlán de Pérez Figueroa,ACPF,Acatlán de Pérez Figueroa,0001,Acatlán de Pérez Figueroa
+20,Oaxaca,Oax.,003,Asunción Cacalotepec,ASCA,Asunción Cacalotepec,0001,Asunción Cacalotepec
+20,Oaxaca,Oax.,004,Asunción Cuyotepeji,ASCU,Asunción Cuyotepeji,0001,Asunción Cuyotepeji
+20,Oaxaca,Oax.,005,Asunción Ixtaltepec,ASIX,Asunción Ixtaltepec,0001,Asunción Ixtaltepec
+20,Oaxaca,Oax.,006,Asunción Nochixtlán,ASNO,Asunción Nochixtlán,0001,Asunción Nochixtlán
+20,Oaxaca,Oax.,007,Asunción Ocotlán,ASOC,Asunción Ocotlán,0001,Asunción Ocotlán
+20,Oaxaca,Oax.,008,Asunción Tlacolulita,ASTL,Asunción Tlacolulita,0001,Asunción Tlacolulita
+20,Oaxaca,Oax.,009,Ayotzintepec,AYEC,Ayotzintepec,0001,Ayotzintepec
+20,Oaxaca,Oax.,010,El Barrio de la Soledad,SOBA,El Barrio de la Soledad,0001,El Barrio de la Soledad
+20,Oaxaca,Oax.,011,Calihualá,CALA,Calihualá,0001,Calihualá
+20,Oaxaca,Oax.,012,Candelaria Loxicha,CALO,Candelaria Loxicha,0001,Candelaria Loxicha
+20,Oaxaca,Oax.,013,Ciénega de Zimatlán,CIZI,Ciénega de Zimatlán,0001,Ciénega de Zimatlán
+20,Oaxaca,Oax.,014,Ciudad Ixtepec,CIIX,Ciudad Ixtepec,0001,Ciudad Ixtepec
+20,Oaxaca,Oax.,015,Coatecas Altas,COAL,Coatecas Altas,0001,Coatecas Altas
+20,Oaxaca,Oax.,016,Coicoyán de las Flores,COFL,Coicoyán de las Flores,0001,Coicoyán de las Flores
+20,Oaxaca,Oax.,017,La Compañía,COIA,La Compañía,0001,La Compañía
+20,Oaxaca,Oax.,018,Concepción Buenavista,COBU,Concepción Buenavista,0001,Concepción Buenavista
+20,Oaxaca,Oax.,019,Concepción Pápalo,COPA,Concepción Pápalo,0001,Concepción Pápalo
+20,Oaxaca,Oax.,020,Constancia del Rosario,CORO,Constancia del Rosario,0001,Constancia del Rosario
+20,Oaxaca,Oax.,021,Cosolapa,COSA,Cosolapa,0001,Cosolapa
+20,Oaxaca,Oax.,022,Cosoltepec,COEC,Cosoltepec,0001,Cosoltepec
+20,Oaxaca,Oax.,023,Cuilápam de Guerrero,CUGU,Cuilápam de Guerrero,0001,Cuilápam de Guerrero
+20,Oaxaca,Oax.,024,Cuyamecalco Villa de Zaragoza,CUVZ,Cuyamecalco V. de Zaragoza,0001,Cuyamecalco Villa de Zaragoza
+20,Oaxaca,Oax.,025,Chahuites,CHES,Chahuites,0001,Chahuites
+20,Oaxaca,Oax.,026,Chalcatongo de Hidalgo,CHHI,Chalcatongo de Hidalgo,0001,Chalcatongo de Hidalgo
+20,Oaxaca,Oax.,027,Chiquihuitlán de Benito Juárez,CHBJ,Chiquihuitlán de B Juárez,0001,Chiquihuitlán de Benito Juárez
+20,Oaxaca,Oax.,028,Heroica Ciudad de Ejutla de Crespo,HCEC,H. Cd. de Ejutla de Crespo,0001,Heroica Ciudad de Ejutla de Crespo
+20,Oaxaca,Oax.,029,Eloxochitlán de Flores Magón,ELFM,,0001,Eloxochitlán de Flores Magón
+20,Oaxaca,Oax.,030,El Espinal,ESAN,El Espinal,0001,El Espinal
+20,Oaxaca,Oax.,031,Tamazulápam del Espíritu Santo,TAES,Tamazulápam del E. Santo,0001,Tamazulápam del Espíritu Santo
+20,Oaxaca,Oax.,032,Fresnillo de Trujano,FRTR,Fresnillo de Trujano,0001,Fresnillo de Trujano
+20,Oaxaca,Oax.,033,Guadalupe Etla,GUET,Guadalupe Etla,0001,Guadalupe Etla
+20,Oaxaca,Oax.,034,Guadalupe de Ramírez,GURA,Guadalupe de Ramírez,0001,Guadalupe de Ramírez
+20,Oaxaca,Oax.,035,Guelatao de Juárez,GUJU,Guelatao de Juárez,0001,Guelatao de Juárez
+20,Oaxaca,Oax.,036,Guevea de Humboldt,GUHU,Guevea de Humboldt,0001,Guevea de Humboldt
+20,Oaxaca,Oax.,037,Mesones Hidalgo,MEHI,Mesones Hidalgo,0001,Mesones Hidalgo
+20,Oaxaca,Oax.,038,Villa Hidalgo,VIHI,Villa Hidalgo,0001,Villa Hidalgo
+20,Oaxaca,Oax.,039,Heroica Ciudad de Huajuapan de León,HCHL,H. Cd. de Huajuapan de Leó,0001,Heroica Ciudad de Huajuapan de León
+20,Oaxaca,Oax.,040,Huautepec,HUEC,Huautepec,0001,Huautepec
+20,Oaxaca,Oax.,041,Huautla de Jiménez,HUJI,Huautla de Jiménez,0001,Huautla de Jiménez
+20,Oaxaca,Oax.,042,Ixtlán de Juárez,IXJU,Ixtlán de Juárez,0001,Ixtlán de Juárez
+20,Oaxaca,Oax.,043,Heroica Ciudad de Juchitán de Zaragoza,HCJZ,H.Cd.  Juchitán de Zaragaz,0001,Heroica Ciudad de Juchitán de Zaragoza
+20,Oaxaca,Oax.,044,Loma Bonita,LOBO,Loma Bonita,0001,Loma Bonita
+20,Oaxaca,Oax.,045,Magdalena Apasco,MAAP,Magdalena Apasco,0001,Magdalena Apasco
+20,Oaxaca,Oax.,046,Magdalena Jaltepec,MAJA,Magdalena Jaltepec,0001,Magdalena Jaltepec
+20,Oaxaca,Oax.,047,Santa Magdalena Jicotlán,SAMJ,Santa Magdalena Jicotlán,0001,Santa Magdalena Jicotlán
+20,Oaxaca,Oax.,048,Magdalena Mixtepec,MAMI,Magdalena Mixtepec,0001,Magdalena Mixtepec
+20,Oaxaca,Oax.,049,Magdalena Ocotlán,MAOC,Magdalena Ocotlán,0001,Magdalena Ocotlán
+20,Oaxaca,Oax.,050,Magdalena Peñasco,MAPE,Magdalena Peñasco,0001,Magdalena Peñasco
+20,Oaxaca,Oax.,051,Magdalena Teitipac,MATE,Magdalena Teitipac,0001,Magdalena Teitipac
+20,Oaxaca,Oax.,052,Magdalena Tequisistlán,MAGT,Magdalena Tequisistlán,0001,Magdalena Tequisistlán
+20,Oaxaca,Oax.,053,Magdalena Tlacotepec,MATL,Magdalena Tlacotepec,0001,Magdalena Tlacotepec
+20,Oaxaca,Oax.,054,Magdalena Zahuatlán,MAZA,Magdalena Zahuatlán,0001,Magdalena Zahuatlán
+20,Oaxaca,Oax.,055,Mariscala de Juárez,MAJU,Mariscala de Juárez,0001,Mariscala de Juárez
+20,Oaxaca,Oax.,056,Mártires de Tacubaya,MATA,Mártires de Tacubaya,0001,Mártires de Tacubaya
+20,Oaxaca,Oax.,057,Matías Romero Avendaño,MARA,Matías Romero Avendaño,0001,Matías Romero Avendaño
+20,Oaxaca,Oax.,058,Mazatlán Villa de Flores,MAVF,Mazatlán Villa de Flores,0001,Mazatlán Villa de Flores
+20,Oaxaca,Oax.,059,Miahuatlán de Porfirio Díaz,MIPD,Miahuatlán de Porfirio Dí,0001,Miahuatlán de Porfirio Díaz
+20,Oaxaca,Oax.,060,Mixistlán de la Reforma,MILR,Mixistlán de la Reforma,0001,Mixistlán de la Reforma
+20,Oaxaca,Oax.,061,Monjas,MOAS,Monjas,0001,Monjas
+20,Oaxaca,Oax.,062,Natividad,NAAD,Natividad,0001,Natividad
+20,Oaxaca,Oax.,063,Nazareno Etla,NAET,Nazareno Etla,0001,Nazareno Etla
+20,Oaxaca,Oax.,064,Nejapa de Madero,NEMA,Nejapa de Madero,0001,Nejapa de Madero
+20,Oaxaca,Oax.,065,Ixpantepec Nieves,IXNI,Ixpantepec Nieves,0001,Ixpantepec Nieves
+20,Oaxaca,Oax.,066,Santiago Niltepec,SANI,Santiago Niltepec,0001,Santiago Niltepec
+20,Oaxaca,Oax.,067,Oaxaca de Juárez,OAJU,Oaxaca de Juárez,0001,Oaxaca de Juárez
+20,Oaxaca,Oax.,068,Ocotlán de Morelos,OCMO,Ocotlán de Morelos,0001,Ocotlán de Morelos
+20,Oaxaca,Oax.,069,La Pe,LAPE,La Pe,0001,"La ""Pe"""
+20,Oaxaca,Oax.,070,Pinotepa de Don Luis,PIDL,Pinotepa de Don Luis,0001,Pinotepa de Don Luis
+20,Oaxaca,Oax.,071,Pluma Hidalgo,PLHI,Pluma Hidalgo,0001,Pluma Hidalgo
+20,Oaxaca,Oax.,072,San José del Progreso,SAJP,San José del Progreso,0001,San José del Progreso
+20,Oaxaca,Oax.,073,Putla Villa de Guerrero,PUVG,Putla Villa de Guerrero,0001,Putla Villa de Guerrero
+20,Oaxaca,Oax.,074,Santa Catarina Quioquitani,SACQ,Santa Catarina Quioquitani,0001,Santa Catarina Quioquitani
+20,Oaxaca,Oax.,075,Reforma de Pineda,REPI,Reforma de Pineda,0001,Reforma de Pineda
+20,Oaxaca,Oax.,076,La Reforma,REMA,La Reforma,0001,La Reforma
+20,Oaxaca,Oax.,077,Reyes Etla,REET,Reyes Etla,0001,Reyes Etla
+20,Oaxaca,Oax.,078,Rojas de Cuauhtémoc,ROCU,Rojas de Cuauhtémoc,0001,Rojas de Cuauhtémoc
+20,Oaxaca,Oax.,079,Salina Cruz,SACR,Salina Cruz,0001,Salina Cruz
+20,Oaxaca,Oax.,080,San Agustín Amatengo,SAGA,San Agustín Amatengo,0001,San Agustín Amatengo
+20,Oaxaca,Oax.,081,San Agustín Atenango,SAAT,San Agustín Atenango,0001,San Agustín Atenango
+20,Oaxaca,Oax.,082,San Agustín Chayuco,SAAC,San Agustín Chayuco,0001,San Agustín Chayuco
+20,Oaxaca,Oax.,083,San Agustín de las Juntas,SAAJ,San Agustín de las Juntas,0001,San Agustín de las Juntas
+20,Oaxaca,Oax.,084,San Agustín Etla,SAAE,San Agustín Etla,0001,San Agustín Etla
+20,Oaxaca,Oax.,085,San Agustín Loxicha,SAAL,San Agustín Loxicha,0001,San Agustín Loxicha
+20,Oaxaca,Oax.,086,San Agustín Tlacotepec,SATL,San Agustín Tlacotepec,0001,San Agustín Tlacotepec
+20,Oaxaca,Oax.,087,San Agustín Yatareni,SAAY,San Agustín Yatareni,0001,San Agustín Yatareni
+20,Oaxaca,Oax.,088,San Andrés Cabecera Nueva,SACN,San Andrés Cabecera Nueva,0001,San Andrés Cabecera Nueva
+20,Oaxaca,Oax.,089,San Andrés Dinicuiti,SAAD,San Andrés Dinicuiti,0001,San Andrés Dinicuiti
+20,Oaxaca,Oax.,090,San Andrés Huaxpaltepec,SAAH,San Andrés Huaxpaltepec,0001,San Andrés Huaxpaltepec
+20,Oaxaca,Oax.,091,San Andrés Huayápam,SHUY,San Andrés Huayápam,0001,San Andrés Huayápam
+20,Oaxaca,Oax.,092,San Andrés Ixtlahuaca,SAAI,San Andrés Ixtlahuaca,0001,San Andrés Ixtlahuaca
+20,Oaxaca,Oax.,093,San Andrés Lagunas,SALA,San Andrés Lagunas,0001,San Andrés Lagunas
+20,Oaxaca,Oax.,094,San Andrés Nuxiño,SANX,San Andrés Nuxiño,0001,San Andrés Nuxiño
+20,Oaxaca,Oax.,095,San Andrés Paxtlán,SAAP,San Andrés Paxtlán,0001,San Andrés Paxtlán
+20,Oaxaca,Oax.,096,San Andrés Sinaxtla,SASI,San Andrés Sinaxtla,0001,San Andrés Sinaxtla
+20,Oaxaca,Oax.,097,San Andrés Solaga,SASO,San Andrés Solaga,0001,San Andrés Solaga
+20,Oaxaca,Oax.,098,San Andrés Teotilálpam,SATE,San Andrés Teotilálpam,0001,San Andrés Teotilálpam
+20,Oaxaca,Oax.,099,San Andrés Tepetlapa,STEP,San Andrés Tepetlapa,0001,San Andrés Tepetlapa
+20,Oaxaca,Oax.,100,San Andrés Yaá,SANY,San Andrés Yaá,0001,San Andrés Yaá
+20,Oaxaca,Oax.,101,San Andrés Zabache,SAAZ,San Andrés Zabache,0001,San Andrés Zabache
+20,Oaxaca,Oax.,102,San Andrés Zautla,SAZA,San Andrés Zautla,0001,San Andrés Zautla
+20,Oaxaca,Oax.,103,San Antonino Castillo Velasco,SACV,S Antonino Castillo Velasco,0001,San Antonino Castillo Velasco
+20,Oaxaca,Oax.,104,San Antonino el Alto,SAAA,San Antonino el Alto,0001,San Antonino el Alto
+20,Oaxaca,Oax.,105,San Antonino Monte Verde,SAMV,San Antonino Monte Verde,0001,San Antonino Monte Verde
+20,Oaxaca,Oax.,106,San Antonio Acutla,SNAC,San Antonio Acutla,0001,San Antonio Acutla
+20,Oaxaca,Oax.,107,San Antonio de la Cal,SACA,San Antonio de la Cal,0001,San Antonio de la Cal
+20,Oaxaca,Oax.,108,San Antonio Huitepec,SANH,San Antonio Huitepec,0001,San Antonio Huitepec
+20,Oaxaca,Oax.,109,San Antonio Nanahuatípam,SANN,San Antonio Nanahuatípam,0001,San Antonio Nanahuatípam
+20,Oaxaca,Oax.,110,San Antonio Sinicahua,SASN,San Antonio Sinicahua,0001,San Antonio Sinicahua
+20,Oaxaca,Oax.,111,San Antonio Tepetlapa,SATP,San Antonio Tepetlapa,0001,San Antonio Tepetlapa
+20,Oaxaca,Oax.,112,San Baltazar Chichicápam,SABC,San Baltazar Chichicápam,0001,San Baltazar Chichicápam
+20,Oaxaca,Oax.,113,San Baltazar Loxicha,SABL,San Baltazar Loxicha,0001,San Baltazar Loxicha
+20,Oaxaca,Oax.,114,San Baltazar Yatzachi el Bajo,SBYB,S Baltazar Yatzachi el Bajo,0001,San Baltazar Yatzachi el Bajo
+20,Oaxaca,Oax.,115,San Bartolo Coyotepec,SBCO,San Bartolo Coyotepec,0001,San Bartolo Coyotepec
+20,Oaxaca,Oax.,116,San Bartolomé Ayautla,SABA,San Bartolomé Ayautla,0001,San Bartolomé Ayautla
+20,Oaxaca,Oax.,117,San Bartolomé Loxicha,SBLX,San Bartolomé Loxicha,0001,San Bartolomé Loxicha
+20,Oaxaca,Oax.,118,San Bartolomé Quialana,SABQ,San Bartolomé Quialana,0001,San Bartolomé Quialana
+20,Oaxaca,Oax.,119,San Bartolomé Yucuañe,SABY,San Bartolomé Yucuañe,0001,San Bartolomé Yucuañe
+20,Oaxaca,Oax.,120,San Bartolomé Zoogocho,SABZ,San Bartolomé Zoogocho,0001,San Bartolomé Zoogocho
+20,Oaxaca,Oax.,121,San Bartolo Soyaltepec,SABS,San Bartolo Soyaltepec,0001,San Bartolo Soyaltepec
+20,Oaxaca,Oax.,122,San Bartolo Yautepec,SBYA,San Bartolo Yautepec,0001,San Bartolo Yautepec
+20,Oaxaca,Oax.,123,San Bernardo Mixtepec,SABM,San Bernardo Mixtepec,0001,San Bernardo Mixtepec
+20,Oaxaca,Oax.,124,San Blas Atempa,SBAT,San Blas Atempa,0001,San Blas Atempa
+20,Oaxaca,Oax.,125,San Carlos Yautepec,SACY,San Carlos Yautepec,0001,San Carlos Yautepec
+20,Oaxaca,Oax.,126,San Cristóbal Amatlán,SCAM,San Cristóbal Amatlán,0001,San Cristóbal Amatlán
+20,Oaxaca,Oax.,127,San Cristóbal Amoltepec,SCRM,San Cristóbal Amoltepec,0001,San Cristóbal Amoltepec
+20,Oaxaca,Oax.,128,San Cristóbal Lachirioag,SACL,San Cristóbal Lachirioag,0001,San Cristóbal Lachirioag
+20,Oaxaca,Oax.,129,San Cristóbal Suchixtlahuaca,SACS,S. Cristóbal Suchixtlahuac,0001,San Cristóbal Suchixtlahuaca
+20,Oaxaca,Oax.,130,San Dionisio del Mar,SADM,San Dionisio del Mar,0001,San Dionisio del Mar
+20,Oaxaca,Oax.,131,San Dionisio Ocotepec,SADO,San Dionisio Ocotepec,0001,San Dionisio Ocotepec
+20,Oaxaca,Oax.,132,San Dionisio Ocotlán,SDOC,San Dionisio Ocotlán,0001,San Dionisio Ocotlán
+20,Oaxaca,Oax.,133,San Esteban Atatlahuca,SAEA,San Esteban Atatlahuca,0001,San Esteban Atatlahuca
+20,Oaxaca,Oax.,134,San Felipe Jalapa de Díaz,SFJD,San Felipe Jalapa de Díaz,0001,San Felipe Jalapa de Díaz
+20,Oaxaca,Oax.,135,San Felipe Tejalápam,SAFT,San Felipe Tejalápam,0001,San Felipe Tejalápam
+20,Oaxaca,Oax.,136,San Felipe Usila,SAFU,San Felipe Usila,0001,San Felipe Usila
+20,Oaxaca,Oax.,137,San Francisco Cahuacuá,SAFC,San Francisco Cahuacuá,0001,San Francisco Cahuacuá
+20,Oaxaca,Oax.,138,San Francisco Cajonos,SFCA,San Francisco Cajonos,0001,San Francisco Cajonos
+20,Oaxaca,Oax.,139,San Francisco Chapulapa,SFCH,San Francisco Chapulapa,0001,San Francisco Chapulapa
+20,Oaxaca,Oax.,140,San Francisco Chindúa,SFHA,San Francisco Chindúa,0001,San Francisco Chindúa
+20,Oaxaca,Oax.,141,San Francisco del Mar,SAFM,San Francisco del Mar,0036,San Francisco del Mar
+20,Oaxaca,Oax.,142,San Francisco Huehuetlán,SAFH,San Francisco Huehuetlán,0001,San Francisco Huehuetlán
+20,Oaxaca,Oax.,143,San Francisco Ixhuatán,SAFI,San Francisco Ixhuatán,0001,San Francisco Ixhuatán
+20,Oaxaca,Oax.,144,San Francisco Jaltepetongo,SAFJ,San Francisco Jaltepetongo,0001,San Francisco Jaltepetongo
+20,Oaxaca,Oax.,145,San Francisco Lachigoló,SAFL,San Francisco Lachigoló,0001,San Francisco Lachigoló
+20,Oaxaca,Oax.,146,San Francisco Logueche,SFLO,San Francisco Logueche,0001,San Francisco Logueche
+20,Oaxaca,Oax.,147,San Francisco Nuxaño,SAFN,San Francisco Nuxaño,0001,San Francisco Nuxaño
+20,Oaxaca,Oax.,148,San Francisco Ozolotepec,SAFO,San Francisco Ozolotepec,0001,San Francisco Ozolotepec
+20,Oaxaca,Oax.,149,San Francisco Sola,SAFS,San Francisco Sola,0001,San Francisco Sola
+20,Oaxaca,Oax.,150,San Francisco Telixtlahuaca,SFTE,San Francisco Telixtlahuaca,0001,San Francisco Telixtlahuaca
+20,Oaxaca,Oax.,151,San Francisco Teopan,SFTP,San Francisco Teopan,0001,San Francisco Teopan
+20,Oaxaca,Oax.,152,San Francisco Tlapancingo,SFTL,San Francisco Tlapancingo,0001,San Francisco Tlapancingo
+20,Oaxaca,Oax.,153,San Gabriel Mixtepec,SAGM,San Gabriel Mixtepec,0001,San Gabriel Mixtepec
+20,Oaxaca,Oax.,154,San Ildefonso Amatlán,SAIA,San Ildefonso Amatlán,0001,San Ildefonso Amatlán
+20,Oaxaca,Oax.,155,San Ildefonso Sola,SAIS,San Ildefonso Sola,0001,San Ildefonso Sola
+20,Oaxaca,Oax.,156,San Ildefonso Villa Alta,SIVA,San Ildefonso Villa Alta,0001,San Ildefonso Villa Alta
+20,Oaxaca,Oax.,157,San Jacinto Amilpas,SAJA,San Jacinto Amilpas,0001,San Jacinto Amilpas
+20,Oaxaca,Oax.,158,San Jacinto Tlacotepec,SAJT,San Jacinto Tlacotepec,0001,San Jacinto Tlacotepec
+20,Oaxaca,Oax.,159,San Jerónimo Coatlán,SAJC,San Jerónimo Coatlán,0001,San Jerónimo Coatlán
+20,Oaxaca,Oax.,160,San Jerónimo Silacayoapilla,SAJS,San Jerónimo Silacayoapill,0001,San Jerónimo Silacayoapilla
+20,Oaxaca,Oax.,161,San Jerónimo Sosola,SJSO,San Jerónimo Sosola,0001,San Jerónimo Sosola
+20,Oaxaca,Oax.,162,San Jerónimo Taviche,SJTA,San Jerónimo Taviche,0001,San Jerónimo Taviche
+20,Oaxaca,Oax.,163,San Jerónimo Tecóatl,SJTE,San Jerónimo Tecóatl,0001,San Jerónimo Tecóatl
+20,Oaxaca,Oax.,164,San Jorge Nuchita,SAJN,San Jorge Nuchita,0001,San Jorge Nuchita
+20,Oaxaca,Oax.,165,San José Ayuquila,SJAY,San José Ayuquila,0001,San José Ayuquila
+20,Oaxaca,Oax.,166,San José Chiltepec,SJCH,San José Chiltepec,0001,San José Chiltepec
+20,Oaxaca,Oax.,167,San José del Peñasco,SJP?,San José del Peñasco,0001,San José del Peñasco
+20,Oaxaca,Oax.,168,San José Estancia Grande,SJEG,San José Estancia Grande,0001,San José Estancia Grande
+20,Oaxaca,Oax.,169,San José Independencia,SAJI,San José Independencia,0001,San José Independencia
+20,Oaxaca,Oax.,170,San José Lachiguiri,SAJL,San José Lachiguiri,0001,San José Lachiguiri
+20,Oaxaca,Oax.,171,San José Tenango,SJTN,San José Tenango,0001,San José Tenango
+20,Oaxaca,Oax.,172,San Juan Achiutla,SJAC,San Juan Achiutla,0001,San Juan Achiutla
+20,Oaxaca,Oax.,173,San Juan Atepec,SJAT,San Juan Atepec,0001,San Juan Atepec
+20,Oaxaca,Oax.,174,?nimas Trujano,ANTR,Animas Trujano,0001,?nimas Trujano
+20,Oaxaca,Oax.,175,San Juan Bautista Atatlahuca,SJBA,S. Juan Bautista Atatlahuca,0001,San Juan Bautista Atatlahuca
+20,Oaxaca,Oax.,176,San Juan Bautista Coixtlahuaca,SJBX,S. Juan B. Coixtlahuaca,0001,San Juan Bautista Coixtlahuaca
+20,Oaxaca,Oax.,177,San Juan Bautista Cuicatlán,SJBC,San Juan Bautista Cuicatlá,0001,San Juan Bautista Cuicatlán
+20,Oaxaca,Oax.,178,San Juan Bautista Guelache,SJBG,San Juan Bautista Guelache,0001,San Juan Bautista Guelache
+20,Oaxaca,Oax.,179,San Juan Bautista Jayacatlán,SJBJ,S. Juan Bautista Jayacatlá,0001,San Juan Bautista Jayacatlán
+20,Oaxaca,Oax.,180,San Juan Bautista Lo de Soto,SJBS,S. Juan Bautista Lo de Soto,0001,San Juan Bautista Lo de Soto
+20,Oaxaca,Oax.,181,San Juan Bautista Suchitepec,SBAS,S. Juan Bautista Suchitepec,0001,San Juan Bautista Suchitepec
+20,Oaxaca,Oax.,182,San Juan Bautista Tlacoatzintepec,SJBT,S. Juan B. Tlacoatzintepec,0001,San Juan Bautista Tlacoatzintepec
+20,Oaxaca,Oax.,183,San Juan Bautista Tlachichilco,SJBH,S. Juan B. Tlachichilco,0001,San Juan Bautista Tlachichilco
+20,Oaxaca,Oax.,184,San Juan Bautista Tuxtepec,SBTX,San Juan Bautista Tuxtepec,0001,San Juan Bautista Tuxtepec
+20,Oaxaca,Oax.,185,San Juan Cacahuatepec,SJCC,San Juan Cacahuatepec,0001,San Juan Cacahuatepec
+20,Oaxaca,Oax.,186,San Juan Cieneguilla,SJCI,San Juan Cieneguilla,0001,San Juan Cieneguilla
+20,Oaxaca,Oax.,187,San Juan Coatzóspam,SJCO,San Juan Coatzóspam,0001,San Juan Coatzóspam
+20,Oaxaca,Oax.,188,San Juan Colorado,SJCL,San Juan Colorado,0001,San Juan Colorado
+20,Oaxaca,Oax.,189,San Juan Comaltepec,SJCM,San Juan Comaltepec,0001,San Juan Comaltepec
+20,Oaxaca,Oax.,190,San Juan Cotzocón,SJCT,San Juan Cotzocón,0001,San Juan Cotzocón
+20,Oaxaca,Oax.,191,San Juan Chicomezúchil,SJCZ,San Juan Chicomezúchil,0001,San Juan Chicomezúchil
+20,Oaxaca,Oax.,192,San Juan Chilateca,SJLT,San Juan Chilateca,0001,San Juan Chilateca
+20,Oaxaca,Oax.,193,San Juan del Estado,SAJE,San Juan del Estado,0001,San Juan del Estado
+20,Oaxaca,Oax.,194,San Juan del Río,SAJR,San Juan del Río,0001,San Juan del Río
+20,Oaxaca,Oax.,195,San Juan Diuxi,SAJD,San Juan Diuxi,0001,San Juan Diuxi
+20,Oaxaca,Oax.,196,San Juan Evangelista Analco,SJEA,San Juan Evangelista Analco,0001,San Juan Evangelista Analco
+20,Oaxaca,Oax.,197,San Juan Guelavía,SAJG,San Juan Guelavía,0001,San Juan Guelavía
+20,Oaxaca,Oax.,198,San Juan Guichicovi,SJGC,San Juan Guichicovi,0001,San Juan Guichicovi
+20,Oaxaca,Oax.,199,San Juan Ihualtepec,SJIH,San Juan Ihualtepec,0001,San Juan Ihualtepec
+20,Oaxaca,Oax.,200,San Juan Juquila Mixes,SJJM,San Juan Juquila Mixes,0001,San Juan Juquila Mixes
+20,Oaxaca,Oax.,201,San Juan Juquila Vijanos,SJJV,San Juan Juquila Vijanos,0001,San Juan Juquila Vijanos
+20,Oaxaca,Oax.,202,San Juan Lachao,SJLA,San Juan Lachao,0001,San Juan Lachao
+20,Oaxaca,Oax.,203,San Juan Lachigalla,SJLG,San Juan Lachigalla,0001,San Juan Lachigalla
+20,Oaxaca,Oax.,204,San Juan Lajarcia,SJLJ,San Juan Lajarcia,0001,San Juan Lajarcia
+20,Oaxaca,Oax.,205,San Juan Lalana,SJLN,San Juan Lalana,0001,San Juan Lalana
+20,Oaxaca,Oax.,206,San Juan de los Cués,SJCU,San Juan de los Cués,0001,San Juan de los Cués
+20,Oaxaca,Oax.,207,San Juan Mazatlán,SAJM,San Juan Mazatlán,0001,San Juan Mazatlán
+20,Oaxaca,Oax.,208,San Juan Mixtepec -Dto. 08 -,SJM8,San Juan Mixtepec,0001,San Juan Mixtepec -Dto. 08-
+20,Oaxaca,Oax.,209,San Juan Mixtepec -Dto. 26 -,SJM6,San Juan Mixtepec,0001,San Juan Mixtepec -Dto. 26-
+20,Oaxaca,Oax.,210,San Juan Ñumí,SAJ?,San Juan Ñumí,0001,San Juan Ñumí
+20,Oaxaca,Oax.,211,San Juan Ozolotepec,SJOZ,San Juan Ozolotepec,0001,San Juan Ozolotepec
+20,Oaxaca,Oax.,212,San Juan Petlapa,SJPT,San Juan Petlapa,0001,San Juan Petlapa
+20,Oaxaca,Oax.,213,San Juan Quiahije,SAJQ,San Juan Quiahije,0001,San Juan Quiahije
+20,Oaxaca,Oax.,214,San Juan Quiotepec,SJQU,San Juan Quiotepec,0001,San Juan Quiotepec
+20,Oaxaca,Oax.,215,San Juan Sayultepec,SJSY,San Juan Sayultepec,0001,San Juan Sayultepec
+20,Oaxaca,Oax.,216,San Juan Tabaá,SJTB,San Juan Tabaá,0001,San Juan Tabaá
+20,Oaxaca,Oax.,217,San Juan Tamazola,SJTM,San Juan Tamazola,0001,San Juan Tamazola
+20,Oaxaca,Oax.,218,San Juan Teita,SJTT,San Juan Teita,0001,San Juan Teita
+20,Oaxaca,Oax.,219,San Juan Teitipac,SJTI,San Juan Teitipac,0001,San Juan Teitipac
+20,Oaxaca,Oax.,220,San Juan Tepeuxila,SJTP,San Juan Tepeuxila,0001,San Juan Tepeuxila
+20,Oaxaca,Oax.,221,San Juan Teposcolula,SJTL,San Juan Teposcolula,0001,San Juan Teposcolula
+20,Oaxaca,Oax.,222,San Juan Yaeé,SAJY,San Juan Yaeé,0001,San Juan Yaeé
+20,Oaxaca,Oax.,223,San Juan Yatzona,SJYA,San Juan Yatzona,0001,San Juan Yatzona
+20,Oaxaca,Oax.,224,San Juan Yucuita,SJYU,San Juan Yucuita,0001,San Juan Yucuita
+20,Oaxaca,Oax.,225,San Lorenzo,SALO,San Lorenzo,0001,San Lorenzo
+20,Oaxaca,Oax.,226,San Lorenzo Albarradas,SLAL,San Lorenzo Albarradas,0001,San Lorenzo Albarradas
+20,Oaxaca,Oax.,227,San Lorenzo Cacaotepec,SALC,San Lorenzo Cacaotepec,0001,San Lorenzo Cacaotepec
+20,Oaxaca,Oax.,228,San Lorenzo Cuaunecuiltitla,SLCU,San Lorenzo Cuaunecuiltitla,0001,San Lorenzo Cuaunecuiltitla
+20,Oaxaca,Oax.,229,San Lorenzo Texmelúcan,SALT,San Lorenzo Texmelucan,0001,San Lorenzo Texmelúcan
+20,Oaxaca,Oax.,230,San Lorenzo Victoria,SALV,San Lorenzo Victoria,0001,San Lorenzo Victoria
+20,Oaxaca,Oax.,231,San Lucas Camotlán,SLCA,San Lucas Camotlán,0001,San Lucas Camotlán
+20,Oaxaca,Oax.,232,San Lucas Ojitlán,SLOJ,San Lucas Ojitlán,0001,San Lucas Ojitlán
+20,Oaxaca,Oax.,233,San Lucas Quiaviní,SALQ,San Lucas Quiaviní,0001,San Lucas Quiaviní
+20,Oaxaca,Oax.,234,San Lucas Zoquiápam,SALZ,San Lucas Zoquiápam,0001,San Lucas Zoquiápam
+20,Oaxaca,Oax.,235,San Luis Amatlán,SLAM,San Luis Amatlán,0001,San Luis Amatlán
+20,Oaxaca,Oax.,236,San Marcial Ozolotepec,SAMO,San Marcial Ozolotepec,0001,San Marcial Ozolotepec
+20,Oaxaca,Oax.,237,San Marcos Arteaga,SAMA,San Marcos Arteaga,0001,San Marcos Arteaga
+20,Oaxaca,Oax.,238,San Martín de los Cansecos,SAMC,San Martín de los Cansecos,0001,San Martín de los Cansecos
+20,Oaxaca,Oax.,239,San Martín Huamelúlpam,SAMH,San Martín Huamelúlpam,0001,San Martín Huamelúlpam
+20,Oaxaca,Oax.,240,San Martín Itunyoso,SAMI,San Martín Itunyoso,0001,San Martín Itunyoso
+20,Oaxaca,Oax.,241,San Martín Lachilá,SAML,San Martín Lachilá,0001,San Martín Lachilá
+20,Oaxaca,Oax.,242,San Martín Peras,SAMP,San Martín Peras,0001,San Martín Peras
+20,Oaxaca,Oax.,243,San Martín Tilcajete,SAMT,San Martín Tilcajete,0001,San Martín Tilcajete
+20,Oaxaca,Oax.,244,San Martín Toxpalan,SMTO,San Martín Toxpalan,0001,San Martín Toxpalan
+20,Oaxaca,Oax.,245,San Martín Zacatepec,SAMZ,San Martín Zacatepec,0001,San Martín Zacatepec
+20,Oaxaca,Oax.,246,San Mateo Cajonos,SMCA,San Mateo Cajonos,0001,San Mateo Cajonos
+20,Oaxaca,Oax.,247,Capulálpam de Méndez,CADM,Capulálpam de Méndez,0001,Capulálpam de Méndez
+20,Oaxaca,Oax.,248,San Mateo del Mar,SAMM,San Mateo del Mar,0001,San Mateo del Mar
+20,Oaxaca,Oax.,249,San Mateo Yoloxochitlán,SAMY,San Mateo Yoloxochitlán,0001,San Mateo Yoloxochitlán
+20,Oaxaca,Oax.,250,San Mateo Etlatongo,SAME,San Mateo Etlatongo,0001,San Mateo Etlatongo
+20,Oaxaca,Oax.,251,San Mateo Nejápam,SAMN,San Mateo Nejápam,0001,San Mateo Nejápam
+20,Oaxaca,Oax.,252,San Mateo Peñasco,SMP?,San Mateo Peñasco,0001,San Mateo Peñasco
+20,Oaxaca,Oax.,253,San Mateo Piñas,SM?',San Mateo Piñas,0001,San Mateo Piñas
+20,Oaxaca,Oax.,254,San Mateo Río Hondo,SMRH,San Mateo Río Hondo,0001,San Mateo Río Hondo
+20,Oaxaca,Oax.,255,San Mateo Sindihui,SAMS,San Mateo Sindihui,0001,San Mateo Sindihui
+20,Oaxaca,Oax.,256,San Mateo Tlapiltepec,SMTL,San Mateo Tlapiltepec,0001,San Mateo Tlapiltepec
+20,Oaxaca,Oax.,257,San Melchor Betaza,SAMB,San Melchor Betaza,0001,San Melchor Betaza
+20,Oaxaca,Oax.,258,San Miguel Achiutla,SMAC,San Miguel Achiutla,0001,San Miguel Achiutla
+20,Oaxaca,Oax.,259,San Miguel Ahuehuetitlán,SMIA,San Miguel Ahuehuetitlán,0001,San Miguel Ahuehuetitlán
+20,Oaxaca,Oax.,260,San Miguel Aloápam,SMAL,San Miguel Aloápam,0001,San Miguel Aloápam
+20,Oaxaca,Oax.,261,San Miguel Amatitlán,SMAM,San Miguel Amatitlán,0001,San Miguel Amatitlán
+20,Oaxaca,Oax.,262,San Miguel Amatlán,SMIT,San Miguel Amatlán,0001,San Miguel Amatlán
+20,Oaxaca,Oax.,263,San Miguel Coatlán,SMCO,San Miguel Coatlán,0001,San Miguel Coatlán
+20,Oaxaca,Oax.,264,San Miguel Chicahua,SMCH,San Miguel Chicahua,0001,San Miguel Chicahua
+20,Oaxaca,Oax.,265,San Miguel Chimalapa,SMCP,San Miguel Chimalapa,0001,San Miguel Chimalapa
+20,Oaxaca,Oax.,266,San Miguel del Puerto,SMPT,San Miguel del Puerto,0001,San Miguel del Puerto
+20,Oaxaca,Oax.,267,San Miguel del Río,SAMR,San Miguel del Río,0001,San Miguel del Río
+20,Oaxaca,Oax.,268,San Miguel Ejutla,SMEJ,San Miguel Ejutla,0001,San Miguel Ejutla
+20,Oaxaca,Oax.,269,San Miguel el Grande,SAMG,San Miguel el Grande,0001,San Miguel el Grande
+20,Oaxaca,Oax.,270,San Miguel Huautla,SMIH,San Miguel Huautla,0001,San Miguel Huautla
+20,Oaxaca,Oax.,271,San Miguel Mixtepec,SMMI,San Miguel Mixtepec,0001,San Miguel Mixtepec
+20,Oaxaca,Oax.,272,San Miguel Panixtlahuaca,SMPX,San Miguel Panixtlahuaca,0001,San Miguel Panixtlahuaca
+20,Oaxaca,Oax.,273,San Miguel Peras,SMPR,San Miguel Peras,0001,San Miguel Peras
+20,Oaxaca,Oax.,274,San Miguel Piedras,SMPI,San Miguel Piedras,0001,San Miguel Piedras
+20,Oaxaca,Oax.,275,San Miguel Quetzaltepec,SAMQ,San Miguel Quetzaltepec,0001,San Miguel Quetzaltepec
+20,Oaxaca,Oax.,276,San Miguel Santa Flor,SMSF,San Miguel Santa Flor,0001,San Miguel Santa Flor
+20,Oaxaca,Oax.,277,Villa Sola de Vega,VISV,Villa Sola de Vega,0001,Villa Sola de Vega
+20,Oaxaca,Oax.,278,San Miguel Soyaltepec,SMSY,San Miguel Soyaltepec,0001,Temascal
+20,Oaxaca,Oax.,279,San Miguel Suchixtepec,SMSU,San Miguel Suchixtepec,0001,San Miguel Suchixtepec
+20,Oaxaca,Oax.,280,Villa Talea de Castro,VITC,Villa Talea de Castro,0001,Villa Talea de Castro
+20,Oaxaca,Oax.,281,San Miguel Tecomatlán,SMGT,San Miguel Tecomatlán,0001,San Miguel Tecomatlán
+20,Oaxaca,Oax.,282,San Miguel Tenango,SMTE,San Miguel Tenango,0001,San Miguel Tenango
+20,Oaxaca,Oax.,283,San Miguel Tequixtepec,SMIX,San Miguel Tequixtepec,0001,San Miguel Tequixtepec
+20,Oaxaca,Oax.,284,San Miguel Tilquiápam,SMTQ,San Miguel Tilquiápam,0001,San Miguel Tilquiápam
+20,Oaxaca,Oax.,285,San Miguel Tlacamama,SMTC,San Miguel Tlacamama,0001,San Miguel Tlacamama
+20,Oaxaca,Oax.,286,San Miguel Tlacotepec,SMTA,San Miguel Tlacotepec,0001,San Miguel Tlacotepec
+20,Oaxaca,Oax.,287,San Miguel Tulancingo,SMIU,San Miguel Tulancingo,0001,San Miguel Tulancingo
+20,Oaxaca,Oax.,288,San Miguel Yotao,SMIY,San Miguel Yotao,0001,San Miguel Yotao
+20,Oaxaca,Oax.,289,San Nicolás,SNIC,San Nicolás,0001,San Nicolás
+20,Oaxaca,Oax.,290,San Nicolás Hidalgo,SNHI,San Nicolás Hidalgo,0001,San Nicolás Hidalgo
+20,Oaxaca,Oax.,291,San Pablo Coatlán,SAPC,San Pablo Coatlán,0001,San Pablo Coatlán
+20,Oaxaca,Oax.,292,San Pablo Cuatro Venados,SPCV,San Pablo Cuatro Venados,0001,San Pablo Cuatro Venados
+20,Oaxaca,Oax.,293,San Pablo Etla,SAPE,San Pablo Etla,0001,San Pablo Etla
+20,Oaxaca,Oax.,294,San Pablo Huitzo,SAPH,San Pablo Huitzo,0001,San Pablo Huitzo
+20,Oaxaca,Oax.,295,San Pablo Huixtepec,SPHU,San Pablo Huixtepec,0001,San Pablo Huixtepec
+20,Oaxaca,Oax.,296,San Pablo Macuiltianguis,SPMC,San Pablo Macuiltianguis,0001,San Pablo Macuiltianguis
+20,Oaxaca,Oax.,297,San Pablo Tijaltepec,SAPT,San Pablo Tijaltepec,0001,San Pablo Tijaltepec
+20,Oaxaca,Oax.,298,San Pablo Villa de Mitla,SPVM,San Pablo Villa de Mitla,0001,San Pablo Villa de Mitla
+20,Oaxaca,Oax.,299,San Pablo Yaganiza,SAPY,San Pablo Yaganiza,0001,San Pablo Yaganiza
+20,Oaxaca,Oax.,300,San Pedro Amuzgos,SAPA,San Pedro Amuzgos,0001,San Pedro Amuzgos
+20,Oaxaca,Oax.,301,San Pedro Apóstol,SPAP,San Pedro Apóstol,0001,San Pedro Apóstol
+20,Oaxaca,Oax.,302,San Pedro Atoyac,SPAT,San Pedro Atoyac,0001,San Pedro Atoyac
+20,Oaxaca,Oax.,303,San Pedro Cajonos,SPCA,San Pedro Cajonos,0001,San Pedro Cajonos
+20,Oaxaca,Oax.,304,San Pedro Coxcaltepec Cántaros,SPCC,S P. Coxcaltepec Cántaros,0001,San Pedro Coxcaltepec Cántaros
+20,Oaxaca,Oax.,305,San Pedro Comitancillo,SPCO,San Pedro Comitancillo,0001,San Pedro Comitancillo
+20,Oaxaca,Oax.,306,San Pedro el Alto,SPAL,San Pedro el Alto,0001,San Pedro el Alto
+20,Oaxaca,Oax.,307,San Pedro Huamelula,SPHM,San Pedro Huamelula,0001,San Pedro Huamelula
+20,Oaxaca,Oax.,308,San Pedro Huilotepec,SPHP,San Pedro Huilotepec,0001,San Pedro Huilotepec
+20,Oaxaca,Oax.,309,San Pedro Ixcatlán,SAPI,San Pedro Ixcatlán,0001,San Pedro Ixcatlán
+20,Oaxaca,Oax.,310,San Pedro Ixtlahuaca,SPIX,San Pedro Ixtlahuaca,0001,San Pedro Ixtlahuaca
+20,Oaxaca,Oax.,311,San Pedro Jaltepetongo,SAPJ,San Pedro Jaltepetongo,0001,San Pedro Jaltepetongo
+20,Oaxaca,Oax.,312,San Pedro Jicayán,SPJI,San Pedro Jicayán,0001,San Pedro Jicayán
+20,Oaxaca,Oax.,313,San Pedro Jocotipac,SPJO,San Pedro Jocotipac,0001,San Pedro Jocotipac
+20,Oaxaca,Oax.,314,San Pedro Juchatengo,SPJU,San Pedro Juchatengo,0001,San Pedro Juchatengo
+20,Oaxaca,Oax.,315,San Pedro Mártir,SAPM,San Pedro Mártir,0001,San Pedro Mártir
+20,Oaxaca,Oax.,316,San Pedro Mártir Quiechapa,SPMQ,San Pedro Mártir Quiechapa,0001,San Pedro Mártir Quiechapa
+20,Oaxaca,Oax.,317,San Pedro Mártir Yucuxaco,SPMY,San Pedro Mártir Yucuxaco,0001,San Pedro Mártir Yucuxaco
+20,Oaxaca,Oax.,318,San Pedro Mixtepec -Dto. 22 -,SPM2,San Pedro Mixtepec,0001,San Pedro Mixtepec -Dto. 22-
+20,Oaxaca,Oax.,319,San Pedro Mixtepec -Dto. 26 -,SPM6,San Pedro Mixtepec,0001,San Pedro Mixtepec -Dto. 26-
+20,Oaxaca,Oax.,320,San Pedro Molinos,SPMO,San Pedro Molinos,0001,San Pedro Molinos
+20,Oaxaca,Oax.,321,San Pedro Nopala,SAPN,San Pedro Nopala,0001,San Pedro Nopala
+20,Oaxaca,Oax.,322,San Pedro Ocopetatillo,SPEO,San Pedro Ocopetatillo,0001,San Pedro Ocopetatillo
+20,Oaxaca,Oax.,323,San Pedro Ocotepec,SPOC,San Pedro Ocotepec,0001,San Pedro Ocotepec
+20,Oaxaca,Oax.,324,San Pedro Pochutla,SAPP,San Pedro Pochutla,0001,San Pedro Pochutla
+20,Oaxaca,Oax.,325,San Pedro Quiatoni,SAPQ,San Pedro Quiatoni,0001,San Pedro Quiatoni
+20,Oaxaca,Oax.,326,San Pedro Sochiápam,SAPS,San Pedro Sochiápam,0001,San Pedro Sochiápam
+20,Oaxaca,Oax.,327,San Pedro Tapanatepec,SPTP,San Pedro Tapanatepec,0001,San Pedro Tapanatepec
+20,Oaxaca,Oax.,328,San Pedro Taviche,SPTA,San Pedro Taviche,0001,San Pedro Taviche
+20,Oaxaca,Oax.,329,San Pedro Teozacoalco,SPTE,San Pedro Teozacoalco,0001,San Pedro Teozacoalco
+20,Oaxaca,Oax.,330,San Pedro Teutila,SPTU,San Pedro Teutila,0001,San Pedro Teutila
+20,Oaxaca,Oax.,331,San Pedro Tidaá,SPTI,San Pedro Tidaá,0001,San Pedro Tidaá
+20,Oaxaca,Oax.,332,San Pedro Topiltepec,SPTO,San Pedro Topiltepec,0001,San Pedro Topiltepec
+20,Oaxaca,Oax.,333,San Pedro Totolápam,SPTT,San Pedro Totolápam,0001,San Pedro Totolápam
+20,Oaxaca,Oax.,334,Villa de Tututepec de Melchor Ocampo,VTMO,V de Tututepec de Melchor O,0001,Villa de Tututepec de Melchor Ocampo
+20,Oaxaca,Oax.,335,San Pedro Yaneri,SPYN,San Pedro Yaneri,0001,San Pedro Yaneri
+20,Oaxaca,Oax.,336,San Pedro Yólox,SPYO,San Pedro Yólox,0001,San Pedro Yólox
+20,Oaxaca,Oax.,337,San Pedro y San Pablo Ayutla,SPSP,S. Pedro y S. Pablo Ayutla,0001,San Pedro y San Pablo Ayutla
+20,Oaxaca,Oax.,338,Villa de Etla,VIDE,Villa de Etla,0001,Villa de Etla
+20,Oaxaca,Oax.,339,San Pedro y San Pablo Teposcolula,SPPT,S Pedro S Pablo Teposcolula,0001,San Pedro y San Pablo Teposcolula
+20,Oaxaca,Oax.,340,San Pedro y San Pablo Tequixtepec,SPPQ,S Pedro S Pablo Tequixtepec,0001,San Pedro y San Pablo Tequixtepec
+20,Oaxaca,Oax.,341,San Pedro Yucunama,SPYC,San Pedro Yucunama,0001,San Pedro Yucunama
+20,Oaxaca,Oax.,342,San Raymundo Jalpan,SARJ,San Raymundo Jalpan,0001,San Raymundo Jalpan
+20,Oaxaca,Oax.,343,San Sebastián Abasolo,SSAB,San Sebastián Abasolo,0001,San Sebastián Abasolo
+20,Oaxaca,Oax.,344,San Sebastián Coatlán,SASC,San Sebastián Coatlán,0001,San Sebastián Coatlán
+20,Oaxaca,Oax.,345,San Sebastián Ixcapa,SSIX,San Sebastián Ixcapa,0001,San Sebastián Ixcapa
+20,Oaxaca,Oax.,346,San Sebastián Nicananduta,SSNI,San Sebastián Nicananduta,0001,San Sebastián Nicananduta
+20,Oaxaca,Oax.,347,San Sebastián Río Hondo,SSRH,San Sebastián Río Hondo,0001,San Sebastián Río Hondo
+20,Oaxaca,Oax.,348,San Sebastián Tecomaxtlahuaca,SAST,S Sebastián Tecomaxtlahuac,0001,San Sebastián Tecomaxtlahuaca
+20,Oaxaca,Oax.,349,San Sebastián Teitipac,SSET,San Sebastián Teitipac,0001,San Sebastián Teitipac
+20,Oaxaca,Oax.,350,San Sebastián Tutla,SSTU,San Sebastián Tutla,0001,San Sebastián Tutla
+20,Oaxaca,Oax.,351,San Simón Almolongas,SSAL,San Simón Almolongas,0001,San Simón Almolongas
+20,Oaxaca,Oax.,352,San Simón Zahuatlán,SASZ,San Simón Zahuatlán,0001,San Simón Zahuatlán
+20,Oaxaca,Oax.,353,Santa Ana,SANA,Santa Ana,0001,Santa Ana
+20,Oaxaca,Oax.,354,Santa Ana Ateixtlahuaca,SAAX,Santa Ana Ateixtlahuaca,0001,Santa Ana Ateixtlahuaca
+20,Oaxaca,Oax.,355,Santa Ana Cuauhtémoc,SACU,Santa Ana Cuauhtémoc,0001,Santa Ana Cuauhtémoc
+20,Oaxaca,Oax.,356,Santa Ana del Valle,SAAV,Santa Ana del Valle,0001,Santa Ana del Valle
+20,Oaxaca,Oax.,357,Santa Ana Tavela,SATV,Santa Ana Tavela,0001,Santa Ana Tavela
+20,Oaxaca,Oax.,358,Santa Ana Tlapacoyan,STLP,Santa Ana Tlapacoyan,0001,Santa Ana Tlapacoyan
+20,Oaxaca,Oax.,359,Santa Ana Yareni,SAYR,Santa Ana Yareni,0001,Santa Ana Yareni
+20,Oaxaca,Oax.,360,Santa Ana Zegache,SAZE,Santa Ana Zegache,0001,Santa Ana Zegache
+20,Oaxaca,Oax.,361,Santa Catalina Quierí,SCAQ,Santa Catalina Quierí,0001,Santa Catalina Quierí
+20,Oaxaca,Oax.,362,Santa Catarina Cuixtla,SACC,Santa Catarina Cuixtla,0001,Santa Catarina Cuixtla
+20,Oaxaca,Oax.,363,Santa Catarina Ixtepeji,SACI,Santa Catarina Ixtepeji,0001,Santa Catarina Ixtepeji
+20,Oaxaca,Oax.,364,Santa Catarina Juquila,SACJ,Santa Catarina Juquila,0001,Santa Catarina Juquila
+20,Oaxaca,Oax.,365,Santa Catarina Lachatao,SCLA,Santa Catarina Lachatao,0001,Santa Catarina Lachatao
+20,Oaxaca,Oax.,366,Santa Catarina Loxicha,SCLO,Santa Catarina Loxicha,0001,Santa Catarina Loxicha
+20,Oaxaca,Oax.,367,Santa Catarina Mechoacán,SACM,Santa Catarina Mechoacán,0001,Santa Catarina Mechoacán
+20,Oaxaca,Oax.,368,Santa Catarina Minas,SCMI,Santa Catarina Minas,0001,Santa Catarina Minas
+20,Oaxaca,Oax.,369,Santa Catarina Quiané,SCQN,Santa Catarina Quiané,0001,Santa Catarina Quiané
+20,Oaxaca,Oax.,370,Santa Catarina Tayata,SACT,Santa Catarina Tayata,0001,Santa Catarina Tayata
+20,Oaxaca,Oax.,371,Santa Catarina Ticuá,SCTI,Santa Catarina Ticuá,0001,Santa Catarina Ticuá
+20,Oaxaca,Oax.,372,Santa Catarina Yosonotú,SCYO,Santa Catarina Yosonotú,0001,Santa Catarina Yosonotú
+20,Oaxaca,Oax.,373,Santa Catarina Zapoquila,SACZ,Santa Catarina Zapoquila,0001,Santa Catarina Zapoquila
+20,Oaxaca,Oax.,374,Santa Cruz Acatepec,SCAC,Santa Cruz Acatepec,0001,Santa Cruz Acatepec
+20,Oaxaca,Oax.,375,Santa Cruz Amilpas,SCMA,Santa Cruz Amilpas,0001,Santa Cruz Amilpas
+20,Oaxaca,Oax.,376,Santa Cruz de Bravo,SACB,Santa Cruz de Bravo,0001,Santa Cruz de Bravo
+20,Oaxaca,Oax.,377,Santa Cruz Itundujia,SCIT,Santa Cruz Itundujia,0001,Santa Cruz Itundujia
+20,Oaxaca,Oax.,378,Santa Cruz Mixtepec,SCMX,Santa Cruz Mixtepec,0001,Santa Cruz Mixtepec
+20,Oaxaca,Oax.,379,Santa Cruz Nundaco,SCNU,Santa Cruz Nundaco,0001,Santa Cruz Nundaco
+20,Oaxaca,Oax.,380,Santa Cruz Papalutla,SACP,Santa Cruz Papalutla,0001,Santa Cruz Papalutla
+20,Oaxaca,Oax.,381,Santa Cruz Tacache de Mina,SCTM,Santa Cruz Tacache de Mina,0001,Santa Cruz Tacache de Mina
+20,Oaxaca,Oax.,382,Santa Cruz Tacahua,SCRT,Santa Cruz Tacahua,0001,Santa Cruz Tacahua
+20,Oaxaca,Oax.,383,Santa Cruz Tayata,SCTA,Santa Cruz Tayata,0001,Santa Cruz Tayata
+20,Oaxaca,Oax.,384,Santa Cruz Xitla,SACX,Santa Cruz Xitla,0001,Santa Cruz Xitla
+20,Oaxaca,Oax.,385,Santa Cruz Xoxocotlán,SCXO,Santa Cruz Xoxocotlán,0001,Santa Cruz Xoxocotlán
+20,Oaxaca,Oax.,386,Santa Cruz Zenzontepec,SCZE,Santa Cruz Zenzontepec,0001,Santa Cruz Zenzontepec
+20,Oaxaca,Oax.,387,Santa Gertrudis,SAGE,Santa Gertrudis,0001,Santa Gertrudis
+20,Oaxaca,Oax.,388,Santa Inés del Monte,SAIM,Santa Inés del Monte,0001,Santa Inés del Monte
+20,Oaxaca,Oax.,389,Santa Inés Yatzeche,SAIY,Santa Inés Yatzeche,0001,Santa Inés Yatzeche
+20,Oaxaca,Oax.,390,Santa Lucía del Camino,SLCM,Santa Lucía del Camino,0001,Santa Lucía del Camino
+20,Oaxaca,Oax.,391,Santa Lucía Miahuatlán,SALM,Santa Lucía Miahuatlán,0001,Santa Lucía Miahuatlán
+20,Oaxaca,Oax.,392,Santa Lucía Monteverde,SLMO,Santa Lucía Monteverde,0001,Santa Lucía Monteverde
+20,Oaxaca,Oax.,393,Santa Lucía Ocotlán,SLOC,Santa Lucía Ocotlán,0001,Santa Lucía Ocotlán
+20,Oaxaca,Oax.,394,Santa María Alotepec,SMLP,Santa María Alotepec,0001,Santa María Alotepec
+20,Oaxaca,Oax.,395,Santa María Apazco,SMAP,Santa María Apazco,0001,Santa María Apazco
+20,Oaxaca,Oax.,396,Santa María la Asunción,SMAS,Santa María la Asunción,0001,Santa María la Asunción
+20,Oaxaca,Oax.,397,Heroica Ciudad de Tlaxiaco,HECT,Heroica Ciudad de Tlaxiaco,0001,Heroica Ciudad de Tlaxiaco
+20,Oaxaca,Oax.,398,Ayoquezco de Aldama,AYDA,Ayoquezco de Aldama,0001,Ayoquezco de Aldama
+20,Oaxaca,Oax.,399,Santa María Atzompa,SMTZ,Santa María Atzompa,0001,Santa María Atzompa
+20,Oaxaca,Oax.,400,Santa María Camotlán,SMCT,Santa María Camotlán,0001,Santa María Camotlán
+20,Oaxaca,Oax.,401,Santa María Colotepec,SMCC,Santa María Colotepec,0001,Santa María Colotepec
+20,Oaxaca,Oax.,402,Santa María Cortijo,SMCR,Santa María Cortijo,0001,Santa María Cortijo
+20,Oaxaca,Oax.,403,Santa María Coyotepec,SMCY,Santa María Coyotepec,0001,Santa María Coyotepec
+20,Oaxaca,Oax.,404,Santa María Chachoápam,SMHH,Santa María Chachoápam,0001,Santa María Chachoápam
+20,Oaxaca,Oax.,405,Villa de Chilapa de Díaz,VICD,Villa de Chilapa de Díaz,0001,Villa de Chilapa de Díaz
+20,Oaxaca,Oax.,406,Santa María Chilchotla,SMCL,Santa María Chilchotla,0001,Santa María Chilchotla
+20,Oaxaca,Oax.,407,Santa María Chimalapa,SMCM,Santa María Chimalapa,0001,Santa María Chimalapa
+20,Oaxaca,Oax.,408,Santa María del Rosario,SMRO,Santa María del Rosario,0001,Santa María del Rosario
+20,Oaxaca,Oax.,409,Santa María del Tule,SMTU,Santa María del Tule,0001,Santa María del Tule
+20,Oaxaca,Oax.,410,Santa María Ecatepec,SMEC,Santa María Ecatepec,0001,Santa María Ecatepec
+20,Oaxaca,Oax.,411,Santa María Guelacé,SMGU,Santa María Guelacé,0001,Santa María Guelacé
+20,Oaxaca,Oax.,412,Santa María Guienagati,SMGG,Santa María Guienagati,0001,Santa María Guienagati
+20,Oaxaca,Oax.,413,Santa María Huatulco,SMAH,Santa María Huatulco,0001,Santa María Huatulco
+20,Oaxaca,Oax.,414,Santa María Huazolotitlán,SMHU,Santa María Huazolotitlán,0001,Santa María Huazolotitlán
+20,Oaxaca,Oax.,415,Santa María Ipalapa,SMIP,Santa María Ipalapa,0001,Santa María Ipalapa
+20,Oaxaca,Oax.,416,Santa María Ixcatlán,SMIC,Santa María Ixcatlán,0001,Santa María Ixcatlán
+20,Oaxaca,Oax.,417,Santa María Jacatepec,SMJA,Santa María Jacatepec,0001,Santa María Jacatepec
+20,Oaxaca,Oax.,418,Santa María Jalapa del Marqués,SMJM,Sta. Ma. Jalapa del Marqué,0001,Santa María Jalapa del Marqués
+20,Oaxaca,Oax.,419,Santa María Jaltianguis,SMJG,Santa María Jaltianguis,0001,Santa María Jaltianguis
+20,Oaxaca,Oax.,420,Santa María Lachixío,SMLX,Santa María Lachixío,0001,Santa María Lachixío
+20,Oaxaca,Oax.,421,Santa María Mixtequilla,SMMX,Santa María Mixtequilla,0001,Santa María Mixtequilla
+20,Oaxaca,Oax.,422,Santa María Nativitas,SMNA,Santa María Nativitas,0001,Santa María Nativitas
+20,Oaxaca,Oax.,423,Santa María Nduayaco,SMND,Santa María Nduayaco,0001,Santa María Nduayaco
+20,Oaxaca,Oax.,424,Santa María Ozolotepec,SMOZ,Santa María Ozolotepec,0001,Santa María Ozolotepec
+20,Oaxaca,Oax.,425,Santa María Pápalo,SMPP,Santa María Pápalo,0001,Santa María Pápalo
+20,Oaxaca,Oax.,426,Santa María Peñoles,SMPS,Santa María Peñoles,0001,Santa María Peñoles
+20,Oaxaca,Oax.,427,Santa María Petapa,SMPE,Santa María Petapa,0001,Santa María Petapa
+20,Oaxaca,Oax.,428,Santa María Quiegolani,SMQU,Santa María Quiegolani,0001,Santa María Quiegolani
+20,Oaxaca,Oax.,429,Santa María Sola,SMSO,Santa María Sola,0001,Santa María Sola
+20,Oaxaca,Oax.,430,Santa María Tataltepec,SMTT,Santa María Tataltepec,0001,Santa María Tataltepec
+20,Oaxaca,Oax.,431,Santa María Tecomavaca,SMTV,Santa María Tecomavaca,0001,Santa María Tecomavaca
+20,Oaxaca,Oax.,432,Santa María Temaxcalapa,SMTM,Santa María Temaxcalapa,0001,Santa María Temaxcalapa
+20,Oaxaca,Oax.,433,Santa María Temaxcaltepec,SMTP,Santa María Temaxcaltepec,0001,Santa María Temaxcaltepec
+20,Oaxaca,Oax.,434,Santa María Teopoxco,SMEX,Santa María Teopoxco,0001,Santa María Teopoxco
+20,Oaxaca,Oax.,435,Santa María Tepantlali,SMTN,Santa María Tepantlali,0001,Santa María Tepantlali
+20,Oaxaca,Oax.,436,Santa María Texcatitlán,SMTX,Santa María Texcatitlán,0001,Santa María Texcatitlán
+20,Oaxaca,Oax.,437,Santa María Tlahuitoltepec,SMTH,Santa María Tlahuitoltepec,0001,Santa María Tlahuitoltepec
+20,Oaxaca,Oax.,438,Santa María Tlalixtac,STXL,Santa María Tlalixtac,0001,Santa María Tlalixtac
+20,Oaxaca,Oax.,439,Santa María Tonameca,SMAT,Santa María Tonameca,0001,Santa María Tonameca
+20,Oaxaca,Oax.,440,Santa María Totolapilla,SMTI,Santa María Totolapilla,0001,Santa María Totolapilla
+20,Oaxaca,Oax.,441,Santa María Xadani,SAMX,Santa María Xadani,0001,Santa María Xadani
+20,Oaxaca,Oax.,442,Santa María Yalina,SMAY,Santa María Yalina,0001,Santa María Yalina
+20,Oaxaca,Oax.,443,Santa María Yavesía,SMYA,Santa María Yavesía,0001,Santa María Yavesía
+20,Oaxaca,Oax.,444,Santa María Yolotepec,SMYO,Santa María Yolotepec,0001,Santa María Yolotepec
+20,Oaxaca,Oax.,445,Santa María Yosoyúa,SMYS,Santa María Yosoyúa,0001,Santa María Yosoyúa
+20,Oaxaca,Oax.,446,Santa María Yucuhiti,SMYC,Santa María Yucuhiti,0001,Santa María Yucuhiti
+20,Oaxaca,Oax.,447,Santa María Zacatepec,SMZC,Santa María Zacatepec,0001,Santa María Zacatepec
+20,Oaxaca,Oax.,448,Santa María Zaniza,SMZA,Santa María Zaniza,0001,Santa María Zaniza
+20,Oaxaca,Oax.,449,Santa María Zoquitlán,SMZO,Santa María Zoquitlán,0001,Santa María Zoquitlán
+20,Oaxaca,Oax.,450,Santiago Amoltepec,SAAM,Santiago Amoltepec,0001,Santiago Amoltepec
+20,Oaxaca,Oax.,451,Santiago Apoala,SAPO,Santiago Apoala,0001,Santiago Apoala
+20,Oaxaca,Oax.,452,Santiago Apóstol,SANP,Santiago Apóstol,0001,Santiago Apóstol
+20,Oaxaca,Oax.,453,Santiago Astata,SAAS,Santiago Astata,0001,Santiago Astata
+20,Oaxaca,Oax.,454,Santiago Atitlán,SATT,Santiago Atitlán,0001,Santiago Atitlán
+20,Oaxaca,Oax.,455,Santiago Ayuquililla,SAYU,Santiago Ayuquililla,0001,Santiago Ayuquililla
+20,Oaxaca,Oax.,456,Santiago Cacaloxtepec,SCAL,Santiago Cacaloxtepec,0001,Santiago Cacaloxtepec
+20,Oaxaca,Oax.,457,Santiago Camotlán,SATA,Santiago Camotlán,0001,Santiago Camotlán
+20,Oaxaca,Oax.,458,Santiago Comaltepec,SACO,Santiago Comaltepec,0001,Santiago Comaltepec
+20,Oaxaca,Oax.,459,Santiago Chazumba,SACH,Santiago Chazumba,0001,Santiago Chazumba
+20,Oaxaca,Oax.,460,Santiago Choápam,SANC,Santiago Choápam,0001,Santiago Choápam
+20,Oaxaca,Oax.,461,Santiago del Río,SARI,Santiago del Río,0001,Santiago del Río
+20,Oaxaca,Oax.,462,Santiago Huajolotitlán,SHUJ,Santiago Huajolotitlán,0001,Santiago Huajolotitlán
+20,Oaxaca,Oax.,463,Santiago Huauclilla,SAHU,Santiago Huauclilla,0001,Santiago Huauclilla
+20,Oaxaca,Oax.,464,Santiago Ihuitlán Plumas,SAIP,Santiago Ihuitlán Plumas,0001,Santiago Ihuitlán Plumas
+20,Oaxaca,Oax.,465,Santiago Ixcuintepec,SAIX,Santiago Ixcuintepec,0001,Santiago Ixcuintepec
+20,Oaxaca,Oax.,466,Santiago Ixtayutla,SNIX,Santiago Ixtayutla,0001,Santiago Ixtayutla
+20,Oaxaca,Oax.,467,Santiago Jamiltepec,SJAM,Santiago Jamiltepec,0001,Santiago Jamiltepec
+20,Oaxaca,Oax.,468,Santiago Jocotepec,SAJO,Santiago Jocotepec,0019,Monte Negro
+20,Oaxaca,Oax.,469,Santiago Juxtlahuaca,SAJU,Santiago Juxtlahuaca,0001,Santiago Juxtlahuaca
+20,Oaxaca,Oax.,470,Santiago Lachiguiri,SLAC,Santiago Lachiguiri,0001,Santiago Lachiguiri
+20,Oaxaca,Oax.,471,Santiago Lalopa,SANL,Santiago Lalopa,0001,Santiago Lalopa
+20,Oaxaca,Oax.,472,Santiago Laollaga,STLG,Santiago Laollaga,0001,Santiago Laollaga
+20,Oaxaca,Oax.,473,Santiago Laxopa,SAGL,Santiago Laxopa,0001,Santiago Laxopa
+20,Oaxaca,Oax.,474,Santiago Llano Grande,SALG,Santiago Llano Grande,0001,Santiago Llano Grande
+20,Oaxaca,Oax.,475,Santiago Matatlán,SMAN,Santiago Matatlán,0001,Santiago Matatlán
+20,Oaxaca,Oax.,476,Santiago Miltepec,SMIL,Santiago Miltepec,0001,Santiago Miltepec
+20,Oaxaca,Oax.,477,Santiago Minas,SANM,Santiago Minas,0001,Santiago Minas
+20,Oaxaca,Oax.,478,Santiago Nacaltepec,SNAT,Santiago Nacaltepec,0001,Santiago Nacaltepec
+20,Oaxaca,Oax.,479,Santiago Nejapilla,SANE,Santiago Nejapilla,0001,Santiago Nejapilla
+20,Oaxaca,Oax.,480,Santiago Nundiche,SANU,Santiago Nundiche,0001,Santiago Nundiche
+20,Oaxaca,Oax.,481,Santiago Nuyoó,SNUY,Santiago Nuyoó,0001,Santiago Nuyoó
+20,Oaxaca,Oax.,482,Santiago Pinotepa Nacional,SPNA,Santiago Pinotepa Nacional,0001,Santiago Pinotepa Nacional
+20,Oaxaca,Oax.,483,Santiago Suchilquitongo,SASU,Santiago Suchilquitongo,0001,Santiago Suchilquitongo
+20,Oaxaca,Oax.,484,Santiago Tamazola,STAM,Santiago Tamazola,0001,Santiago Tamazola
+20,Oaxaca,Oax.,485,Santiago Tapextla,SANT,Santiago Tapextla,0001,Santiago Tapextla
+20,Oaxaca,Oax.,486,Villa Tejúpam de la Unión,VITU,Villa Tejúpam de la Unión,0001,Villa Tejúpam de la Unión
+20,Oaxaca,Oax.,487,Santiago Tenango,STEN,Santiago Tenango,0001,Santiago Tenango
+20,Oaxaca,Oax.,488,Santiago Tepetlapa,STET,Santiago Tepetlapa,0001,Santiago Tepetlapa
+20,Oaxaca,Oax.,489,Santiago Tetepec,SAGT,Santiago Tetepec,0001,Santiago Tetepec
+20,Oaxaca,Oax.,490,Santiago Texcalcingo,SATX,Santiago Texcalcingo,0001,Santiago Texcalcingo
+20,Oaxaca,Oax.,491,Santiago Textitlán,STXT,Santiago Textitlán,0001,Santiago Textitlán
+20,Oaxaca,Oax.,492,Santiago Tilantongo,SATI,Santiago Tilantongo,0001,Santiago Tilantongo
+20,Oaxaca,Oax.,493,Santiago Tillo,SNTI,Santiago Tillo,0001,Santiago Tillo
+20,Oaxaca,Oax.,494,Santiago Tlazoyaltepec,STLZ,Santiago Tlazoyaltepec,0001,Santiago Tlazoyaltepec
+20,Oaxaca,Oax.,495,Santiago Xanica,SAXA,Santiago Xanica,0001,Santiago Xanica
+20,Oaxaca,Oax.,496,Santiago Xiacuí,SAXI,Santiago Xiacuí,0001,Santiago Xiacuí
+20,Oaxaca,Oax.,497,Santiago Yaitepec,SAYA,Santiago Yaitepec,0001,Santiago Yaitepec
+20,Oaxaca,Oax.,498,Santiago Yaveo,SYVO,Santiago Yaveo,0001,Santiago Yaveo
+20,Oaxaca,Oax.,499,Santiago Yolomécatl,SAYO,Santiago Yolomécatl,0001,Santiago Yolomécatl
+20,Oaxaca,Oax.,500,Santiago Yosondúa,SATY,Santiago Yosondúa,0001,Santiago Yosondúa
+20,Oaxaca,Oax.,501,Santiago Yucuyachi,SYUY,Santiago Yucuyachi,0001,Santiago Yucuyachi
+20,Oaxaca,Oax.,502,Santiago Zacatepec,SZAC,Santiago Zacatepec,0001,Santiago Zacatepec
+20,Oaxaca,Oax.,503,Santiago Zoochila,SAZO,Santiago Zoochila,0001,Santiago Zoochila
+20,Oaxaca,Oax.,504,Nuevo Zoquiápam,NUZO,Nuevo Zoquiápam,0001,Nuevo Zoquiápam
+20,Oaxaca,Oax.,505,Santo Domingo Ingenio,SADI,Santo Domingo Ingenio,0001,Santo Domingo Ingenio
+20,Oaxaca,Oax.,506,Santo Domingo Albarradas,SADA,Santo Domingo Albarradas,0001,Santo Domingo Albarradas
+20,Oaxaca,Oax.,507,Santo Domingo Armenta,SDAR,Santo Domingo Armenta,0001,Santo Domingo Armenta
+20,Oaxaca,Oax.,508,Santo Domingo Chihuitán,SADC,Santo Domingo Chihuitán,0001,Santo Domingo Chihuitán
+20,Oaxaca,Oax.,509,Santo Domingo de Morelos,SDMO,Santo Domingo de Morelos,0001,Santo Domingo de Morelos
+20,Oaxaca,Oax.,510,Santo Domingo Ixcatlán,SDIX,Santo Domingo Ixcatlán,0001,Santo Domingo Ixcatlán
+20,Oaxaca,Oax.,511,Santo Domingo Nuxaá,SADN,Santo Domingo Nuxaá,0001,Santo Domingo Nuxaá
+20,Oaxaca,Oax.,512,Santo Domingo Ozolotepec,SDOO,Santo Domingo Ozolotepec,0001,Santo Domingo Ozolotepec
+20,Oaxaca,Oax.,513,Santo Domingo Petapa,SADP,Santo Domingo Petapa,0001,Santo Domingo Petapa
+20,Oaxaca,Oax.,514,Santo Domingo Roayaga,SADR,Santo Domingo Roayaga,0001,Santo Domingo Roayaga
+20,Oaxaca,Oax.,515,Santo Domingo Tehuantepec,SADT,Santo Domingo Tehuantepec,0001,Santo Domingo Tehuantepec
+20,Oaxaca,Oax.,516,Santo Domingo Teojomulco,SDTE,Santo Domingo Teojomulco,0001,Santo Domingo Teojomulco
+20,Oaxaca,Oax.,517,Santo Domingo Tepuxtepec,SDTP,Santo Domingo Tepuxtepec,0001,Santo Domingo Tepuxtepec
+20,Oaxaca,Oax.,518,Santo Domingo Tlatayápam,SDTL,Santo Domingo Tlatayápam,0001,Santo Domingo Tlatayápam
+20,Oaxaca,Oax.,519,Santo Domingo Tomaltepec,SDTO,Santo Domingo Tomaltepec,0001,Santo Domingo Tomaltepec
+20,Oaxaca,Oax.,520,Santo Domingo Tonalá,SDTN,Santo Domingo Tonalá,0001,Santo Domingo Tonalá
+20,Oaxaca,Oax.,521,Santo Domingo Tonaltepec,SDTT,Santo Domingo Tonaltepec,0001,Santo Domingo Tonaltepec
+20,Oaxaca,Oax.,522,Santo Domingo Xagacía,SADX,Santo Domingo Xagacía,0001,Santo Domingo Xagacía
+20,Oaxaca,Oax.,523,Santo Domingo Yanhuitlán,SADY,Santo Domingo Yanhuitlán,0001,Santo Domingo Yanhuitlán
+20,Oaxaca,Oax.,524,Santo Domingo Yodohino,SDYO,Santo Domingo Yodohino,0001,Santo Domingo Yodohino
+20,Oaxaca,Oax.,525,Santo Domingo Zanatepec,SADZ,Santo Domingo Zanatepec,0001,Santo Domingo Zanatepec
+20,Oaxaca,Oax.,526,Santos Reyes Nopala,SARN,Santos Reyes Nopala,0001,Santos Reyes Nopala
+20,Oaxaca,Oax.,527,Santos Reyes Pápalo,SARP,Santos Reyes Pápalo,0001,Santos Reyes Pápalo
+20,Oaxaca,Oax.,528,Santos Reyes Tepejillo,SART,Santos Reyes Tepejillo,0001,Santos Reyes Tepejillo
+20,Oaxaca,Oax.,529,Santos Reyes Yucuná,SARY,Santos Reyes Yucuná,0001,Santos Reyes Yucuná
+20,Oaxaca,Oax.,530,Santo Tomás Jalieza,SATJ,Santo Tomás Jalieza,0001,Santo Tomás Jalieza
+20,Oaxaca,Oax.,531,Santo Tomás Mazaltepec,SATM,Santo Tomás Mazaltepec,0001,Santo Tomás Mazaltepec
+20,Oaxaca,Oax.,532,Santo Tomás Ocotepec,SATO,Santo Tomás Ocotepec,0001,Santo Tomás Ocotepec
+20,Oaxaca,Oax.,533,Santo Tomás Tamazulapan,STMZ,Santo Tomás Tamazulapan,0001,Santo Tomás Tamazulapan
+20,Oaxaca,Oax.,534,San Vicente Coatlán,SAVC,San Vicente Coatlán,0001,San Vicente Coatlán
+20,Oaxaca,Oax.,535,San Vicente Lachixío,SAVL,San Vicente Lachixío,0001,San Vicente Lachixío
+20,Oaxaca,Oax.,536,San Vicente Nuñú,SAVN,San Vicente Nuñú,0001,San Vicente Nuñú
+20,Oaxaca,Oax.,537,Silacayoápam,SIAM,Silacayoápam,0001,Silacayoápam
+20,Oaxaca,Oax.,538,Sitio de Xitlapehua,SIDX,Sitio de Xitlapehua,0001,Sitio de Xitlapehua
+20,Oaxaca,Oax.,539,Soledad Etla,SOET,Soledad Etla,0001,Soledad Etla
+20,Oaxaca,Oax.,540,Villa de Tamazulápam del Progreso,VITP,V de Tamazulápam d Progres,0001,Villa de Tamazulápam del Progreso
+20,Oaxaca,Oax.,541,Tanetze de Zaragoza,TADZ,Tanetze de Zaragoza,0001,Tanetze de Zaragoza
+20,Oaxaca,Oax.,542,Taniche,TAHE,Taniche,0001,Taniche
+20,Oaxaca,Oax.,543,Tataltepec de Valdés,TAVA,Tataltepec de Valdés,0001,Tataltepec de Valdés
+20,Oaxaca,Oax.,544,Teococuilco de Marcos Pérez,TEMP,Teococuilco de Marcos Pére,0001,Teococuilco de Marcos Pérez
+20,Oaxaca,Oax.,545,Teotitlán de Flores Magón,TEFM,Teotitlán de Flores Magón,0001,Teotitlán de Flores Magón
+20,Oaxaca,Oax.,546,Teotitlán del Valle,TEVA,Teotitlán del Valle,0001,Teotitlán del Valle
+20,Oaxaca,Oax.,547,Teotongo,TEGO,Teotongo,0001,Teotongo
+20,Oaxaca,Oax.,548,Tepelmeme Villa de Morelos,TEVM,Tepelmeme Villa de Morelos,0001,Tepelmeme Villa de Morelos
+20,Oaxaca,Oax.,549,Tezoatlán de Segura y Luna,TESL,Tezoatlán de Segura y Luna,0001,Tezoatlán de Segura y Luna
+20,Oaxaca,Oax.,550,San Jerónimo Tlacochahuaya,SJTY,San Jerónimo Tlacochahuaya,0001,San Jerónimo Tlacochahuaya
+20,Oaxaca,Oax.,551,Tlacolula de Matamoros,TLDM,Tlacolula de Matamoros,0001,Tlacolula de Matamoros
+20,Oaxaca,Oax.,552,Tlacotepec Plumas,TLPL,Tlacotepec Plumas,0001,Tlacotepec Plumas
+20,Oaxaca,Oax.,553,Tlalixtac de Cabrera,TLDC,Tlalixtac de Cabrera,0001,Tlalixtac de Cabrera
+20,Oaxaca,Oax.,554,Totontepec Villa de Morelos,TOVM,Totontepec Villa de Morelos,0001,Totontepec Villa de Morelos
+20,Oaxaca,Oax.,555,Trinidad Zaachila,TRZA,Trinidad Zaachila,0001,Trinidad Zaachila
+20,Oaxaca,Oax.,556,La Trinidad Vista Hermosa,TRVH,La Trinidad Vista Hermosa,0001,La Trinidad Vista Hermosa
+20,Oaxaca,Oax.,557,Unión Hidalgo,UNHI,Unión Hidalgo,0001,Unión Hidalgo
+20,Oaxaca,Oax.,558,Valerio Trujano,VATR,Valerio Trujano,0001,Valerio Trujano
+20,Oaxaca,Oax.,559,San Juan Bautista Valle Nacional,SJVN,S. Juan Bautista Valle Nal.,0001,San Juan Bautista Valle Nacional
+20,Oaxaca,Oax.,560,Villa Díaz Ordaz,VIDO,Villa Díaz Ordaz,0001,Villa Díaz Ordaz
+20,Oaxaca,Oax.,561,Yaxe,YAXE,Yaxe,0001,Yaxe
+20,Oaxaca,Oax.,562,Magdalena Yodocono de Porfirio Díaz,MYPD,Magdalena Yodocono d P Día,0001,Magdalena Yodocono de Porfirio Díaz
+20,Oaxaca,Oax.,563,Yogana,YONA,Yogana,0001,Yogana
+20,Oaxaca,Oax.,564,Yutanduchi de Guerrero,YUDG,Yutanduchi de Guerrero,0001,Yutanduchi de Guerrero
+20,Oaxaca,Oax.,565,Villa de Zaachila,VIZA,Villa de Zaachila,0001,Villa de Zaachila
+20,Oaxaca,Oax.,566,Zapotitlán del Río,ZARI,Zapotitlán del Río,0001,Zapotitlán del Río
+20,Oaxaca,Oax.,567,Zapotitlán Lagunas,ZALA,Zapotitlán Lagunas,0001,Zapotitlán Lagunas
+20,Oaxaca,Oax.,568,Zapotitlán Palmas,ZAPA,Zapotitlán Palmas,0001,Zapotitlán Palmas
+20,Oaxaca,Oax.,569,Santa Inés de Zaragoza,SAIZ,Santa Inés de Zaragoza,0001,Santa Inés de Zaragoza
+20,Oaxaca,Oax.,570,Zimatlán de ?lvarez,ZIAL,Zimatlán de Alvarez,0001,Zimatlán de ?lvarez
+21,Puebla,Pue.,001,Acajete,ACTE,Acajete,0001,Acajete
+21,Puebla,Pue.,002,Acateno,ACNO,Acateno,0001,San José Acateno
+21,Puebla,Pue.,003,Acatlán,ACAN,Acatlán,0001,Acatlán de Osorio
+21,Puebla,Pue.,004,Acatzingo,ACGO,Acatzingo,0001,Acatzingo de Hidalgo
+21,Puebla,Pue.,005,Acteopan,ACTN,Acteopan,0001,Acteopan
+21,Puebla,Pue.,006,Ahuacatlán,AHAN,Ahuacatlán,0001,Ahuacatlán
+21,Puebla,Pue.,007,Ahuatlán,AHTN,Ahuatlán,0001,Ahuatlán
+21,Puebla,Pue.,008,Ahuazotepec,AHEC,Ahuazotepec,0001,Ahuazotepec
+21,Puebla,Pue.,009,Ahuehuetitla,AHLA,Ahuehuetitla,0001,Ahuehuetitla
+21,Puebla,Pue.,010,Ajalpan,AJAN,Ajalpan,0001,Ciudad de Ajalpan
+21,Puebla,Pue.,011,Albino Zertuche,ALZE,Albino Zertuche,0001,Acaxtlahuacán de Albino Zertuche
+21,Puebla,Pue.,012,Aljojuca,ALCA,Aljojuca,0001,Aljojuca
+21,Puebla,Pue.,013,Altepexi,ALXI,Altepexi,0001,Altepexi
+21,Puebla,Pue.,014,Amixtlán,AMAN,Amixtlán,0001,Amixtlán
+21,Puebla,Pue.,015,Amozoc,AMOC,Amozoc,0001,Amozoc de Mota
+21,Puebla,Pue.,016,Aquixtla,AQLA,Aquixtla,0001,Aquixtla
+21,Puebla,Pue.,017,Atempan,ATAN,Atempan,0001,Atempan
+21,Puebla,Pue.,018,Atexcal,ATAL,Atexcal,0001,San Martín Atexcal
+21,Puebla,Pue.,019,Atlixco,ATCO,Atlixco,0001,Atlixco
+21,Puebla,Pue.,020,Atoyatempan,ATYN,Atoyatempan,0001,Atoyatempan
+21,Puebla,Pue.,021,Atzala,ATLA,Atzala,0001,Atzala
+21,Puebla,Pue.,022,Atzitzihuacán,ATZN,Atzitzihuacán,0001,Santiago Atzitzihuacán
+21,Puebla,Pue.,023,Atzitzintla,ATZA,Atzitzintla,0001,Atzitzintla
+21,Puebla,Pue.,024,Axutla,AXLA,Axutla,0001,Axutla
+21,Puebla,Pue.,025,Ayotoxco de Guerrero,AYGU,Ayotoxco de Guerrero,0001,Ayotoxco de Guerrero
+21,Puebla,Pue.,026,Calpan,CAAN,Calpan,0001,San Andrés Calpan
+21,Puebla,Pue.,027,Caltepec,CAEC,Caltepec,0001,Caltepec
+21,Puebla,Pue.,028,Camocuautla,CALA,Camocuautla,0001,Camocuautla
+21,Puebla,Pue.,029,Caxhuacan,CAXN,Caxhuacan,0001,Caxhuacan
+21,Puebla,Pue.,030,Coatepec,COEC,Coatepec,0001,Coatepec
+21,Puebla,Pue.,031,Coatzingo,CONO,Coatzingo,0001,Coatzingo
+21,Puebla,Pue.,032,Cohetzala,COLA,Cohetzala,0001,Santa María Cohetzala
+21,Puebla,Pue.,033,Cohuecan,COAN,Cohuecán,0001,Cohuecan
+21,Puebla,Pue.,034,Coronango,CORO,Coronango,0001,Santa María Coronango
+21,Puebla,Pue.,035,Coxcatlán,COXN,Coxcatlán,0001,Coxcatlán
+21,Puebla,Pue.,036,Coyomeapan,COYN,Coyomeapan,0001,Santa María Coyomeapan
+21,Puebla,Pue.,037,Coyotepec,COYC,Coyotepec,0001,San Vicente Coyotepec
+21,Puebla,Pue.,038,Cuapiaxtla de Madero,CUMA,Cuapiaxtla de Madero,0001,Cuapiaxtla de Madero
+21,Puebla,Pue.,039,Cuautempan,CUAN,Cuautempan,0001,San Esteban Cuautempan
+21,Puebla,Pue.,040,Cuautinchán,CUTN,Cuautinchán,0001,Cuautinchán
+21,Puebla,Pue.,041,Cuautlancingo,CUGO,Cuautlancingo,0001,San Juan Cuautlancingo
+21,Puebla,Pue.,042,Cuayuca de Andrade,CUAD,Cuayuca de Andrade,0001,San Pedro Cuayuca
+21,Puebla,Pue.,043,Cuetzalan del Progreso,CUPR,Cuetzalan del Progreso,0001,Ciudad de Cuetzalan
+21,Puebla,Pue.,044,Cuyoaco,CUCO,Cuyoaco,0001,Cuyoaco
+21,Puebla,Pue.,045,Chalchicomula de Sesma,CHSE,Chalchicomula de Sesma,0001,Ciudad Serdán
+21,Puebla,Pue.,046,Chapulco,CHCO,Chapulco,0001,Chapulco
+21,Puebla,Pue.,047,Chiautla,CHLA,Chiautla,0001,Ciudad de Chiautla de Tapia
+21,Puebla,Pue.,048,Chiautzingo,CHGO,Chiautzingo,0001,San Lorenzo Chiautzingo
+21,Puebla,Pue.,049,Chiconcuautla,CHTA,Chiconcuautla,0001,Chiconcuautla
+21,Puebla,Pue.,050,Chichiquila,CHCA,Chichiquila,0001,Chichiquila
+21,Puebla,Pue.,051,Chietla,CHEA,Chietla,0001,Chietla
+21,Puebla,Pue.,052,Chigmecatitlán,CHAN,Chigmecatitlán,0001,Chigmecatitlán
+21,Puebla,Pue.,053,Chignahuapan,CHGN,Chignahuapan,0001,Ciudad de Chignahuapan
+21,Puebla,Pue.,054,Chignautla,CHGA,Chignautla,0001,Chignautla
+21,Puebla,Pue.,055,Chila,CILA,Chila,0001,Chila
+21,Puebla,Pue.,056,Chila de la Sal,CHSA,Chila de la Sal,0001,Chila de la Sal
+21,Puebla,Pue.,057,Honey,HOEY,Honey,0001,Honey
+21,Puebla,Pue.,058,Chilchotla,CHHA,Chilchotla,0001,Rafael J. García
+21,Puebla,Pue.,059,Chinantla,CHNA,Chinantla,0001,Chinantla
+21,Puebla,Pue.,060,Domingo Arenas,DOAR,Domingo Arenas,0001,Domingo Arenas
+21,Puebla,Pue.,061,Eloxochitlán,ELAN,Eloxochitlán,0001,Eloxochitlán
+21,Puebla,Pue.,062,Epatlán,EPAN,Epatlán,0001,San Juan Epatlán
+21,Puebla,Pue.,063,Esperanza,ESZA,Esperanza,0001,Esperanza
+21,Puebla,Pue.,064,Francisco Z. Mena,FRZM,Francisco Z. Mena,0001,Metlaltoyuca
+21,Puebla,Pue.,065,General Felipe ?ngeles,GEFA,General Felipe Angeles,0001,San Pablo de las Tunas
+21,Puebla,Pue.,066,Guadalupe,GUPE,Guadalupe,0001,Guadalupe
+21,Puebla,Pue.,067,Guadalupe Victoria,GUVI,Guadalupe Victoria,0001,Guadalupe Victoria
+21,Puebla,Pue.,068,Hermenegildo Galeana,HEGA,Hermenegildo Galeana,0001,Bienvenido
+21,Puebla,Pue.,069,Huaquechula,HULA,Huaquechula,0001,Huaquechula
+21,Puebla,Pue.,070,Huatlatlauca,HUCA,Huatlatlauca,0001,Huatlatlauca
+21,Puebla,Pue.,071,Huauchinango,HUGO,Huauchinango,0001,Huauchinango
+21,Puebla,Pue.,072,Huehuetla,HUHA,Huehuetla,0001,Huehuetla
+21,Puebla,Pue.,073,Huehuetlán el Chico,HUCH,Huehuetlán el Chico,0001,Huehuetlán el Chico
+21,Puebla,Pue.,074,Huejotzingo,HUJO,Huejotzingo,0001,Huejotzingo
+21,Puebla,Pue.,075,Hueyapan,HUAN,Hueyapan,0001,Hueyapan
+21,Puebla,Pue.,076,Hueytamalco,HUCO,Hueytamalco,0001,Hueytamalco
+21,Puebla,Pue.,077,Hueytlalpan,HUYN,Hueytlalpan,0001,Hueytlalpan
+21,Puebla,Pue.,078,Huitzilan de Serdán,HUSE,Huitzilan de Serdán,0001,Huitzilan
+21,Puebla,Pue.,079,Huitziltepec,HUEC,Huitziltepec,0001,Santa Clara Huitziltepec
+21,Puebla,Pue.,080,Atlequizayan,ATZY,Atlequizayan,0001,Atlequizayan
+21,Puebla,Pue.,081,Ixcamilpa de Guerrero,IXGU,Ixcamilpa de Guerrero,0001,Ixcamilpa
+21,Puebla,Pue.,082,Ixcaquixtla,IXLA,Ixcaquixtla,0001,San Juan Ixcaquixtla
+21,Puebla,Pue.,083,Ixtacamaxtitlán,IXAN,Ixtacamaxtitlán,0001,Ixtacamaxtitlán
+21,Puebla,Pue.,084,Ixtepec,IXEC,Ixtepec,0001,Ixtepec
+21,Puebla,Pue.,085,Izúcar de Matamoros,IZMA,Izúcar de Matamoros,0001,Izúcar de Matamoros
+21,Puebla,Pue.,086,Jalpan,JAAN,Jalpan,0001,Jalpan
+21,Puebla,Pue.,087,Jolalpan,JOLN,Jolalpan,0001,Jolalpan
+21,Puebla,Pue.,088,Jonotla,JOLA,Jonotla,0001,Jonotla
+21,Puebla,Pue.,089,Jopala,JOPA,Jopala,0001,Jopala
+21,Puebla,Pue.,090,Juan C. Bonilla,JUCB,Juan C. Bonilla,0001,Cuanalá
+21,Puebla,Pue.,091,Juan Galindo,JUGA,Juan Galindo,0001,Nuevo Necaxa
+21,Puebla,Pue.,092,Juan N. Méndez,JUNM,Juan N. Méndez,0001,Atenayuca
+21,Puebla,Pue.,093,Lafragua,LAUA,Lafragua,0001,Saltillo
+21,Puebla,Pue.,094,Libres,LIES,Libres,0001,Ciudad de Libres
+21,Puebla,Pue.,095,La Magdalena Tlatlauquitepec,MATL,La Magda. Tlatlauquitepec,0001,La Magdalena Tlatlauquitepec
+21,Puebla,Pue.,096,Mazapiltepec de Juárez,MAJU,Mazapiltepec de Juárez,0001,Mazapiltepec de Juárez
+21,Puebla,Pue.,097,Mixtla,MILA,Mixtla,0001,San Francisco Mixtla
+21,Puebla,Pue.,098,Molcaxac,MOAC,Molcaxac,0001,Molcaxac
+21,Puebla,Pue.,099,Cañada Morelos,CAMO,Cañada Morelos,0001,Morelos Cañada
+21,Puebla,Pue.,100,Naupan,NAAN,Naupan,0001,Naupan
+21,Puebla,Pue.,101,Nauzontla,NALA,Nauzontla,0001,Nauzontla
+21,Puebla,Pue.,102,Nealtican,NEAN,Nealtican,0001,San Buenaventura Nealtican
+21,Puebla,Pue.,103,Nicolás Bravo,NIBR,Nicolás Bravo,0001,Nicolás Bravo
+21,Puebla,Pue.,104,Nopalucan,NOAN,Nopalucan,0001,Nopalucan de la Granja
+21,Puebla,Pue.,105,Ocotepec,OCEC,Ocotepec,0001,Ocotepec
+21,Puebla,Pue.,106,Ocoyucan,OCAN,Ocoyucan,0001,Santa Clara Ocoyucan
+21,Puebla,Pue.,107,Olintla,OLLA,Olintla,0001,Olintla
+21,Puebla,Pue.,108,Oriental,ORAL,Oriental,0001,Oriental
+21,Puebla,Pue.,109,Pahuatlán,PAAN,Pahuatlán,0001,Ciudad de Pahuatlán de Valle
+21,Puebla,Pue.,110,Palmar de Bravo,PABR,Palmar de Bravo,0001,Palmar de Bravo
+21,Puebla,Pue.,111,Pantepec,PAEC,Pantepec,0001,Pantepec
+21,Puebla,Pue.,112,Petlalcingo,PEGO,Petlalcingo,0001,Petlalcingo
+21,Puebla,Pue.,113,Piaxtla,PILA,Piaxtla,0001,Piaxtla
+21,Puebla,Pue.,114,Puebla,PULA,Puebla,0001,Heróica Puebla de Zaragoza
+21,Puebla,Pue.,115,Quecholac,QUAC,Quecholac,0001,Quecholac
+21,Puebla,Pue.,116,Quimixtlán,QUAN,Quimixtlán,0001,Quimixtlán
+21,Puebla,Pue.,117,Rafael Lara Grajales,RALG,Rafael Lara Grajales,0001,Ciudad de Rafael Lara Grajales
+21,Puebla,Pue.,118,Los Reyes de Juárez,REJU,Los Reyes de Juárez,0001,Los Reyes de Juárez
+21,Puebla,Pue.,119,San Andrés Cholula,SAAC,San Andrés Cholula,0001,San Andrés Cholula
+21,Puebla,Pue.,120,San Antonio Cañada,SAC?,San Antonio Cañada,0001,San Antonio Cañada
+21,Puebla,Pue.,121,San Diego la Mesa Tochimiltzingo,SDMT,S Diego la M Tochimiltzingo,0001,Tochimiltzingo
+21,Puebla,Pue.,122,San Felipe Teotlalcingo,SAFT,San Felipe Teotlalcingo,0001,San Felipe Teotlalcingo
+21,Puebla,Pue.,123,San Felipe Tepatlán,SFTE,San Felipe Tepatlán,0001,San Felipe Tepatlán
+21,Puebla,Pue.,124,San Gabriel Chilac,SAGC,San Gabriel Chilac,0001,San Gabriel Chilac
+21,Puebla,Pue.,125,San Gregorio Atzompa,SAGA,San Gregorio Atzompa,0001,San Gregorio Atzompa
+21,Puebla,Pue.,126,San Jerónimo Tecuanipan,SAJT,San Jerónimo Tecuanipan,0001,San Jerónimo Tecuanipan
+21,Puebla,Pue.,127,San Jerónimo Xayacatlán,SAJX,San Jerónimo Xayacatlán,0001,San Jerónimo Xayacatlán
+21,Puebla,Pue.,128,San José Chiapa,SAJC,San José Chiapa,0001,San José Chiapa
+21,Puebla,Pue.,129,San José Miahuatlán,SAJM,San José Miahuatlán,0001,San José Miahuatlán
+21,Puebla,Pue.,130,San Juan Atenco,SAJA,San Juan Atenco,0001,San Juan Atenco
+21,Puebla,Pue.,131,San Juan Atzompa,SJAT,San Juan Atzompa,0001,San Juan Atzompa
+21,Puebla,Pue.,132,San Martín Texmelucan,SAMT,San Martín Texmelucan,0001,San Martín Texmelucan de Labastida
+21,Puebla,Pue.,133,San Martín Totoltepec,SMTO,San Martín Totoltepec,0001,San Martín Totoltepec
+21,Puebla,Pue.,134,San Matías Tlalancaleca,SMTL,San Matías Tlalancaleca,0001,San Matías Tlalancaleca
+21,Puebla,Pue.,135,San Miguel Ixitlán,SAMI,San Miguel Ixitlán,0001,San Miguel Ixitlán
+21,Puebla,Pue.,136,San Miguel Xoxtla,SAMX,San Miguel Xoxtla,0001,San Miguel Xoxtla
+21,Puebla,Pue.,137,San Nicolás Buenos Aires,SNBA,San Nicolás Buenos Aires,0001,San Nicolás Buenos Aires
+21,Puebla,Pue.,138,San Nicolás de los Ranchos,SANR,San Nicolás de los Ranchos,0001,San Nicolás de los Ranchos
+21,Puebla,Pue.,139,San Pablo Anicano,SAPA,San Pablo Anicano,0001,San Pablo Anicano
+21,Puebla,Pue.,140,San Pedro Cholula,SAPC,San Pedro Cholula,0001,Cholula de Rivadavia
+21,Puebla,Pue.,141,San Pedro Yeloixtlahuaca,SAPY,San Pedro Yeloixtlahuaca,0001,San Pedro Yeloixtlahuaca
+21,Puebla,Pue.,142,San Salvador el Seco,SASS,San Salvador el Seco,0001,San Salvador el Seco
+21,Puebla,Pue.,143,San Salvador el Verde,SASV,San Salvador el Verde,0001,San Salvador el Verde
+21,Puebla,Pue.,144,San Salvador Huixcolotla,SASH,San Salvador Huixcolotla,0001,San Salvador Huixcolotla
+21,Puebla,Pue.,145,San Sebastián Tlacotepec,SAST,San Sebastián Tlacotepec,0001,Tlacotepec de Porfirio Díaz
+21,Puebla,Pue.,146,Santa Catarina Tlaltempan,SACT,Santa Catarina Tlaltempan,0001,Santa Catarina Tlaltempan
+21,Puebla,Pue.,147,Santa Inés Ahuatempan,SAIA,Santa Inés Ahuatempan,0001,Santa Inés Ahuatempan
+21,Puebla,Pue.,148,Santa Isabel Cholula,SAIC,Santa Isabel Cholula,0001,Santa Isabel Cholula
+21,Puebla,Pue.,149,Santiago Miahuatlán,SAMH,Santiago Miahuatlán,0001,Santiago Miahuatlán
+21,Puebla,Pue.,150,Huehuetlán el Grande,HUEG,Huehuetlán el Grande,0001,Santo Domingo Huehuetlán
+21,Puebla,Pue.,151,Santo Tomás Hueyotlipan,SATH,Santo Tomás Hueyotlipan,0001,Santo Tomás Hueyotlipan
+21,Puebla,Pue.,152,Soltepec,SOEC,Soltepec,0001,Soltepec
+21,Puebla,Pue.,153,Tecali de Herrera,TEHE,Tecali de Herrera,0001,Tecali de Herrera
+21,Puebla,Pue.,154,Tecamachalco,TECO,Tecamachalco,0001,Tecamachalco
+21,Puebla,Pue.,155,Tecomatlán,TEAN,Tecomatlán,0001,Tecomatlán
+21,Puebla,Pue.,156,Tehuacán,TEHN,Tehuacán,0001,Tehuacán
+21,Puebla,Pue.,157,Tehuitzingo,TEGO,Tehuitzingo,0001,Tehuitzingo
+21,Puebla,Pue.,158,Tenampulco,TEPO,Tenampulco,0001,Tenampulco
+21,Puebla,Pue.,159,Teopantlán,TEPN,Teopantlán,0001,Teopantlán
+21,Puebla,Pue.,160,Teotlalco,TELO,Teotlalco,0001,Teotlalco
+21,Puebla,Pue.,161,Tepanco de López,TELZ,Tepanco de López,0001,Tepanco de López
+21,Puebla,Pue.,162,Tepango de Rodríguez,TERO,Tepango de Rodríguez,0001,Tepango de Rodríguez
+21,Puebla,Pue.,163,Tepatlaxco de Hidalgo,TEHI,Tepatlaxco de Hidalgo,0001,Tepatlaxco de Hidalgo
+21,Puebla,Pue.,164,Tepeaca,TECA,Tepeaca,0001,Tepeaca
+21,Puebla,Pue.,165,Tepemaxalco,TEPX,Tepemaxalco,0001,San Felipe Tepemaxalco
+21,Puebla,Pue.,166,Tepeojuma,TEMA,Tepeojuma,0001,Tepeojuma
+21,Puebla,Pue.,167,Tepetzintla,TELA,Tepetzintla,0001,Tepetzintla
+21,Puebla,Pue.,168,Tepexco,TEXO,Tepexco,0001,Tepexco
+21,Puebla,Pue.,169,Tepexi de Rodríguez,TERD,Tepexi de Rodríguez,0001,Tepexi de Rodríguez
+21,Puebla,Pue.,170,Tepeyahualco,TEYO,Tepeyahualco,0001,Tepeyahualco
+21,Puebla,Pue.,171,Tepeyahualco de Cuauhtémoc,TECU,Tepeyahualco de Cuauhtémoc,0001,Tepeyahualco de Cuauhtémoc
+21,Puebla,Pue.,172,Tetela de Ocampo,TEOC,Tetela de Ocampo,0001,Ciudad de Tetela de Ocampo
+21,Puebla,Pue.,173,Teteles de Avila Castillo,TEAC,Teteles de Avila Castillo,0001,Tételes de ?vila Castillo
+21,Puebla,Pue.,174,Teziutlán,TEZN,Teziutlán,0001,Teziutlán
+21,Puebla,Pue.,175,Tianguismanalco,TICO,Tianguismanalco,0001,Tianguismanalco
+21,Puebla,Pue.,176,Tilapa,TIPA,Tilapa,0001,Tilapa
+21,Puebla,Pue.,177,Tlacotepec de Benito Juárez,TLBJ,Tlacotepec de Benito Juáre,0001,Tlacotepec de Benito Juárez
+21,Puebla,Pue.,178,Tlacuilotepec,TLEC,Tlacuilotepec,0001,Tlacuilotepec
+21,Puebla,Pue.,179,Tlachichuca,TLCA,Tlachichuca,0001,Tlachichuca
+21,Puebla,Pue.,180,Tlahuapan,TLAN,Tlahuapan,0001,Santa Rita Tlahuapan
+21,Puebla,Pue.,181,Tlaltenango,TLGO,Tlaltenango,0001,Tlaltenango
+21,Puebla,Pue.,182,Tlanepantla,TLLA,Tlanepantla,0001,Tlanepantla
+21,Puebla,Pue.,183,Tlaola,TLAA,Tlaola,0001,Tlaola
+21,Puebla,Pue.,184,Tlapacoya,TLYA,Tlapacoya,0001,Tlapacoya
+21,Puebla,Pue.,185,Tlapanalá,TLNA,Tlapanalá,0001,Tlapanalá
+21,Puebla,Pue.,186,Tlatlauquitepec,TLEQ,Tlatlauquitepec,0001,Ciudad de Tlatlauquitepec
+21,Puebla,Pue.,187,Tlaxco,TLCO,Tlaxco,0001,Tlaxco
+21,Puebla,Pue.,188,Tochimilco,TOCO,Tochimilco,0001,Tochimilco
+21,Puebla,Pue.,189,Tochtepec,TOEC,Tochtepec,0001,Tochtepec
+21,Puebla,Pue.,190,Totoltepec de Guerrero,TOGU,Totoltepec de Guerrero,0001,Totoltepec de Guerrero
+21,Puebla,Pue.,191,Tulcingo,TUGO,Tulcingo,0001,Tulcingo de Valle
+21,Puebla,Pue.,192,Tuzamapan de Galeana,TUGA,Tuzamapan de Galeana,0001,Tuzamapan de Galeana
+21,Puebla,Pue.,193,Tzicatlacoyan,TZAN,Tzicatlacoyan,0001,Tzicatlacoyan
+21,Puebla,Pue.,194,Venustiano Carranza,VECA,Venustiano Carranza,0001,Venustiano Carranza
+21,Puebla,Pue.,195,Vicente Guerrero,VIGU,Vicente Guerrero,0001,Santa María del Monte
+21,Puebla,Pue.,196,Xayacatlán de Bravo,XABR,Xayacatlán de Bravo,0001,Xayacatlán de Bravo
+21,Puebla,Pue.,197,Xicotepec,XIEC,Xicotepec,0001,Xicotepec de Juárez
+21,Puebla,Pue.,198,Xicotlán,XIAN,Xicotlán,0001,Xicotlán
+21,Puebla,Pue.,199,Xiutetelco,XICO,Xiutetelco,0001,San Juan Xiutetelco
+21,Puebla,Pue.,200,Xochiapulco,XOCO,Xochiapulco,0001,Cinco de Mayo
+21,Puebla,Pue.,201,Xochiltepec,XOEC,Xochiltepec,0001,Xochiltepec
+21,Puebla,Pue.,202,Xochitlán de Vicente Suárez,XOVS,Xochitlán de Vicente Suár,0001,Xochitlán de Vicente Suárez
+21,Puebla,Pue.,203,Xochitlán Todos Santos,XOTS,Xochitlán Todos Santos,0001,Xochitlán
+21,Puebla,Pue.,204,Yaonáhuac,YAAC,Yaonáhuac,0001,Yaonáhuac
+21,Puebla,Pue.,205,Yehualtepec,YEEC,Yehualtepec,0001,Yehualtepec
+21,Puebla,Pue.,206,Zacapala,ZALA,Zacapala,0001,Zacapala
+21,Puebla,Pue.,207,Zacapoaxtla,ZACA,Zacapoaxtla,0001,Zacapoaxtla
+21,Puebla,Pue.,208,Zacatlán,ZAAN,Zacatlán,0001,Zacatlán
+21,Puebla,Pue.,209,Zapotitlán,ZAPN,Zapotitlán,0001,Zapotitlán Salinas
+21,Puebla,Pue.,210,Zapotitlán de Méndez,ZAME,Zapotitlán de Méndez,0001,Zapotitlán de Méndez
+21,Puebla,Pue.,211,Zaragoza,ZAZA,Zaragoza,0001,Zaragoza
+21,Puebla,Pue.,212,Zautla,ZATA,Zautla,0001,Santiago Zautla
+21,Puebla,Pue.,213,Zihuateutla,ZILA,Zihuateutla,0001,Zihuateutla
+21,Puebla,Pue.,214,Zinacatepec,ZIEC,Zinacatepec,0001,San Sebastián Zinacatepec
+21,Puebla,Pue.,215,Zongozotla,ZOLA,Zongozotla,0001,Zongozotla
+21,Puebla,Pue.,216,Zoquiapan,ZOAN,Zoquiapan,0001,Zoquiapan
+21,Puebla,Pue.,217,Zoquitlán,ZOQN,Zoquitlán,0001,Zoquitlán
+22,Querétaro,Qro.,001,Amealco de Bonfil,AMBO,Amealco de Bonfil,0001,Amealco de Bonfil
+22,Querétaro,Qro.,002,Pinal de Amoles,PIAM,Pinal de Amoles,0001,Pinal de Amoles
+22,Querétaro,Qro.,003,Arroyo Seco,ARSE,Arroyo Seco,0001,Arroyo Seco
+22,Querétaro,Qro.,004,Cadereyta de Montes,CAMO,Cadereyta de Montes,0001,Cadereyta de Montes
+22,Querétaro,Qro.,005,Colón,COON,Colón,0001,Colón
+22,Querétaro,Qro.,006,Corregidora,CORA,Corregidora,0001,El Pueblito
+22,Querétaro,Qro.,007,Ezequiel Montes,EZMO,Ezequiel Montes,0001,Ezequiel Montes
+22,Querétaro,Qro.,008,Huimilpan,HUAN,Huimilpan,0001,Huimilpan
+22,Querétaro,Qro.,009,Jalpan de Serra,JASE,Jalpan de Serra,0001,Jalpan de Serra
+22,Querétaro,Qro.,010,Landa de Matamoros,LAMA,Landa de Matamoros,0001,Landa de Matamoros
+22,Querétaro,Qro.,011,El Marqués,MAES,El Marqués,0001,La Cañada
+22,Querétaro,Qro.,012,Pedro Escobedo,PEES,Pedro Escobedo,0001,Pedro Escobedo
+22,Querétaro,Qro.,013,Peñamiller,PEER,Peñamiller,0001,Peñamiller
+22,Querétaro,Qro.,014,Querétaro,QURO,Querétaro,0001,Santiago de Querétaro
+22,Querétaro,Qro.,015,San Joaquín,SAJO,San Joaquín,0001,San Joaquín
+22,Querétaro,Qro.,016,San Juan del Río,SAJR,San Juan del Río,0001,San Juan del Río
+22,Querétaro,Qro.,017,Tequisquiapan,TEAN,Tequisquiapan,0001,Tequisquiapan
+22,Querétaro,Qro.,018,Tolimán,TOAN,Tolimán,0001,Tolimán
+23,Quintana Roo,Q. Roo,001,Cozumel,COEL,Cozumel,0001,Cozumel
+23,Quintana Roo,Q. Roo,002,Felipe Carrillo Puerto,FECP,Felipe Carrillo Puerto,0001,Felipe Carrillo Puerto
+23,Quintana Roo,Q. Roo,003,Isla Mujeres,ISMU,Isla Mujeres,0001,Isla Mujeres
+23,Quintana Roo,Q. Roo,004,Othón P. Blanco,OTPB,Othón P. Blanco,0001,Chetumal
+23,Quintana Roo,Q. Roo,005,Benito Juárez,BEJU,Benito Juárez,0001,Cancún
+23,Quintana Roo,Q. Roo,006,José María Morelos,JOMM,José María Morelos,0069,José María Morelos
+23,Quintana Roo,Q. Roo,007,Lázaro Cárdenas,LACA,Lázaro Cárdenas,0001,Kantunilkín
+23,Quintana Roo,Q. Roo,008,Solidaridad,SOAD,Solidaridad,0001,Playa del Carmen
+23,Quintana Roo,Q. Roo,009,Tulum,TUUM,Tulum,0001,Tulum
+24,San Luis Potosí,SLP,001,Ahualulco,AHCO,Ahualulco,0001,Ahualulco del Sonido 13
+24,San Luis Potosí,SLP,002,Alaquines,ALES,Alaquines,0001,Alaquines
+24,San Luis Potosí,SLP,003,Aquismón,AQON,Aquismón,0001,Aquismón
+24,San Luis Potosí,SLP,004,Armadillo de los Infante,ARIN,Armadillo de los Infante,0001,Armadillo de los Infante
+24,San Luis Potosí,SLP,005,Cárdenas,CAAS,Cárdenas,0001,Cárdenas
+24,San Luis Potosí,SLP,006,Catorce,CACE,Catorce,0001,Real de Catorce
+24,San Luis Potosí,SLP,007,Cedral,CEAL,Cedral,0001,Cedral
+24,San Luis Potosí,SLP,008,Cerritos,CEOS,Cerritos,0001,Cerritos
+24,San Luis Potosí,SLP,009,Cerro de San Pedro,CESP,Cerro de San Pedro,0001,Cerro de San Pedro
+24,San Luis Potosí,SLP,010,Ciudad del Maíz,CIMA,Ciudad del Maíz,0001,Ciudad del Maíz
+24,San Luis Potosí,SLP,011,Ciudad Fernández,CIFE,Ciudad Fernández,0001,Ciudad Fernández
+24,San Luis Potosí,SLP,012,Tancanhuitz,TATZ,Tancanhuitz,0001,Tancanhuitz
+24,San Luis Potosí,SLP,013,Ciudad Valles,CIVA,Ciudad Valles,0001,Ciudad Valles
+24,San Luis Potosí,SLP,014,Coxcatlán,COAN,Coxcatlán,0001,Coxcatlán
+24,San Luis Potosí,SLP,015,Charcas,CHAS,Charcas,0001,Charcas
+24,San Luis Potosí,SLP,016,Ebano,EBNO,Ebano,0001,Ébano
+24,San Luis Potosí,SLP,017,Guadalcázar,GUAR,Guadalcázar,0001,Guadalcázar
+24,San Luis Potosí,SLP,018,Huehuetlán,HUAN,Huehuetlán,0001,Huehuetlán
+24,San Luis Potosí,SLP,019,Lagunillas,LAAS,Lagunillas,0001,Lagunillas
+24,San Luis Potosí,SLP,020,Matehuala,MALA,Matehuala,0001,Matehuala
+24,San Luis Potosí,SLP,021,Mexquitic de Carmona,MECA,Mexquitic de Carmona,0001,Mexquitic de Carmona
+24,San Luis Potosí,SLP,022,Moctezuma,MOMA,Moctezuma,0001,Moctezuma
+24,San Luis Potosí,SLP,023,Rayón,RAON,Rayón,0001,Rayón
+24,San Luis Potosí,SLP,024,Rioverde,RIDE,Rioverde,0001,Rioverde
+24,San Luis Potosí,SLP,025,Salinas,SAAS,Salinas,0001,Salinas de Hidalgo
+24,San Luis Potosí,SLP,026,San Antonio,SAAN,San Antonio,0001,San Antonio
+24,San Luis Potosí,SLP,027,San Ciro de Acosta,SACA,San Ciro de Acosta,0001,San Ciro de Acosta
+24,San Luis Potosí,SLP,028,San Luis Potosí,SALP,San Luis Potosí,0001,San Luis Potosí
+24,San Luis Potosí,SLP,029,San Martín Chalchicuautla,SAMC,San Martín Chalchicuautla,0001,San Martín Chalchicuautla
+24,San Luis Potosí,SLP,030,San Nicolás Tolentino,SANT,San Nicolás Tolentino,0001,San Nicolás Tolentino
+24,San Luis Potosí,SLP,031,Santa Catarina,SACT,Santa Catarina,0001,Santa Catarina
+24,San Luis Potosí,SLP,032,Santa María del Río,SAMR,Santa María del Río,0001,Santa María del Río
+24,San Luis Potosí,SLP,033,Santo Domingo,SADO,Santo Domingo,0001,Santo Domingo
+24,San Luis Potosí,SLP,034,San Vicente Tancuayalab,SAVT,San Vicente Tancuayalab,0001,San Vicente Tancuayalab
+24,San Luis Potosí,SLP,035,Soledad de Graciano Sánchez,SOGS,Soledad de Graciano Sánche,0001,Soledad de Graciano Sánchez
+24,San Luis Potosí,SLP,036,Tamasopo,TAPO,Tamasopo,0001,Tamasopo
+24,San Luis Potosí,SLP,037,Tamazunchale,TALE,Tamazunchale,0001,Tamazunchale
+24,San Luis Potosí,SLP,038,Tampacán,TAAN,Tampacán,0001,Tampacán
+24,San Luis Potosí,SLP,039,Tampamolón Corona,TACO,Tampamolón Corona,0001,Tampamolón Corona
+24,San Luis Potosí,SLP,040,Tamuín,TAIN,Tamuín,0001,Tamuín
+24,San Luis Potosí,SLP,041,Tanlajás,TAAS,Tanlajás,0001,Tanlajás
+24,San Luis Potosí,SLP,042,Tanquián de Escobedo,TAES,Tanquián de Escobedo,0001,Tanquián de Escobedo
+24,San Luis Potosí,SLP,043,Tierra Nueva,TINU,Tierra Nueva,0001,Tierra Nueva
+24,San Luis Potosí,SLP,044,Vanegas,VAAS,Vanegas,0001,Vanegas
+24,San Luis Potosí,SLP,045,Venado,VEDO,Venado,0001,Venado
+24,San Luis Potosí,SLP,046,Villa de Arriaga,VIAR,Villa de Arriaga,0001,Villa de Arriaga
+24,San Luis Potosí,SLP,047,Villa de Guadalupe,VIGU,Villa de Guadalupe,0001,Villa de Guadalupe
+24,San Luis Potosí,SLP,048,Villa de la Paz,VIPA,Villa de la Paz,0001,Villa de la Paz
+24,San Luis Potosí,SLP,049,Villa de Ramos,VIRA,Villa de Ramos,0001,Villa de Ramos
+24,San Luis Potosí,SLP,050,Villa de Reyes,VIRE,Villa de Reyes,0001,Villa de Reyes
+24,San Luis Potosí,SLP,051,Villa Hidalgo,VIHI,Villa Hidalgo,0001,Villa Hidalgo
+24,San Luis Potosí,SLP,052,Villa Juárez,VIJU,Villa Juárez,0001,Villa Juárez
+24,San Luis Potosí,SLP,053,Axtla de Terrazas,AXTE,Axtla de Terrazas,0001,Axtla de Terrazas
+24,San Luis Potosí,SLP,054,Xilitla,XILA,Xilitla,0001,Xilitla
+24,San Luis Potosí,SLP,055,Zaragoza,ZAZA,Zaragoza,0001,Villa de Zaragoza
+24,San Luis Potosí,SLP,056,Villa de Arista,VIAS,Villa de Arista,0002,Villa de Arista
+24,San Luis Potosí,SLP,057,Matlapa,MAPA,Matlapa,0001,Matlapa
+24,San Luis Potosí,SLP,058,El Naranjo,NAJO,El Naranjo,0001,El Naranjo
+25,Sinaloa,Sin.,001,Ahome,AHME,Ahome,0001,Los Mochis
+25,Sinaloa,Sin.,002,Angostura,ANRA,Angostura,0001,Angostura
+25,Sinaloa,Sin.,003,Badiraguato,BATO,Badiraguato,0001,Badiraguato
+25,Sinaloa,Sin.,004,Concordia,COIA,Concordia,0001,Concordia
+25,Sinaloa,Sin.,005,Cosalá,COSA,Cosalá,0001,Cosalá
+25,Sinaloa,Sin.,006,Culiacán,CUAN,Culiacán,0001,Culiacán Rosales
+25,Sinaloa,Sin.,007,Choix,CHIX,Choix,0001,Choix
+25,Sinaloa,Sin.,008,Elota,ELTA,Elota,0001,La Cruz
+25,Sinaloa,Sin.,009,Escuinapa,ESPA,Escuinapa,0001,Escuinapa de Hidalgo
+25,Sinaloa,Sin.,010,El Fuerte,FUTE,El Fuerte,0001,El Fuerte
+25,Sinaloa,Sin.,011,Guasave,GUVE,Guasave,0001,Guasave
+25,Sinaloa,Sin.,012,Mazatlán,MAAN,Mazatlán,0001,Mazatlán
+25,Sinaloa,Sin.,013,Mocorito,MOTO,Mocorito,0001,Mocorito
+25,Sinaloa,Sin.,014,Rosario,ROIO,Rosario,0001,El Rosario
+25,Sinaloa,Sin.,015,Salvador Alvarado,SAAL,Salvador Alvarado,0001,Guamúchil
+25,Sinaloa,Sin.,016,San Ignacio,SAIG,San Ignacio,0001,San Ignacio
+25,Sinaloa,Sin.,017,Sinaloa,SIOA,Sinaloa,0001,Sinaloa de Leyva
+25,Sinaloa,Sin.,018,Navolato,NATO,Navolato,0001,Navolato
+26,Sonora,Son.,001,Aconchi,ACHI,Aconchi,0001,Aconchi
+26,Sonora,Son.,002,Agua Prieta,AGPR,Agua Prieta,0001,Agua Prieta
+26,Sonora,Son.,003,Alamos,ALOS,Alamos,0001,?lamos
+26,Sonora,Son.,004,Altar,ALAR,Altar,0001,Altar
+26,Sonora,Son.,005,Arivechi,ARHI,Arivechi,0001,Arivechi
+26,Sonora,Son.,006,Arizpe,ARPE,Arizpe,0001,Arizpe
+26,Sonora,Son.,007,Atil,ATIL,Atil,0001,Atil
+26,Sonora,Son.,008,Bacadéhuachi,BACI,Bacadéhuachi,0001,Bacadéhuachi
+26,Sonora,Son.,009,Bacanora,BARA,Bacanora,0001,Bacanora
+26,Sonora,Son.,010,Bacerac,BAAC,Bacerac,0001,Bacerac
+26,Sonora,Son.,011,Bacoachi,BAHI,Bacoachi,0001,Bacoachi
+26,Sonora,Son.,012,Bácum,BAUM,Bácum,0001,Bácum
+26,Sonora,Son.,013,Banámichi,BAMI,Banámichi,0001,Banámichi
+26,Sonora,Son.,014,Baviácora,BAVA,Baviácora,0001,Baviácora
+26,Sonora,Son.,015,Bavispe,BAPE,Bavispe,0001,Bavispe
+26,Sonora,Son.,016,Benjamín Hill,BEHI,Benjamín Hill,0001,Benjamín Hill
+26,Sonora,Son.,017,Caborca,CABA,Caborca,0001,Heroica Caborca
+26,Sonora,Son.,018,Cajeme,CAME,Cajeme,0001,Ciudad Obregón
+26,Sonora,Son.,019,Cananea,CAEA,Cananea,0001,Heroica Ciudad de Cananea
+26,Sonora,Son.,020,Carbó,CABO,Carbó,0001,Carbó
+26,Sonora,Son.,021,La Colorada,CORA,La Colorada,0001,La Colorada
+26,Sonora,Son.,022,Cucurpe,CUPE,Cucurpe,0001,Cucurpe
+26,Sonora,Son.,023,Cumpas,CUAS,Cumpas,0001,Cumpas
+26,Sonora,Son.,024,Divisaderos,DIRS,Divisaderos,0001,Divisaderos
+26,Sonora,Son.,025,Empalme,EMME,Empalme,0001,Empalme
+26,Sonora,Son.,026,Etchojoa,ETOA,Etchojoa,0001,Etchojoa
+26,Sonora,Son.,027,Fronteras,FRAS,Fronteras,0001,Fronteras
+26,Sonora,Son.,028,Granados,GROS,Granados,0001,Granados
+26,Sonora,Son.,029,Guaymas,GUAS,Guaymas,0001,Heroica Guaymas
+26,Sonora,Son.,030,Hermosillo,HELO,Hermosillo,0001,Hermosillo
+26,Sonora,Son.,031,Huachinera,HURA,Huachinera,0001,Huachinera
+26,Sonora,Son.,032,Huásabas,HUAS,Huásabas,0001,Huásabas
+26,Sonora,Son.,033,Huatabampo,HUPO,Huatabampo,0001,Huatabampo
+26,Sonora,Son.,034,Huépac,HUAC,Huépac,0001,Huépac
+26,Sonora,Son.,035,Imuris,IMIS,Imuris,0001,Imuris
+26,Sonora,Son.,036,Magdalena,MANA,Magdalena,0001,Magdalena de Kino
+26,Sonora,Son.,037,Mazatán,MAAN,Mazatán,0001,Mazatán
+26,Sonora,Son.,038,Moctezuma,MOMA,Moctezuma,0001,Moctezuma
+26,Sonora,Son.,039,Naco,NACO,Naco,0001,Naco
+26,Sonora,Son.,040,Nácori Chico,NACH,Nácori Chico,0001,Nácori Chico
+26,Sonora,Son.,041,Nacozari de García,NAGA,Nacozari de García,0001,Nacozari de García
+26,Sonora,Son.,042,Navojoa,NAOA,Navojoa,0001,Navojoa
+26,Sonora,Son.,043,Nogales,NOES,Nogales,0001,Heroica Nogales
+26,Sonora,Son.,044,Onavas,ONAS,Onavas,0001,Onavas
+26,Sonora,Son.,045,Opodepe,OPPE,Opodepe,0001,Opodepe
+26,Sonora,Son.,046,Oquitoa,OQOA,Oquitoa,0001,Oquitoa
+26,Sonora,Son.,047,Pitiquito,PIQO,Pitiquito,0001,Pitiquito
+26,Sonora,Son.,048,Puerto Peñasco,PUPE,Puerto Peñasco,0001,Puerto Peñasco
+26,Sonora,Son.,049,Quiriego,QUGO,Quiriego,0001,Quiriego
+26,Sonora,Son.,050,Rayón,RAON,Rayón,0001,Rayón
+26,Sonora,Son.,051,Rosario,ROIO,Rosario,0001,Rosario
+26,Sonora,Son.,052,Sahuaripa,SAPA,Sahuaripa,0001,Sahuaripa
+26,Sonora,Son.,053,San Felipe de Jesús,SAFJ,San Felipe de Jesús,0001,San Felipe de Jesús
+26,Sonora,Son.,054,San Javier,SAJA,San Javier,0001,San Javier
+26,Sonora,Son.,055,San Luis Río Colorado,SLRC,San Luis Río Colorado,0001,San Luis Río Colorado
+26,Sonora,Son.,056,San Miguel de Horcasitas,SAMH,San Miguel de Horcasitas,0001,San Miguel de Horcasitas
+26,Sonora,Son.,057,San Pedro de la Cueva,SAPC,San Pedro de la Cueva,0001,San Pedro de la Cueva
+26,Sonora,Son.,058,Santa Ana,SAAN,Santa Ana,0001,Santa Ana
+26,Sonora,Son.,059,Santa Cruz,SACR,Santa Cruz,0001,Santa Cruz
+26,Sonora,Son.,060,Sáric,SAIC,Sáric,0001,Sáric
+26,Sonora,Son.,061,Soyopa,SOPA,Soyopa,0001,Soyopa
+26,Sonora,Son.,062,Suaqui Grande,SUGR,Suaqui Grande,0001,Suaqui Grande
+26,Sonora,Son.,063,Tepache,TEHE,Tepache,0001,Tepache
+26,Sonora,Son.,064,Trincheras,TRAS,Trincheras,0001,Trincheras
+26,Sonora,Son.,065,Tubutama,TUMA,Tubutama,0001,Tubutama
+26,Sonora,Son.,066,Ures,URES,Ures,0001,Heroica Ciudad de Ures
+26,Sonora,Son.,067,Villa Hidalgo,VIHI,Villa Hidalgo,0001,Villa Hidalgo
+26,Sonora,Son.,068,Villa Pesqueira,VIPE,Villa Pesqueira,0001,Villa Pesqueira (Mátape)
+26,Sonora,Son.,069,Yécora,YERA,Yécora,0001,Yécora
+26,Sonora,Son.,070,General Plutarco Elías Calles,GPEC,Gral. Plutarco Elías Calle,0001,Sonoita
+26,Sonora,Son.,071,Benito Juárez,BEJU,Benito Juárez,0001,Villa Juárez
+26,Sonora,Son.,072,San Ignacio Río Muerto,SIRM,San Ignacio Río Muerto,0001,San Ignacio Río Muerto
+27,Tabasco,Tab.,001,Balancán,BAAN,Balancán,0001,Balancán
+27,Tabasco,Tab.,002,Cárdenas,CAAS,Cárdenas,0001,Cárdenas
+27,Tabasco,Tab.,003,Centla,CELA,Centla,0001,Frontera
+27,Tabasco,Tab.,004,Centro,CERO,Centro,0001,Villahermosa
+27,Tabasco,Tab.,005,Comalcalco,COMO,Comalcalco,0001,Comalcalco
+27,Tabasco,Tab.,006,Cunduacán,CUAN,Cunduacán,0001,Cunduacán
+27,Tabasco,Tab.,007,Emiliano Zapata,EMZA,Emiliano Zapata,0001,Emiliano Zapata
+27,Tabasco,Tab.,008,Huimanguillo,HULO,Huimanguillo,0001,Huimanguillo
+27,Tabasco,Tab.,009,Jalapa,JAPA,Jalapa,0001,Jalapa
+27,Tabasco,Tab.,010,Jalpa de Méndez,JAME,Jalpa de Méndez,0001,Jalpa de Méndez
+27,Tabasco,Tab.,011,Jonuta,JOTA,Jonuta,0001,Jonuta
+27,Tabasco,Tab.,012,Macuspana,MANA,Macuspana,0001,Macuspana
+27,Tabasco,Tab.,013,Nacajuca,NAJA,Nacajuca,0001,Nacajuca
+27,Tabasco,Tab.,014,Paraíso,PASO,Paraíso,0001,Paraíso
+27,Tabasco,Tab.,015,Tacotalpa,TAPA,Tacotalpa,0001,Tacotalpa
+27,Tabasco,Tab.,016,Teapa,TEPA,Teapa,0001,Teapa
+27,Tabasco,Tab.,017,Tenosique,TEUE,Tenosique,0001,Tenosique de Pino Suárez
+28,Tamaulipas,Tamps.,001,Abasolo,ABLO,Abasolo,0001,Abasolo
+28,Tamaulipas,Tamps.,002,Aldama,ALMA,Aldama,0001,Aldama
+28,Tamaulipas,Tamps.,003,Altamira,ALRA,Altamira,0001,Altamira
+28,Tamaulipas,Tamps.,004,Antiguo Morelos,ANMO,Antiguo Morelos,0001,Antiguo Morelos
+28,Tamaulipas,Tamps.,005,Burgos,BUOS,Burgos,0001,Burgos
+28,Tamaulipas,Tamps.,006,Bustamante,BUTE,Bustamante,0001,Bustamante
+28,Tamaulipas,Tamps.,007,Camargo,CAMO,Camargo,0001,Ciudad Camargo
+28,Tamaulipas,Tamps.,008,Casas,CAAS,Casas,0001,Casas
+28,Tamaulipas,Tamps.,009,Ciudad Madero,CIMA,Ciudad Madero,0001,Ciudad Madero
+28,Tamaulipas,Tamps.,010,Cruillas,CRAS,Cruillas,0001,Cruillas
+28,Tamaulipas,Tamps.,011,Gómez Farías,GOFA,Gómez Farías,0036,Gómez Farías
+28,Tamaulipas,Tamps.,012,González,GOEZ,González,0001,González
+28,Tamaulipas,Tamps.,013,Güémez,G?oE,Güémez,0001,Güémez
+28,Tamaulipas,Tamps.,014,Guerrero,GURO,Guerrero,0001,Nueva Ciudad Guerrero
+28,Tamaulipas,Tamps.,015,Gustavo Díaz Ordaz,GUDO,Gustavo Díaz Ordaz,0001,Ciudad Gustavo Díaz Ordaz
+28,Tamaulipas,Tamps.,016,Hidalgo,HIGO,Hidalgo,0001,Hidalgo
+28,Tamaulipas,Tamps.,017,Jaumave,JAVE,Jaumave,0001,Jaumave
+28,Tamaulipas,Tamps.,018,Jiménez,JIEZ,Jiménez,0001,Santander Jiménez
+28,Tamaulipas,Tamps.,019,Llera,LLRA,Llera,0001,Llera de Canales
+28,Tamaulipas,Tamps.,020,Mainero,MARO,Mainero,0001,Villa Mainero
+28,Tamaulipas,Tamps.,021,El Mante,MATE,El Mante,0001,Ciudad Mante
+28,Tamaulipas,Tamps.,022,Matamoros,MAOS,Matamoros,0001,Heroica Matamoros
+28,Tamaulipas,Tamps.,023,Méndez,MEEZ,Méndez,0001,Méndez
+28,Tamaulipas,Tamps.,024,Mier,MIER,Mier,0001,Mier
+28,Tamaulipas,Tamps.,025,Miguel Alemán,MIAL,Miguel Alemán,0001,Ciudad Miguel Alemán
+28,Tamaulipas,Tamps.,026,Miquihuana,MINA,Miquihuana,0001,Miquihuana
+28,Tamaulipas,Tamps.,027,Nuevo Laredo,NULA,Nuevo Laredo,0001,Nuevo Laredo
+28,Tamaulipas,Tamps.,028,Nuevo Morelos,NUMO,Nuevo Morelos,0001,Nuevo Morelos
+28,Tamaulipas,Tamps.,029,Ocampo,OCPO,Ocampo,0001,Ocampo
+28,Tamaulipas,Tamps.,030,Padilla,PALA,Padilla,0001,Nueva Villa de Padilla
+28,Tamaulipas,Tamps.,031,Palmillas,PAAS,Palmillas,0001,Palmillas
+28,Tamaulipas,Tamps.,032,Reynosa,RESA,Reynosa,0001,Reynosa
+28,Tamaulipas,Tamps.,033,Río Bravo,RIBR,Río Bravo,0001,Ciudad Río Bravo
+28,Tamaulipas,Tamps.,034,San Carlos,SACA,San Carlos,0001,San Carlos
+28,Tamaulipas,Tamps.,035,San Fernando,SAFE,San Fernando,0001,San Fernando
+28,Tamaulipas,Tamps.,036,San Nicolás,SANI,San Nicolás,0001,San Nicolás
+28,Tamaulipas,Tamps.,037,Soto la Marina,SOMA,Soto la Marina,0001,Soto la Marina
+28,Tamaulipas,Tamps.,038,Tampico,TACO,Tampico,0001,Tampico
+28,Tamaulipas,Tamps.,039,Tula,TULA,Tula,0001,Ciudad Tula
+28,Tamaulipas,Tamps.,040,Valle Hermoso,VAHE,Valle Hermoso,0001,Valle Hermoso
+28,Tamaulipas,Tamps.,041,Victoria,VIIA,Victoria,0001,Ciudad Victoria
+28,Tamaulipas,Tamps.,042,Villagrán,VIAN,Villagrán,0001,Villagrán
+28,Tamaulipas,Tamps.,043,Xicoténcatl,XITL,Xicoténcatl,0001,Xicoténcatl
+29,Tlaxcala,Tlax.,001,Amaxac de Guerrero,AMGU,Amaxac de Guerrero,0001,Amaxac de Guerrero
+29,Tlaxcala,Tlax.,002,Apetatitlán de Antonio Carvajal,APAC,Apetatitlán de A. Carvajal,0001,Apetatitlán
+29,Tlaxcala,Tlax.,003,Atlangatepec,ATEC,Atlangatepec,0001,Atlangatepec
+29,Tlaxcala,Tlax.,004,Atltzayanca,ATCA,Atltzayanca,0001,Atlzayanca
+29,Tlaxcala,Tlax.,005,Apizaco,APCO,Apizaco,0001,Ciudad de Apizaco
+29,Tlaxcala,Tlax.,006,Calpulalpan,CAAN,Calpulalpan,0001,Calpulalpan
+29,Tlaxcala,Tlax.,007,El Carmen Tequexquitla,CATE,El Carmen Tequexquitla,0001,Villa de El Carmen Tequexquitla
+29,Tlaxcala,Tlax.,008,Cuapiaxtla,CUXA,Cuapiaxtla,0001,Cuapiaxtla
+29,Tlaxcala,Tlax.,009,Cuaxomulco,CUCO,Cuaxomulco,0001,Cuaxomulco
+29,Tlaxcala,Tlax.,010,Chiautempan,CHAN,Chiautempan,0001,Santa Ana Chiautempan
+29,Tlaxcala,Tlax.,011,Muñoz de Domingo Arenas,MUDA,Muñoz de Domingo Arenas,0001,Muñoz
+29,Tlaxcala,Tlax.,012,Españita,ESTA,Españita,0001,Españita
+29,Tlaxcala,Tlax.,013,Huamantla,HULA,Huamantla,0001,Huamantla
+29,Tlaxcala,Tlax.,014,Hueyotlipan,HUAN,Hueyotlipan,0001,Hueyotlipan
+29,Tlaxcala,Tlax.,015,Ixtacuixtla de Mariano Matamoros,IXMM,Ixtacuixtla de M. Matamoros,0001,Villa Mariano Matamoros
+29,Tlaxcala,Tlax.,016,Ixtenco,IXCO,Ixtenco,0001,Ixtenco
+29,Tlaxcala,Tlax.,017,Mazatecochco de José María Morelos,MJMM,Mazatecochco d J Ma Morelos,0001,Mazatecochco
+29,Tlaxcala,Tlax.,018,Contla de Juan Cuamatzi,COJC,Contla de Juan Cuamatzi,0001,Contla
+29,Tlaxcala,Tlax.,019,Tepetitla de Lardizábal,TELA,Tepetitla de Lardizábal,0001,Tepetitla
+29,Tlaxcala,Tlax.,020,Sanctórum de Lázaro Cárdenas,SALC,Sanctórum de L. Cárdenas,0001,Sanctórum
+29,Tlaxcala,Tlax.,021,Nanacamilpa de Mariano Arista,NAMA,Nanacamilpa de M. Arista,0001,Ciudad de Nanacamilpa
+29,Tlaxcala,Tlax.,022,Acuamanala de Miguel Hidalgo,ACMH,Acuamanala de Miguel Hgo.,0001,Acuamanala
+29,Tlaxcala,Tlax.,023,Natívitas,NAAS,Natívitas,0001,Natívitas
+29,Tlaxcala,Tlax.,024,Panotla,PALA,Panotla,0001,Panotla
+29,Tlaxcala,Tlax.,025,San Pablo del Monte,SAPM,San Pablo del Monte,0001,Villa Vicente Guerrero
+29,Tlaxcala,Tlax.,026,Santa Cruz Tlaxcala,SACT,Santa Cruz Tlaxcala,0001,Santa Cruz Tlaxcala
+29,Tlaxcala,Tlax.,027,Tenancingo,TEGO,Tenancingo,0001,Tenancingo
+29,Tlaxcala,Tlax.,028,Teolocholco,TECO,Teolocholco,0001,Teolocholco
+29,Tlaxcala,Tlax.,029,Tepeyanco,TEPO,Tepeyanco,0001,Tepeyanco
+29,Tlaxcala,Tlax.,030,Terrenate,TETE,Terrenate,0001,Terrenate
+29,Tlaxcala,Tlax.,031,Tetla de la Solidaridad,TESO,Tetla de la Solidaridad,0001,Tetla
+29,Tlaxcala,Tlax.,032,Tetlatlahuca,TECA,Tetlatlahuca,0001,Tetlatlahuca
+29,Tlaxcala,Tlax.,033,Tlaxcala,TLLA,Tlaxcala,0001,Tlaxcala de Xicohténcatl
+29,Tlaxcala,Tlax.,034,Tlaxco,TLCO,Tlaxco,0001,Tlaxco
+29,Tlaxcala,Tlax.,035,Tocatlán,TOAN,Tocatlán,0001,Tocatlán
+29,Tlaxcala,Tlax.,036,Totolac,TOAC,Totolac,0001,San Juan Totolac
+29,Tlaxcala,Tlax.,037,Ziltlaltépec de Trinidad Sánchez Santos,ZTSS,Ziltlaltépec D T Schez Sto,0001,Zitlaltepec
+29,Tlaxcala,Tlax.,038,Tzompantepec,TZEC,Tzompantepec,0001,Tzompantepec
+29,Tlaxcala,Tlax.,039,Xaloztoc,XAOC,Xaloztoc,0001,Xaloztoc
+29,Tlaxcala,Tlax.,040,Xaltocan,XAAN,Xaltocan,0001,Xaltocan
+29,Tlaxcala,Tlax.,041,Papalotla de Xicohténcatl,PAXI,Papalotla de Xicohténcatl,0001,Papalotla
+29,Tlaxcala,Tlax.,042,Xicohtzinco,XICO,Xicohtzinco,0001,Xicohtzinco
+29,Tlaxcala,Tlax.,043,Yauhquemehcan,YAAN,Yauhquemehcan,0001,San Dionisio Yauhquemehcan
+29,Tlaxcala,Tlax.,044,Zacatelco,ZACO,Zacatelco,0001,Zacatelco
+29,Tlaxcala,Tlax.,045,Benito Juárez,BEJU,Benito Juárez,0001,Benito Juárez
+29,Tlaxcala,Tlax.,046,Emiliano Zapata,EMZA,Emiliano Zapata,0001,Emiliano Zapata
+29,Tlaxcala,Tlax.,047,Lázaro Cárdenas,LACA,Lázaro Cárdenas,0001,Lázaro Cárdenas
+29,Tlaxcala,Tlax.,048,La Magdalena Tlaltelulco,MATE,La Magdalena Tlaltelulco,0001,La Magdalena Tlaltelulco
+29,Tlaxcala,Tlax.,049,San Damián Texóloc,SADT,San Damián Texóloc,0001,San Damián Texoloc
+29,Tlaxcala,Tlax.,050,San Francisco Tetlanohcan,SAFT,San Francisco Tetlanohcan,0001,San Francisco Tetlanohcan
+29,Tlaxcala,Tlax.,051,San Jerónimo Zacualpan,SAJZ,San Jerónimo Zacualpan,0001,San Jerónimo Zacualpan
+29,Tlaxcala,Tlax.,052,San José Teacalco,SAJT,San José Teacalco,0001,San José Teacalco
+29,Tlaxcala,Tlax.,053,San Juan Huactzinco,SAJH,San Juan Huactzinco,0001,San Juan Huactzinco
+29,Tlaxcala,Tlax.,054,San Lorenzo Axocomanitla,SALA,San Lorenzo Axocomanitla,0001,San Lorenzo Axocomanitla
+29,Tlaxcala,Tlax.,055,San Lucas Tecopilco,SALT,San Lucas Tecopilco,0001,San Lucas Tecopilco
+29,Tlaxcala,Tlax.,056,Santa Ana Nopalucan,SAAN,Santa Ana Nopalucan,0001,Santa Ana Nopalucan
+29,Tlaxcala,Tlax.,057,Santa Apolonia Teacalco,SAAT,Santa Apolonia Teacalco,0001,Santa Apolonia Teacalco
+29,Tlaxcala,Tlax.,058,Santa Catarina Ayometla,SACA,Santa Catarina Ayometla,0001,Santa Catarina Ayometla
+29,Tlaxcala,Tlax.,059,Santa Cruz Quilehtla,SACQ,Santa Cruz Quilehtla,0001,Santa Cruz Quilehtla
+29,Tlaxcala,Tlax.,060,Santa Isabel Xiloxoxtla,SAIX,Santa Isabel Xiloxoxtla,0001,Santa Isabel Xiloxoxtla
+30,Veracruz de Ignacio de la Llave,Ver.,001,Acajete,ACTE,Acajete,0001,Acajete
+30,Veracruz de Ignacio de la Llave,Ver.,002,Acatlán,ACAN,Acatlán,0001,Acatlán
+30,Veracruz de Ignacio de la Llave,Ver.,003,Acayucan,ACYN,Acayucan,0001,Acayucan
+30,Veracruz de Ignacio de la Llave,Ver.,004,Actopan,ACTN,Actopan,0001,Actopan
+30,Veracruz de Ignacio de la Llave,Ver.,005,Acula,ACLA,Acula,0001,Acula
+30,Veracruz de Ignacio de la Llave,Ver.,006,Acultzingo,ACGO,Acultzingo,0001,Acultzingo
+30,Veracruz de Ignacio de la Llave,Ver.,007,Camarón de Tejeda,CATE,Camarón de Tejeda,0001,Camarón de Tejeda
+30,Veracruz de Ignacio de la Llave,Ver.,008,Alpatláhuac,ALAC,Alpatláhuac,0001,Alpatláhuac
+30,Veracruz de Ignacio de la Llave,Ver.,009,Alto Lucero de Gutiérrez Barrios,ALGB,Alto Lucero de Gtz. Barrios,0001,Alto Lucero
+30,Veracruz de Ignacio de la Llave,Ver.,010,Altotonga,ALGA,Altotonga,0001,Altotonga
+30,Veracruz de Ignacio de la Llave,Ver.,011,Alvarado,ALDO,Alvarado,0001,Alvarado
+30,Veracruz de Ignacio de la Llave,Ver.,012,Amatitlán,AMAN,Amatitlán,0001,Amatitlán
+30,Veracruz de Ignacio de la Llave,Ver.,013,Naranjos Amatlán,NAAM,Naranjos Amatlán,0001,Naranjos
+30,Veracruz de Ignacio de la Llave,Ver.,014,Amatlán de los Reyes,AMRE,Amatlán de los Reyes,0001,Amatlán de los Reyes
+30,Veracruz de Ignacio de la Llave,Ver.,015,Angel R. Cabada,ANRC,Angel R. Cabada,0001,?ngel R. Cabada
+30,Veracruz de Ignacio de la Llave,Ver.,016,La Antigua,ANUA,La Antigua,0001,José Cardel
+30,Veracruz de Ignacio de la Llave,Ver.,017,Apazapan,APAN,Apazapan,0001,Apazapan
+30,Veracruz de Ignacio de la Llave,Ver.,018,Aquila,AQLA,Aquila,0001,Aquila
+30,Veracruz de Ignacio de la Llave,Ver.,019,Astacinga,ASGA,Astacinga,0001,Astacinga
+30,Veracruz de Ignacio de la Llave,Ver.,020,Atlahuilco,ATCO,Atlahuilco,0001,Atlahuilco
+30,Veracruz de Ignacio de la Llave,Ver.,021,Atoyac,ATAC,Atoyac,0001,Atoyac
+30,Veracruz de Ignacio de la Llave,Ver.,022,Atzacan,ATAN,Atzacan,0001,Atzacan
+30,Veracruz de Ignacio de la Llave,Ver.,023,Atzalan,ATZN,Atzalan,0001,Atzalan
+30,Veracruz de Ignacio de la Llave,Ver.,024,Tlaltetela,TLLA,Tlaltetela,0001,Tlaltetela
+30,Veracruz de Ignacio de la Llave,Ver.,025,Ayahualulco,AYCO,Ayahualulco,0001,Ayahualulco
+30,Veracruz de Ignacio de la Llave,Ver.,026,Banderilla,BALA,Banderilla,0001,Banderilla
+30,Veracruz de Ignacio de la Llave,Ver.,027,Benito Juárez,BEJU,Benito Juárez,0001,Benito Juárez
+30,Veracruz de Ignacio de la Llave,Ver.,028,Boca del Río,BORI,Boca del Río,0001,Boca del Río
+30,Veracruz de Ignacio de la Llave,Ver.,029,Calcahualco,CALO,Calcahualco,0001,Calcahualco
+30,Veracruz de Ignacio de la Llave,Ver.,030,Camerino Z. Mendoza,CAZM,Camerino Z. Mendoza,0001,Ciudad Mendoza
+30,Veracruz de Ignacio de la Llave,Ver.,031,Carrillo Puerto,CAPU,Carrillo Puerto,0001,Tamarindo
+30,Veracruz de Ignacio de la Llave,Ver.,032,Catemaco,CATO,Catemaco,0001,Catemaco
+30,Veracruz de Ignacio de la Llave,Ver.,033,Cazones de Herrera,CAHE,Cazones  de Herrera,0001,Cazones de Herrera
+30,Veracruz de Ignacio de la Llave,Ver.,034,Cerro Azul,CEAZ,Cerro Azul,0001,Cerro Azul
+30,Veracruz de Ignacio de la Llave,Ver.,035,Citlaltépetl,CITL,Citlaltépetl,0001,Citlaltépec
+30,Veracruz de Ignacio de la Llave,Ver.,036,Coacoatzintla,COTL,Coacoatzintla,0001,Coacoatzintla
+30,Veracruz de Ignacio de la Llave,Ver.,037,Coahuitlán,COAN,Coahuitlán,0001,Progreso de Zaragoza
+30,Veracruz de Ignacio de la Llave,Ver.,038,Coatepec,COEC,Coatepec,0001,Coatepec
+30,Veracruz de Ignacio de la Llave,Ver.,039,Coatzacoalcos,COOS,Coatzacoalcos,0001,Coatzacoalcos
+30,Veracruz de Ignacio de la Llave,Ver.,040,Coatzintla,COTA,Coatzintla,0001,Coatzintla
+30,Veracruz de Ignacio de la Llave,Ver.,041,Coetzala,COZA,Coetzala,0001,Coetzala
+30,Veracruz de Ignacio de la Llave,Ver.,042,Colipa,COPA,Colipa,0001,Colipa
+30,Veracruz de Ignacio de la Llave,Ver.,043,Comapa,COMA,Comapa,0001,Comapa
+30,Veracruz de Ignacio de la Llave,Ver.,044,Córdoba,COBA,Córdoba,0001,Córdoba
+30,Veracruz de Ignacio de la Llave,Ver.,045,Cosamaloapan de Carpio,CODC,Cosamaloapan de Carpio,0001,Cosamaloapan
+30,Veracruz de Ignacio de la Llave,Ver.,046,Cosautlán de Carvajal,COVA,Cosautlán de Carvajal,0001,Cosautlán de Carvajal
+30,Veracruz de Ignacio de la Llave,Ver.,047,Coscomatepec,COMC,Coscomatepec,0001,Coscomatepec de Bravo
+30,Veracruz de Ignacio de la Llave,Ver.,048,Cosoleacaque,COUE,Cosoleacaque,0001,Cosoleacaque
+30,Veracruz de Ignacio de la Llave,Ver.,049,Cotaxtla,COXA,Cotaxtla,0001,Cotaxtla
+30,Veracruz de Ignacio de la Llave,Ver.,050,Coxquihui,COUI,Coxquihui,0001,Coxquihui
+30,Veracruz de Ignacio de la Llave,Ver.,051,Coyutla,COYA,Coyutla,0001,Coyutla
+30,Veracruz de Ignacio de la Llave,Ver.,052,Cuichapa,CUPA,Cuichapa,0001,Cuichapa
+30,Veracruz de Ignacio de la Llave,Ver.,053,Cuitláhuac,CUAC,Cuitláhuac,0001,Cuitláhuac
+30,Veracruz de Ignacio de la Llave,Ver.,054,Chacaltianguis,CHIS,Chacaltianguis,0001,Chacaltianguis
+30,Veracruz de Ignacio de la Llave,Ver.,055,Chalma,CHMA,Chalma,0001,Chalma
+30,Veracruz de Ignacio de la Llave,Ver.,056,Chiconamel,CHEL,Chiconamel,0001,Chiconamel
+30,Veracruz de Ignacio de la Llave,Ver.,057,Chiconquiaco,CHCO,Chiconquiaco,0001,Chiconquiaco
+30,Veracruz de Ignacio de la Llave,Ver.,058,Chicontepec,CHEC,Chicontepec,0001,Chicontepec de Tejeda
+30,Veracruz de Ignacio de la Llave,Ver.,059,Chinameca,CHCA,Chinameca,0001,Chinameca
+30,Veracruz de Ignacio de la Llave,Ver.,060,Chinampa de Gorostiza,CHGO,Chinampa de Gorostiza,0001,Chinampa de Gorostiza
+30,Veracruz de Ignacio de la Llave,Ver.,061,Las Choapas,CHAS,Las Choapas,0001,Las Choapas
+30,Veracruz de Ignacio de la Llave,Ver.,062,Chocamán,CHAN,Chocamán,0001,Chocamán
+30,Veracruz de Ignacio de la Llave,Ver.,063,Chontla,CHLA,Chontla,0001,Chontla
+30,Veracruz de Ignacio de la Llave,Ver.,064,Chumatlán,CTAN,Chumatlán,0001,Chumatlán
+30,Veracruz de Ignacio de la Llave,Ver.,065,Emiliano Zapata,EMZA,Emiliano Zapata,0001,Dos Ríos
+30,Veracruz de Ignacio de la Llave,Ver.,066,Espinal,ESAL,Espinal,0001,Espinal
+30,Veracruz de Ignacio de la Llave,Ver.,067,Filomeno Mata,FIMA,Filomeno Mata,0001,Filomeno Mata
+30,Veracruz de Ignacio de la Llave,Ver.,068,Fortín,FOIN,Fortín,0001,Fortín de las Flores
+30,Veracruz de Ignacio de la Llave,Ver.,069,Gutiérrez Zamora,GUZA,Gutiérrez Zamora,0001,Gutiérrez Zamora
+30,Veracruz de Ignacio de la Llave,Ver.,070,Hidalgotitlán,HIAN,Hidalgotitlán,0001,Hidalgotitlán
+30,Veracruz de Ignacio de la Llave,Ver.,071,Huatusco,HUCO,Huatusco,0001,Huatusco de Chicuellar
+30,Veracruz de Ignacio de la Llave,Ver.,072,Huayacocotla,HULA,Huayacocotla,0001,Huayacocotla
+30,Veracruz de Ignacio de la Llave,Ver.,073,Hueyapan de Ocampo,HUOC,Hueyapan de Ocampo,0001,Hueyapan de Ocampo
+30,Veracruz de Ignacio de la Llave,Ver.,074,Huiloapan de Cuauhtémoc,HUCU,Huiloapan de Cuauhtémoc,0001,Huiloapan de Cuauhtémoc
+30,Veracruz de Ignacio de la Llave,Ver.,075,Ignacio de la Llave,IGLL,Ignacio de la Llave,0001,Ignacio de la Llave
+30,Veracruz de Ignacio de la Llave,Ver.,076,Ilamatlán,ILAN,Ilamatlán,0001,Ilamatlán
+30,Veracruz de Ignacio de la Llave,Ver.,077,Isla,ISLA,Isla,0001,Isla
+30,Veracruz de Ignacio de la Llave,Ver.,078,Ixcatepec,IXEC,Ixcatepec,0001,Ixcatepec
+30,Veracruz de Ignacio de la Llave,Ver.,079,Ixhuacán de los Reyes,IXRE,Ixhuacán de los Reyes,0001,Ixhuacán de los Reyes
+30,Veracruz de Ignacio de la Llave,Ver.,080,Ixhuatlán del Café,IXCA,Ixhuatlán del Café,0001,Ixhuatlán del Café
+30,Veracruz de Ignacio de la Llave,Ver.,081,Ixhuatlancillo,IXLO,Ixhuatlancillo,0001,Ixhuatlancillo
+30,Veracruz de Ignacio de la Llave,Ver.,082,Ixhuatlán del Sureste,IXSU,Ixhuatlán del Sureste,0001,Ixhuatlán del Sureste
+30,Veracruz de Ignacio de la Llave,Ver.,083,Ixhuatlán de Madero,IXMA,Ixhuatlán de Madero,0001,Ixhuatlán de Madero
+30,Veracruz de Ignacio de la Llave,Ver.,084,Ixmatlahuacan,IXAN,Ixmatlahuacan,0001,Ixmatlahuacan
+30,Veracruz de Ignacio de la Llave,Ver.,085,Ixtaczoquitlán,IXTN,Ixtaczoquitlán,0001,Ixtaczoquitlán
+30,Veracruz de Ignacio de la Llave,Ver.,086,Jalacingo,JAGO,Jalacingo,0001,Jalacingo
+30,Veracruz de Ignacio de la Llave,Ver.,087,Xalapa,XAPA,Xalapa,0001,Xalapa-Enríquez
+30,Veracruz de Ignacio de la Llave,Ver.,088,Jalcomulco,JACO,Jalcomulco,0001,Jalcomulco
+30,Veracruz de Ignacio de la Llave,Ver.,089,Jáltipan,JAAN,Jáltipan,0001,Jáltipan de Morelos
+30,Veracruz de Ignacio de la Llave,Ver.,090,Jamapa,JAPA,Jamapa,0001,Jamapa
+30,Veracruz de Ignacio de la Llave,Ver.,091,Jesús Carranza,JECA,Jesús Carranza,0001,Jesús Carranza
+30,Veracruz de Ignacio de la Llave,Ver.,092,Xico,XICO,Xico,0001,Xico
+30,Veracruz de Ignacio de la Llave,Ver.,093,Jilotepec,JIEC,Jilotepec,0001,Jilotepec
+30,Veracruz de Ignacio de la Llave,Ver.,094,Juan Rodríguez Clara,JURC,Juan Rodríguez Clara,0001,Juan Rodríguez Clara
+30,Veracruz de Ignacio de la Llave,Ver.,095,Juchique de Ferrer,JUFE,Juchique de Ferrer,0001,Juchique de Ferrer
+30,Veracruz de Ignacio de la Llave,Ver.,096,Landero y Coss,LACO,Landero y Coss,0001,Landero y Coss
+30,Veracruz de Ignacio de la Llave,Ver.,097,Lerdo de Tejada,LETE,Lerdo de Tejada,0001,Lerdo de Tejada
+30,Veracruz de Ignacio de la Llave,Ver.,098,Magdalena,MANA,Magdalena,0001,Magdalena
+30,Veracruz de Ignacio de la Llave,Ver.,099,Maltrata,MATA,Maltrata,0001,Maltrata
+30,Veracruz de Ignacio de la Llave,Ver.,100,Manlio Fabio Altamirano,MAFA,Manlio Fabio Altamirano,0001,Manlio Fabio Altamirano
+30,Veracruz de Ignacio de la Llave,Ver.,101,Mariano Escobedo,MAES,Mariano Escobedo,0001,Mariano Escobedo
+30,Veracruz de Ignacio de la Llave,Ver.,102,Martínez de la Torre,MATO,Martínez de la Torre,0001,Martínez de la Torre
+30,Veracruz de Ignacio de la Llave,Ver.,103,Mecatlán,MEAN,Mecatlán,0001,Mecatlán
+30,Veracruz de Ignacio de la Llave,Ver.,104,Mecayapan,MECN,Mecayapan,0001,Mecayapan
+30,Veracruz de Ignacio de la Llave,Ver.,105,Medellín,MEIN,Medellín,0001,Medellín
+30,Veracruz de Ignacio de la Llave,Ver.,106,Miahuatlán,MIAN,Miahuatlán,0001,Miahuatlán
+30,Veracruz de Ignacio de la Llave,Ver.,107,Las Minas,MIAS,Las Minas,0001,Las Minas
+30,Veracruz de Ignacio de la Llave,Ver.,108,Minatitlán,MINN,Minatitlán,0001,Minatitlán
+30,Veracruz de Ignacio de la Llave,Ver.,109,Misantla,MILA,Misantla,0001,Misantla
+30,Veracruz de Ignacio de la Llave,Ver.,110,Mixtla de Altamirano,MIDA,Mixtla de Altamirano,0001,Mixtla de Altamirano
+30,Veracruz de Ignacio de la Llave,Ver.,111,Moloacán,MOAN,Moloacán,0001,Moloacán
+30,Veracruz de Ignacio de la Llave,Ver.,112,Naolinco,NALO,Naolinco,0001,Naolinco de Victoria
+30,Veracruz de Ignacio de la Llave,Ver.,113,Naranjal,NAAL,Naranjal,0001,Naranjal
+30,Veracruz de Ignacio de la Llave,Ver.,114,Nautla,NALA,Nautla,0001,Nautla
+30,Veracruz de Ignacio de la Llave,Ver.,115,Nogales,NOES,Nogales,0001,Nogales
+30,Veracruz de Ignacio de la Llave,Ver.,116,Oluta,OLTA,Oluta,0001,Oluta
+30,Veracruz de Ignacio de la Llave,Ver.,117,Omealca,OMCA,Omealca,0001,Omealca
+30,Veracruz de Ignacio de la Llave,Ver.,118,Orizaba,ORBA,Orizaba,0001,Orizaba
+30,Veracruz de Ignacio de la Llave,Ver.,119,Otatitlán,OTAN,Otatitlán,0001,Otatitlán
+30,Veracruz de Ignacio de la Llave,Ver.,120,Oteapan,OTPN,Oteapan,0001,Oteapan
+30,Veracruz de Ignacio de la Llave,Ver.,121,Ozuluama de Mascareñas,OZMA,Ozuluama de Mascareñas,0001,Ozuluama de Mascareñas
+30,Veracruz de Ignacio de la Llave,Ver.,122,Pajapan,PAAN,Pajapan,0001,Pajapan
+30,Veracruz de Ignacio de la Llave,Ver.,123,Pánuco,PACO,Pánuco,0001,Pánuco
+30,Veracruz de Ignacio de la Llave,Ver.,124,Papantla,PALA,Papantla,0001,Papantla de Olarte
+30,Veracruz de Ignacio de la Llave,Ver.,125,Paso del Macho,PAMA,Paso del Macho,0001,Paso del Macho
+30,Veracruz de Ignacio de la Llave,Ver.,126,Paso de Ovejas,PAOV,Paso de Ovejas,0001,Paso de Ovejas
+30,Veracruz de Ignacio de la Llave,Ver.,127,La Perla,PELA,La Perla,0001,La Perla
+30,Veracruz de Ignacio de la Llave,Ver.,128,Perote,PETE,Perote,0001,Perote
+30,Veracruz de Ignacio de la Llave,Ver.,129,Platón Sánchez,PLSA,Platón Sánchez,0001,Platón Sánchez
+30,Veracruz de Ignacio de la Llave,Ver.,130,Playa Vicente,PLVI,Playa Vicente,0001,Playa Vicente
+30,Veracruz de Ignacio de la Llave,Ver.,131,Poza Rica de Hidalgo,PORH,Poza Rica de Hidalgo,0001,Poza Rica de Hidalgo
+30,Veracruz de Ignacio de la Llave,Ver.,132,Las Vigas de Ramírez,YIRA,Las Vigas de Ramírez,0001,Las Vigas de Ramírez
+30,Veracruz de Ignacio de la Llave,Ver.,133,Pueblo Viejo,PUVI,Pueblo Viejo,0001,Cd. Cuauhtémoc
+30,Veracruz de Ignacio de la Llave,Ver.,134,Puente Nacional,PUNA,Puente Nacional,0001,Puente Nacional
+30,Veracruz de Ignacio de la Llave,Ver.,135,Rafael Delgado,RADE,Rafael Delgado,0001,Rafael Delgado
+30,Veracruz de Ignacio de la Llave,Ver.,136,Rafael Lucio,RALU,Rafael Lucio,0001,Rafael Lucio
+30,Veracruz de Ignacio de la Llave,Ver.,137,Los Reyes,REES,Los Reyes,0001,Los Reyes
+30,Veracruz de Ignacio de la Llave,Ver.,138,Río Blanco,RIBL,Río Blanco,0001,Río Blanco
+30,Veracruz de Ignacio de la Llave,Ver.,139,Saltabarranca,SACA,Saltabarranca,0001,Saltabarranca
+30,Veracruz de Ignacio de la Llave,Ver.,140,San Andrés Tenejapan,SAAT,San Andrés Tenejapan,0001,San Andrés Tenejapan
+30,Veracruz de Ignacio de la Llave,Ver.,141,San Andrés Tuxtla,SATU,San Andrés Tuxtla,0001,San Andrés Tuxtla
+30,Veracruz de Ignacio de la Llave,Ver.,142,San Juan Evangelista,SAJE,San Juan Evangelista,0001,San Juan Evangelista
+30,Veracruz de Ignacio de la Llave,Ver.,143,Santiago Tuxtla,SATX,Santiago Tuxtla,0001,Santiago Tuxtla
+30,Veracruz de Ignacio de la Llave,Ver.,144,Sayula de Alemán,SAAL,Sayula de Alemán,0001,Sayula de Alemán
+30,Veracruz de Ignacio de la Llave,Ver.,145,Soconusco,SOCO,Soconusco,0001,Soconusco
+30,Veracruz de Ignacio de la Llave,Ver.,146,Sochiapa,SOPA,Sochiapa,0001,Sochiapa
+30,Veracruz de Ignacio de la Llave,Ver.,147,Soledad Atzompa,SOAT,Soledad Atzompa,0001,Soledad Atzompa
+30,Veracruz de Ignacio de la Llave,Ver.,148,Soledad de Doblado,SODO,Soledad de Doblado,0001,Soledad de Doblado
+30,Veracruz de Ignacio de la Llave,Ver.,149,Soteapan,SOAN,Soteapan,0001,Soteapan
+30,Veracruz de Ignacio de la Llave,Ver.,150,Tamalín,TAIN,Tamalín,0001,Tamalín
+30,Veracruz de Ignacio de la Llave,Ver.,151,Tamiahua,TAUA,Tamiahua,0001,Tamiahua
+30,Veracruz de Ignacio de la Llave,Ver.,152,Tampico Alto,TAAL,Tampico Alto,0001,Tampico Alto
+30,Veracruz de Ignacio de la Llave,Ver.,153,Tancoco,TACO,Tancoco,0001,Tancoco
+30,Veracruz de Ignacio de la Llave,Ver.,154,Tantima,TAMA,Tantima,0001,Tantima
+30,Veracruz de Ignacio de la Llave,Ver.,155,Tantoyuca,TACA,Tantoyuca,0001,Tantoyuca
+30,Veracruz de Ignacio de la Llave,Ver.,156,Tatatila,TALA,Tatatila,0001,Tatatila
+30,Veracruz de Ignacio de la Llave,Ver.,157,Castillo de Teayo,CATY,Castillo de Teayo,0001,Castillo de Teayo
+30,Veracruz de Ignacio de la Llave,Ver.,158,Tecolutla,TELA,Tecolutla,0001,Tecolutla
+30,Veracruz de Ignacio de la Llave,Ver.,159,Tehuipango,TEGO,Tehuipango,0001,Tehuipango
+30,Veracruz de Ignacio de la Llave,Ver.,160,?lamo Temapache,ALTE,?lamo Temapache,0001,?lamo
+30,Veracruz de Ignacio de la Llave,Ver.,161,Tempoal,TEAL,Tempoal,0001,Tempoal de Sánchez
+30,Veracruz de Ignacio de la Llave,Ver.,162,Tenampa,TEPA,Tenampa,0001,Tenampa
+30,Veracruz de Ignacio de la Llave,Ver.,163,Tenochtitlán,TEAN,Tenochtitlán,0001,Tenochtitlán
+30,Veracruz de Ignacio de la Llave,Ver.,164,Teocelo,TELO,Teocelo,0001,Teocelo
+30,Veracruz de Ignacio de la Llave,Ver.,165,Tepatlaxco,TECO,Tepatlaxco,0001,Tepatlaxco
+30,Veracruz de Ignacio de la Llave,Ver.,166,Tepetlán,TEPN,Tepetlán,0001,Tepetlán
+30,Veracruz de Ignacio de la Llave,Ver.,167,Tepetzintla,TEEA,Tepetzintla,0001,Tepetzintla
+30,Veracruz de Ignacio de la Llave,Ver.,168,Tequila,TEQA,Tequila,0001,Tequila
+30,Veracruz de Ignacio de la Llave,Ver.,169,José Azueta,JOAZ,José Azueta,0001,Villa Azueta
+30,Veracruz de Ignacio de la Llave,Ver.,170,Texcatepec,TEEC,Texcatepec,0001,Texcatepec
+30,Veracruz de Ignacio de la Llave,Ver.,171,Texhuacán,TEXN,Texhuacán,0001,Texhuacán
+30,Veracruz de Ignacio de la Llave,Ver.,172,Texistepec,TEXC,Texistepec,0001,Texistepec
+30,Veracruz de Ignacio de la Llave,Ver.,173,Tezonapa,TEZA,Tezonapa,0001,Tezonapa
+30,Veracruz de Ignacio de la Llave,Ver.,174,Tierra Blanca,TIBL,Tierra Blanca,0001,Tierra Blanca
+30,Veracruz de Ignacio de la Llave,Ver.,175,Tihuatlán,TIAN,Tihuatlán,0001,Tihuatlán
+30,Veracruz de Ignacio de la Llave,Ver.,176,Tlacojalpan,TLAN,Tlacojalpan,0001,Tlacojalpan
+30,Veracruz de Ignacio de la Llave,Ver.,177,Tlacolulan,TLCN,Tlacolulan,0001,Tlacolulan
+30,Veracruz de Ignacio de la Llave,Ver.,178,Tlacotalpan,TLTN,Tlacotalpan,0001,Tlacotalpan
+30,Veracruz de Ignacio de la Llave,Ver.,179,Tlacotepec de Mejía,TLME,Tlacotepec de Mejía,0001,Tlacotepec de Mejía
+30,Veracruz de Ignacio de la Llave,Ver.,180,Tlachichilco,TLCO,Tlachichilco,0001,Tlachichilco
+30,Veracruz de Ignacio de la Llave,Ver.,181,Tlalixcoyan,TLLN,Tlalixcoyan,0001,Tlalixcoyan
+30,Veracruz de Ignacio de la Llave,Ver.,182,Tlalnelhuayocan,TLNN,Tlalnelhuayocan,0001,Tlalnelhuayocan
+30,Veracruz de Ignacio de la Llave,Ver.,183,Tlapacoyan,TLPN,Tlapacoyan,0001,Tlapacoyan
+30,Veracruz de Ignacio de la Llave,Ver.,184,Tlaquilpa,TLPA,Tlaquilpa,0001,Tlaquilpa
+30,Veracruz de Ignacio de la Llave,Ver.,185,Tlilapan,TLIN,Tlilapan,0001,Tlilapan
+30,Veracruz de Ignacio de la Llave,Ver.,186,Tomatlán,TOAN,Tomatlán,0001,Tomatlán
+30,Veracruz de Ignacio de la Llave,Ver.,187,Tonayán,TONN,Tonayán,0001,Tonayán
+30,Veracruz de Ignacio de la Llave,Ver.,188,Totutla,TOLA,Totutla,0001,Totutla
+30,Veracruz de Ignacio de la Llave,Ver.,189,Tuxpan,TUAN,Tuxpan,0001,Túxpam de Rodríguez Cano
+30,Veracruz de Ignacio de la Llave,Ver.,190,Tuxtilla,TULA,Tuxtilla,0001,Tuxtilla
+30,Veracruz de Ignacio de la Llave,Ver.,191,Ursulo Galván,URGA,Ursulo Galván,0001,?rsulo Galván
+30,Veracruz de Ignacio de la Llave,Ver.,192,Vega de Alatorre,VEAL,Vega de Alatorre,0001,Vega de Alatorre
+30,Veracruz de Ignacio de la Llave,Ver.,193,Veracruz,VEUZ,Veracruz,0001,Veracruz
+30,Veracruz de Ignacio de la Llave,Ver.,194,Villa Aldama,VIAL,Villa Aldama,0001,Villa Aldama
+30,Veracruz de Ignacio de la Llave,Ver.,195,Xoxocotla,XOLA,Xoxocotla,0001,Xoxocotla
+30,Veracruz de Ignacio de la Llave,Ver.,196,Yanga,YAGA,Yanga,0001,Yanga
+30,Veracruz de Ignacio de la Llave,Ver.,197,Yecuatla,YELA,Yecuatla,0001,Yecuatla
+30,Veracruz de Ignacio de la Llave,Ver.,198,Zacualpan,ZAAN,Zacualpan,0001,Zacualpan
+30,Veracruz de Ignacio de la Llave,Ver.,199,Zaragoza,ZAZA,Zaragoza,0001,Zaragoza
+30,Veracruz de Ignacio de la Llave,Ver.,200,Zentla,ZELA,Zentla,0001,Colonia Manuel González
+30,Veracruz de Ignacio de la Llave,Ver.,201,Zongolica,ZOCA,Zongolica,0001,Zongolica
+30,Veracruz de Ignacio de la Llave,Ver.,202,Zontecomatlán de López y Fuentes,ZOLF,Zontecomatlán d López Fte,0001,Zontecomatlán de López y Fuentes
+30,Veracruz de Ignacio de la Llave,Ver.,203,Zozocolco de Hidalgo,ZOHI,Zozocolco de Hidalgo,0001,Zozocolco de Hidalgo
+30,Veracruz de Ignacio de la Llave,Ver.,204,Agua Dulce,AGDU,Agua Dulce,0001,Agua Dulce
+30,Veracruz de Ignacio de la Llave,Ver.,205,El Higo,HIGO,El Higo,0001,El Higo
+30,Veracruz de Ignacio de la Llave,Ver.,206,Nanchital de Lázaro Cárdenas del Río,NLCR,Nanchital L Cárdenas del R,0001,Nanchital de Lázaro Cárdenas del Río
+30,Veracruz de Ignacio de la Llave,Ver.,207,Tres Valles,TRVA,Tres Valles,0001,Tres Valles
+30,Veracruz de Ignacio de la Llave,Ver.,208,Carlos A. Carrillo,CACR,Carlos A. Carrillo,0001,Carlos A. Carrillo
+30,Veracruz de Ignacio de la Llave,Ver.,209,Tatahuicapan de Juárez,TAJU,Tatahuicapan de Juárez,0001,Tatahuicapan
+30,Veracruz de Ignacio de la Llave,Ver.,210,Uxpanapa,UXPA,Uxpanapa,0001,Poblado 10
+30,Veracruz de Ignacio de la Llave,Ver.,211,San Rafael,SARA,San Rafael,0001,San Rafael
+30,Veracruz de Ignacio de la Llave,Ver.,212,Santiago Sochiapan,SASO,Santiago Sochiapan,0001,Xochiapa
+31,Yucatán,Yuc.,001,Abalá,ABLA,Abalá,0001,Abalá
+31,Yucatán,Yuc.,002,Acanceh,ACEH,Acanceh,0001,Acanceh
+31,Yucatán,Yuc.,003,Akil,AKIL,Akil,0001,Akil
+31,Yucatán,Yuc.,004,Baca,BACA,Baca,0001,Baca
+31,Yucatán,Yuc.,005,Bokobá,BOBA,Bokobá,0001,Bokobá
+31,Yucatán,Yuc.,006,Buctzotz,BUTZ,Buctzotz,0001,Buctzotz
+31,Yucatán,Yuc.,007,Cacalchén,CAEN,Cacalchén,0001,Cacalchén
+31,Yucatán,Yuc.,008,Calotmul,CAUL,Calotmul,0001,Calotmul
+31,Yucatán,Yuc.,009,Cansahcab,CAAB,Cansahcab,0001,Cansahcab
+31,Yucatán,Yuc.,010,Cantamayec,CAEC,Cantamayec,0001,Cantamayec
+31,Yucatán,Yuc.,011,Celestún,CEUN,Celestún,0001,Celestún
+31,Yucatán,Yuc.,012,Cenotillo,CELO,Cenotillo,0001,Cenotillo
+31,Yucatán,Yuc.,013,Conkal,COAL,Conkal,0001,Conkal
+31,Yucatán,Yuc.,014,Cuncunul,CUUL,Cuncunul,0001,Cuncunul
+31,Yucatán,Yuc.,015,Cuzamá,CUMA,Cuzamá,0001,Cuzamá
+31,Yucatán,Yuc.,016,Chacsinkín,CHIN,Chacsinkín,0001,Chacsinkín
+31,Yucatán,Yuc.,017,Chankom,CHOM,Chankom,0001,Chankom
+31,Yucatán,Yuc.,018,Chapab,CHAB,Chapab,0001,Chapab
+31,Yucatán,Yuc.,019,Chemax,CHAX,Chemax,0001,Chemax
+31,Yucatán,Yuc.,020,Chicxulub Pueblo,CHPU,Chicxulub Pueblo,0001,Chicxulub Pueblo
+31,Yucatán,Yuc.,021,Chichimilá,CHCA,Chichimilá,0001,Chichimilá
+31,Yucatán,Yuc.,022,Chikindzonot,CHOT,Chikindzonot,0001,Chikindzonot
+31,Yucatán,Yuc.,023,Chocholá,CHLA,Chocholá,0001,Chocholá
+31,Yucatán,Yuc.,024,Chumayel,CHEL,Chumayel,0001,Chumayel
+31,Yucatán,Yuc.,025,Dzán,DZAN,Dzán,0001,Dzán
+31,Yucatán,Yuc.,026,Dzemul,DZUL,Dzemul,0001,Dzemul
+31,Yucatán,Yuc.,027,Dzidzantún,DZUN,Dzidzantún,0001,Dzidzantún
+31,Yucatán,Yuc.,028,Dzilam de Bravo,DZBR,Dzilam de Bravo,0001,Dzilam de Bravo
+31,Yucatán,Yuc.,029,Dzilam González,DZGO,Dzilam González,0001,Dzilam González
+31,Yucatán,Yuc.,030,Dzitás,DZAS,Dzitás,0001,Dzitás
+31,Yucatán,Yuc.,031,Dzoncauich,DZCH,Dzoncauich,0001,Dzoncauich
+31,Yucatán,Yuc.,032,Espita,ESTA,Espita,0001,Espita
+31,Yucatán,Yuc.,033,Halachó,HAHO,Halachó,0001,Halachó
+31,Yucatán,Yuc.,034,Hocabá,HOBA,Hocabá,0001,Hocabá
+31,Yucatán,Yuc.,035,Hoctún,HOCN,Hoctún,0001,Hoctún
+31,Yucatán,Yuc.,036,Homún,HOUN,Homún,0001,Homún
+31,Yucatán,Yuc.,037,Huhí,HUHI,Huhí,0001,Huhí
+31,Yucatán,Yuc.,038,Hunucmá,HUMA,Hunucmá,0001,Hunucmá
+31,Yucatán,Yuc.,039,Ixil,IXIL,Ixil,0001,Ixil
+31,Yucatán,Yuc.,040,Izamal,IZAL,Izamal,0001,Izamal
+31,Yucatán,Yuc.,041,Kanasín,KAIN,Kanasín,0001,Kanasín
+31,Yucatán,Yuc.,042,Kantunil,KAIL,Kantunil,0001,Kantunil
+31,Yucatán,Yuc.,043,Kaua,KAUA,Kaua,0001,Kaua
+31,Yucatán,Yuc.,044,Kinchil,KIIL,Kinchil,0001,Kinchil
+31,Yucatán,Yuc.,045,Kopomá,KOMA,Kopomá,0001,Kopomá
+31,Yucatán,Yuc.,046,Mama,MAMA,Mama,0001,Mama
+31,Yucatán,Yuc.,047,Maní,MANI,Maní,0001,Maní
+31,Yucatán,Yuc.,048,Maxcanú,MANU,Maxcanú,0001,Maxcanú
+31,Yucatán,Yuc.,049,Mayapán,MAAN,Mayapán,0001,Mayapán
+31,Yucatán,Yuc.,050,Mérida,MEDA,Mérida,0001,Mérida
+31,Yucatán,Yuc.,051,Mocochá,MOHA,Mocochá,0001,Mocochá
+31,Yucatán,Yuc.,052,Motul,MOUL,Motul,0001,Motul de Carrillo Puerto
+31,Yucatán,Yuc.,053,Muna,MUNA,Muna,0001,Muna
+31,Yucatán,Yuc.,054,Muxupip,MUIP,Muxupip,0001,Muxupip
+31,Yucatán,Yuc.,055,Opichén,OPEN,Opichén,0001,Opichén
+31,Yucatán,Yuc.,056,Oxkutzcab,OXAB,Oxkutzcab,0001,Oxkutzcab
+31,Yucatán,Yuc.,057,Panabá,PABA,Panabá,0001,Panabá
+31,Yucatán,Yuc.,058,Peto,PETO,Peto,0001,Peto
+31,Yucatán,Yuc.,059,Progreso,PRSO,Progreso,0001,Progreso
+31,Yucatán,Yuc.,060,Quintana Roo,QURO,Quintana Roo,0001,Quintana Roo
+31,Yucatán,Yuc.,061,Río Lagartos,RILA,Río Lagartos,0001,Río Lagartos
+31,Yucatán,Yuc.,062,Sacalum,SAUM,Sacalum,0001,Sacalum
+31,Yucatán,Yuc.,063,Samahil,SAIL,Samahil,0001,Samahil
+31,Yucatán,Yuc.,064,Sanahcat,SAAT,Sanahcat,0001,Sanahcat
+31,Yucatán,Yuc.,065,San Felipe,SAFE,San Felipe,0001,San Felipe
+31,Yucatán,Yuc.,066,Santa Elena,SAEL,Santa Elena,0001,Santa Elena
+31,Yucatán,Yuc.,067,Seyé,SEYE,Seyé,0001,Seyé
+31,Yucatán,Yuc.,068,Sinanché,SIHE,Sinanché,0001,Sinanché
+31,Yucatán,Yuc.,069,Sotuta,SOTA,Sotuta,0001,Sotuta
+31,Yucatán,Yuc.,070,Sucilá,SULA,Sucilá,0001,Sucilá
+31,Yucatán,Yuc.,071,Sudzal,SUAL,Sudzal,0001,Sudzal
+31,Yucatán,Yuc.,072,Suma,SUMA,Suma,0001,Suma
+31,Yucatán,Yuc.,073,Tahdziú,TAIU,Tahdziú,0001,Tahdziú
+31,Yucatán,Yuc.,074,Tahmek,TAEK,Tahmek,0001,Tahmek
+31,Yucatán,Yuc.,075,Teabo,TEBO,Teabo,0001,Teabo
+31,Yucatán,Yuc.,076,Tecoh,TEOH,Tecoh,0001,Tecoh
+31,Yucatán,Yuc.,077,Tekal de Venegas,TEVE,Tekal de Venegas,0001,Tekal de Venegas
+31,Yucatán,Yuc.,078,Tekantó,TENO,Tekantó,0001,Tekantó
+31,Yucatán,Yuc.,079,Tekax,TEKX,Tekax,0001,Tekax de ?lvaro Obregón
+31,Yucatán,Yuc.,080,Tekit,TEIT,Tekit,0001,Tekit
+31,Yucatán,Yuc.,081,Tekom,TEOM,Tekom,0001,Tekom
+31,Yucatán,Yuc.,082,Telchac Pueblo,TEPU,Telchac Pueblo,0001,Telchac
+31,Yucatán,Yuc.,083,Telchac Puerto,TELP,Telchac Puerto,0001,Telchac Puerto
+31,Yucatán,Yuc.,084,Temax,TEAX,Temax,0001,Temax
+31,Yucatán,Yuc.,085,Temozón,TEON,Temozón,0001,Temozón
+31,Yucatán,Yuc.,086,Tepakán,TEAN,Tepakán,0001,Tepakán
+31,Yucatán,Yuc.,087,Tetiz,TEIZ,Tetiz,0001,Tetiz
+31,Yucatán,Yuc.,088,Teya,TEYA,Teya,0001,Teya
+31,Yucatán,Yuc.,089,Ticul,TIUL,Ticul,0001,Ticul
+31,Yucatán,Yuc.,090,Timucuy,TIUY,Timucuy,0001,Timucuy
+31,Yucatán,Yuc.,091,Tinum,TIUM,Tinum,0001,Tinum
+31,Yucatán,Yuc.,092,Tixcacalcupul,TIXL,Tixcacalcupul,0001,Tixcacalcupul
+31,Yucatán,Yuc.,093,Tixkokob,TIOB,Tixkokob,0001,Tixkokob
+31,Yucatán,Yuc.,094,Tixmehuac,TIAC,Tixmehuac,0001,Tixmehuac
+31,Yucatán,Yuc.,095,Tixpéhual,TIAL,Tixpéhual,0001,Tixpéhual
+31,Yucatán,Yuc.,096,Tizimín,TIIN,Tizimín,0001,Tizimín
+31,Yucatán,Yuc.,097,Tunkás,TUAS,Tunkás,0001,Tunkás
+31,Yucatán,Yuc.,098,Tzucacab,TZAB,Tzucacab,0001,Tzucacab
+31,Yucatán,Yuc.,099,Uayma,UAMA,Uayma,0001,Uayma
+31,Yucatán,Yuc.,100,Ucú,UCCU,Ucú,0001,Ucú
+31,Yucatán,Yuc.,101,Umán,UMAN,Umán,0001,Umán
+31,Yucatán,Yuc.,102,Valladolid,VAID,Valladolid,0001,Valladolid
+31,Yucatán,Yuc.,103,Xocchel,XOEL,Xocchel,0001,Xocchel
+31,Yucatán,Yuc.,104,Yaxcabá,YABA,Yaxcabá,0001,Yaxcabá
+31,Yucatán,Yuc.,105,Yaxkukul,YAUL,Yaxkukul,0001,Yaxkukul
+31,Yucatán,Yuc.,106,Yobaín,YOIN,Yobaín,0001,Yobaín
+32,Zacatecas,Zac.,001,Apozol,APOL,Apozol,0001,Apozol
+32,Zacatecas,Zac.,002,Apulco,APCO,Apulco,0001,Apulco
+32,Zacatecas,Zac.,003,Atolinga,ATGA,Atolinga,0001,Atolinga
+32,Zacatecas,Zac.,004,Benito Juárez,BEJU,Benito Juárez,0001,Florencia
+32,Zacatecas,Zac.,005,Calera,CARA,Calera,0001,Víctor Rosales
+32,Zacatecas,Zac.,006,Cañitas de Felipe Pescador,CAFP,Cañitas de Felipe Pescador,0001,Cañitas de Felipe Pescador
+32,Zacatecas,Zac.,007,Concepción del Oro,COOR,Concepción del Oro,0001,Concepción del Oro
+32,Zacatecas,Zac.,008,Cuauhtémoc,CUOC,Cuauhtémoc,0001,San Pedro Piedra Gorda
+32,Zacatecas,Zac.,009,Chalchihuites,CHES,Chalchihuites,0001,Chalchihuites
+32,Zacatecas,Zac.,010,Fresnillo,FRLO,Fresnillo,0001,Fresnillo
+32,Zacatecas,Zac.,011,Trinidad García de la Cadena,TRGC,Trinidad García d la Caden,0001,Trinidad García de la Cadena
+32,Zacatecas,Zac.,012,Genaro Codina,GECO,Genaro Codina,0001,Genaro Codina
+32,Zacatecas,Zac.,013,General Enrique Estrada,GEEE,General Enrique Estrada,0001,General Enrique Estrada
+32,Zacatecas,Zac.,014,General Francisco R. Murguía,GFRM,Gral. Francisco R. Murguía,0001,Nieves
+32,Zacatecas,Zac.,015,El Plateado de Joaquín Amaro,PLJA,El Plateado de Jquín. Amar,0001,El Plateado de Joaquín Amaro
+32,Zacatecas,Zac.,016,General Pánfilo Natera,GEPN,General Pánfilo Natera,0001,General Pánfilo Natera
+32,Zacatecas,Zac.,017,Guadalupe,GUPE,Guadalupe,0001,Guadalupe
+32,Zacatecas,Zac.,018,Huanusco,HUCO,Huanusco,0001,Huanusco
+32,Zacatecas,Zac.,019,Jalpa,JAPA,Jalpa,0001,Jalpa
+32,Zacatecas,Zac.,020,Jerez,JEEZ,Jerez,0001,Jerez de García Salinas
+32,Zacatecas,Zac.,021,Jiménez del Teul,JITE,Jiménez del Teul,0001,Jiménez del Teul
+32,Zacatecas,Zac.,022,Juan Aldama,JUAL,Juan Aldama,0001,Juan Aldama
+32,Zacatecas,Zac.,023,Juchipila,JULA,Juchipila,0001,Juchipila
+32,Zacatecas,Zac.,024,Loreto,LOTO,Loreto,0001,Loreto
+32,Zacatecas,Zac.,025,Luis Moya,LUMO,Luis Moya,0001,Luis Moya
+32,Zacatecas,Zac.,026,Mazapil,MAIL,Mazapil,0001,Mazapil
+32,Zacatecas,Zac.,027,Melchor Ocampo,MEOC,Melchor Ocampo,0001,Melchor Ocampo
+32,Zacatecas,Zac.,028,Mezquital del Oro,MEOR,Mezquital del Oro,0001,Mezquital del Oro
+32,Zacatecas,Zac.,029,Miguel Auza,MIAU,Miguel Auza,0001,Miguel Auza
+32,Zacatecas,Zac.,030,Momax,MOAX,Momax,0001,Momax
+32,Zacatecas,Zac.,031,Monte Escobedo,MOES,Monte Escobedo,0001,Monte Escobedo
+32,Zacatecas,Zac.,032,Morelos,MOOS,Morelos,0001,Morelos
+32,Zacatecas,Zac.,033,Moyahua de Estrada,MYES,Moyahua de Estrada,0001,Moyahua de Estrada
+32,Zacatecas,Zac.,034,Nochistlán de Mejía,NOME,Nochistlán de Mejía,0001,Nochistlán de Mejía
+32,Zacatecas,Zac.,035,Noria de ?ngeles,NOAN,Noria de ?ngeles,0001,Noria de ?ngeles
+32,Zacatecas,Zac.,036,Ojocaliente,OJTE,Ojocaliente,0001,Ojocaliente
+32,Zacatecas,Zac.,037,Pánuco,PANO,Pánuco,0001,Pánuco
+32,Zacatecas,Zac.,038,Pinos,PIOS,Pinos,0001,Pinos
+32,Zacatecas,Zac.,039,Río Grande,RIGR,Río Grande,0001,Río Grande
+32,Zacatecas,Zac.,040,Sain Alto,SAAL,Sain Alto,0001,Sain Alto
+32,Zacatecas,Zac.,041,El Salvador,SAOR,El Salvador,0001,El Salvador
+32,Zacatecas,Zac.,042,Sombrerete,SOTE,Sombrerete,0001,Sombrerete
+32,Zacatecas,Zac.,043,Susticacán,SUAN,Susticacán,0001,Susticacán
+32,Zacatecas,Zac.,044,Tabasco,TACO,Tabasco,0001,Tabasco
+32,Zacatecas,Zac.,045,Tepechitlán,TEAN,Tepechitlán,0001,Tepechitlán
+32,Zacatecas,Zac.,046,Tepetongo,TEPO,Tepetongo,0001,Tepetongo
+32,Zacatecas,Zac.,047,Teúl de González Ortega,TEGO,Teul de González Ortega,0001,Teul de González Ortega
+32,Zacatecas,Zac.,048,Tlaltenango de Sánchez Román,TLSR,Tlaltenango de Schez. Romá,0001,Tlaltenango de Sánchez Román
+32,Zacatecas,Zac.,049,Valparaíso,VASO,Valparaíso,0001,Valparaíso
+32,Zacatecas,Zac.,050,Vetagrande,VEDE,Vetagrande,0001,Vetagrande
+32,Zacatecas,Zac.,051,Villa de Cos,VICO,Villa de Cos,0001,Villa de Cos
+32,Zacatecas,Zac.,052,Villa García,VIGA,Villa García,0001,Villa García
+32,Zacatecas,Zac.,053,Villa González Ortega,VIGO,Villa González Ortega,0001,Villa González Ortega
+32,Zacatecas,Zac.,054,Villa Hidalgo,VIHI,Villa Hidalgo,0001,Villa Hidalgo
+32,Zacatecas,Zac.,055,Villanueva,VIVA,Villanueva,0001,Villanueva
+32,Zacatecas,Zac.,056,Zacatecas,ZAAS,Zacatecas,0001,Zacatecas
+32,Zacatecas,Zac.,057,Trancoso,TRSO,Trancoso,0001,Trancoso
+32,Zacatecas,Zac.,058,Santa María de la Paz,SAMP,Santa María de la Paz,0001,Santa María de la Paz
