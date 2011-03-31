@@ -72,3 +72,20 @@ _Adan Salazar_
 Gente De Salazar "Gente Nueva"
 http://www.youtube.com/watch?v=zOJEmYIiTwc
 
+_Tijuana_
+La banda del Sillas en el CAF
+http://www.zetatijuana.com/html/Edicion1872/Reportajez_La_banda_del_Sillas_en_el_CAF.html
+
+La purga de Sinaloa
+http://www.zetatijuana.com/html/EdicionActual/Principal.html
+
+Sargento Phoenix
+http://www.metroflog.com/Alex_cancer_amor
+
+La Resistencia
+http://www.youtube.com/watch?v=M53afWDqs34&feature=player_embedded#at=32
+
+CJNG
+Contracomunicado del grupo la Resistencia al CJNG 
+http://www.youtube.com/watch?v=hEFhpJzbi-M&feature=player_embedded#at=138
+
